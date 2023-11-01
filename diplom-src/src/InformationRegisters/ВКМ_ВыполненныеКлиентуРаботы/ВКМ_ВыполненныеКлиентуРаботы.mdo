@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="71fa9c0f-0ff1-4d07-a61a-1b51b6583490">
+  <producedTypes>
+    <selectionType typeId="a621d865-e483-4fec-84e5-c9a46f35007f" valueTypeId="f9ffb6e5-98bc-47af-81e9-d50915dfb7d7"/>
+    <listType typeId="d2811a8b-35e6-4264-82ec-871be2afdf8b" valueTypeId="09ec60ce-0951-49db-9173-1150cd02c456"/>
+    <managerType typeId="98c59701-79f6-42b2-8173-0a5e95ccb375" valueTypeId="24d6f518-fedb-4135-a03a-7702ef6ad034"/>
+    <recordSetType typeId="a5139e59-69f9-4ca6-a237-b64d53ca85d2" valueTypeId="7f4f59cf-ccf6-4f7d-bac3-5931feaeaf88"/>
+    <recordKeyType typeId="14aa9355-76d1-446b-a187-1aa636cb7287" valueTypeId="6ad7bd07-0e0a-4f34-b102-f00d31305247"/>
+    <recordType typeId="4501195d-38e8-4c8d-9c0e-40a8f1d4d551" valueTypeId="a40cfb67-468e-4291-8dd9-18fe1af2da0b"/>
+    <recordManagerType typeId="3ae029af-9809-47bc-b800-91205abf8e6c" valueTypeId="91a6c106-a049-45a9-96ca-f86a328e9c82"/>
+  </producedTypes>
+  <name>ВКМ_ВыполненныеКлиентуРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выполненные клиенту работы</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <writeMode>RecorderSubordinate</writeMode>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="b48f50a5-258a-42a3-b4f2-5ec1813caa97">
+    <name>КоличествоЧасов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Количество часов</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>4</precision>
+        <scale>2</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="69a1bfa0-ccab-4ee5-884d-b4957b090f9f">
+    <name>СуммаКОплате</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сумма к оплате</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <dimensions uuid="d84fb94c-43cd-4856-9464-3e0327164367">
+    <name>ВКМ_Клиент</name>
+    <synonym>
+      <key>ru</key>
+      <value>Клиент</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Контрагенты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="6d701553-d701-4bd4-9a5f-7a0e50ac6d3d">
+    <name>ВКМ_Договор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Договор</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ДоговорыКонтрагентов</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>
