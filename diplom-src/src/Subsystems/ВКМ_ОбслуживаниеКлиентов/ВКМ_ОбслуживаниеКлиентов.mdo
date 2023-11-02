@@ -13,4 +13,5 @@
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
   <content>Catalog.ДоговорыКонтрагентов</content>
   <content>DataProcessor.УКО_УправляемаяКонсольОтчетов</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
 </mdclass:Subsystem>

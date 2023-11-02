@@ -1211,9 +1211,6 @@
       <extInfo xsi:type="form:PageGroupExtInfo">
         <group>Vertical</group>
         <showTitle>true</showTitle>
-        <titleDataPath xsi:type="form:DataPath">
-          <segments>13</segments>
-        </titleDataPath>
       </extInfo>
     </items>
     <visible>true</visible>
