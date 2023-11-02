@@ -222,10 +222,7 @@
         <value>Описание работ</value>
       </synonym>
       <type>
-        <types>String</types>
-        <stringQualifiers>
-          <length>255</length>
-        </stringQualifiers>
+        <types>CatalogRef.Номенклатура</types>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
@@ -246,11 +243,11 @@
       </type>
       <format>
         <key>ru</key>
-        <value>ДЛФ=T</value>
+        <value>ДФ=HH:mm</value>
       </format>
       <editFormat>
         <key>ru</key>
-        <value>ДЛФ=T</value>
+        <value>ДФ=HH:mm</value>
       </editFormat>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
@@ -271,11 +268,11 @@
       </type>
       <format>
         <key>ru</key>
-        <value>ДЛФ=T</value>
+        <value>ДФ=HH:mm</value>
       </format>
       <editFormat>
         <key>ru</key>
-        <value>ДЛФ=T</value>
+        <value>ДФ=HH:mm</value>
       </editFormat>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>

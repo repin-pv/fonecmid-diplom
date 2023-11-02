@@ -221,6 +221,10 @@
         <dataPath xsi:type="form:DataPath">
           <segments>Объект.ВКМ_ВремяНачалаРабот</segments>
         </dataPath>
+        <handlers>
+          <event>OnChange</event>
+          <name>ВКМ_ВремяНачалаРаботПриИзменении</name>
+        </handlers>
         <extendedTooltip>
           <name>ВКМ_ВремяНачалаРаботРасширеннаяПодсказка</name>
           <id>21</id>
@@ -277,6 +281,10 @@
         <dataPath xsi:type="form:DataPath">
           <segments>Объект.ВКМ_ВремяОкончанияРабот</segments>
         </dataPath>
+        <handlers>
+          <event>OnChange</event>
+          <name>ВКМ_ВремяОкончанияРаботПриИзменении</name>
+        </handlers>
         <extendedTooltip>
           <name>ВКМ_ВремяОкончанияРаботРасширеннаяПодсказка</name>
           <id>24</id>
