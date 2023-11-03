@@ -14,19 +14,15 @@
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.ВКМ_УведомленияТелеграмБоту.StandardAttribute.Description</inputByString>
-  <inputByString>Catalog.ВКМ_УведомленияТелеграмБоту.StandardAttribute.Code</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
   <fullTextSearch>Use</fullTextSearch>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
-  <codeLength>9</codeLength>
-  <descriptionLength>25</descriptionLength>
+  <descriptionLength>150</descriptionLength>
   <codeType>String</codeType>
   <codeAllowedLength>Variable</codeAllowedLength>
-  <checkUnique>true</checkUnique>
-  <autonumbering>true</autonumbering>
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
@@ -35,7 +31,7 @@
     <name>Текст</name>
     <synonym>
       <key>ru</key>
-      <value>Текст</value>
+      <value>Текст сообщения</value>
     </synonym>
     <type>
       <types>String</types>
