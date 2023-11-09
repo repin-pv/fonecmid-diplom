@@ -17,6 +17,7 @@
     </stringQualifiers>
   </type>
   <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ВКМ_ИдентификаторГруппыДляОповещения</defaultForm>
   <minValue xsi:type="core:UndefinedValue"/>
   <maxValue xsi:type="core:UndefinedValue"/>
   <dataLockControlMode>Managed</dataLockControlMode>
