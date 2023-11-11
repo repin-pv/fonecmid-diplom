@@ -25,7 +25,7 @@
   <autonumbering>true</autonumbering>
   <defaultObjectForm>Document.ВКМ_ОбслуживаниеКлиента.Form.ФормаДокумента</defaultObjectForm>
   <defaultListForm>Document.ВКМ_ОбслуживаниеКлиента.Form.ФормаСписка</defaultListForm>
-  <registerRecords>InformationRegister.ВКМ_ВыполненныеКлиентуРаботы</registerRecords>
+  <registerRecords>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <attributes uuid="f0f78b85-0c66-401b-9b2f-a4d4bed44895">
@@ -236,19 +236,13 @@
         <value>Фактически потрачено часов</value>
       </synonym>
       <type>
-        <types>Date</types>
-        <dateQualifiers>
-          <dateFractions>Time</dateFractions>
-        </dateQualifiers>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>3</precision>
+          <scale>1</scale>
+          <nonNegative>true</nonNegative>
+        </numberQualifiers>
       </type>
-      <format>
-        <key>ru</key>
-        <value>ДФ=HH:mm</value>
-      </format>
-      <editFormat>
-        <key>ru</key>
-        <value>ДФ=HH:mm</value>
-      </editFormat>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
       <dataHistory>Use</dataHistory>
@@ -261,19 +255,12 @@
         <value>Часы к оплате клиенту</value>
       </synonym>
       <type>
-        <types>Date</types>
-        <dateQualifiers>
-          <dateFractions>Time</dateFractions>
-        </dateQualifiers>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>3</precision>
+          <scale>1</scale>
+        </numberQualifiers>
       </type>
-      <format>
-        <key>ru</key>
-        <value>ДФ=HH:mm</value>
-      </format>
-      <editFormat>
-        <key>ru</key>
-        <value>ДФ=HH:mm</value>
-      </editFormat>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
       <dataHistory>Use</dataHistory>
