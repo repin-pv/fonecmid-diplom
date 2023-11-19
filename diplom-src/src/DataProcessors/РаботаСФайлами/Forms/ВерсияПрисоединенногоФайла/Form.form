@@ -363,7 +363,7 @@
       <value>Расширение картинка</value>
     </title>
     <extendedTooltip>
-      <name>РасширениеКартинкаExtendedTooltip</name>
+      <name>РасширениеКартинкаРасширеннаяПодсказка</name>
       <id>64</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -621,7 +621,7 @@
       <value>Дата и номер</value>
     </title>
     <extendedTooltip>
-      <name>ДатаИНомерExtendedTooltip</name>
+      <name>ДатаИНомерРасширеннаяПодсказка</name>
       <id>70</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -715,7 +715,7 @@
       <segments>Кодировка</segments>
     </dataPath>
     <extendedTooltip>
-      <name>КодировкаExtendedTooltip</name>
+      <name>КодировкаРасширеннаяПодсказка</name>
       <id>74</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -869,7 +869,7 @@
           <segments>ТомПолныйПуть</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ТомПолныйПутьExtendedTooltip</name>
+          <name>ТомПолныйПутьРасширеннаяПодсказка</name>
           <id>79</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -918,7 +918,7 @@
         <value>Том</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаТомExtendedTooltip</name>
+        <name>ГруппаТомРасширеннаяПодсказка</name>
         <id>77</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1000,7 +1000,7 @@
       <value>Хранение</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаХранениеExtendedTooltip</name>
+      <name>ГруппаХранениеРасширеннаяПодсказка</name>
       <id>75</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1128,7 +1128,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОткрытьExtendedTooltip</name>
+        <name>ОткрытьРасширеннаяПодсказка</name>
         <id>57</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1167,7 +1167,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСохранитьКакExtendedTooltip</name>
+        <name>ФормаСохранитьКакРасширеннаяПодсказка</name>
         <id>58</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1683,12 +1683,7 @@
     <keyParameter>true</keyParameter>
   </parameters>
   <commandInterface>
-    <navigationPanel>
-      <cmiFragmentRecord>
-        <command>0</command>
-        <userVisible/>
-      </cmiFragmentRecord>
-    </navigationPanel>
+    <navigationPanel/>
     <commandBar/>
   </commandInterface>
 </form:Form>

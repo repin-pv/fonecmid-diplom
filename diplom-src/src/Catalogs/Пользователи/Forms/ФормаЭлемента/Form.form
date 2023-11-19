@@ -685,7 +685,7 @@
             <name>НаименованиеПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>НаименованиеExtendedTooltip</name>
+            <name>НаименованиеРасширеннаяПодсказка</name>
             <id>216</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -744,7 +744,7 @@
             <name>НедействителенПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>НедействителенExtendedTooltip</name>
+            <name>НедействителенРасширеннаяПодсказка</name>
             <id>217</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1891,7 +1891,7 @@
             <value>Свойства аутентификации 1С предприятия</value>
           </title>
           <extendedTooltip>
-            <name>СвойстваАутентификации1СПредприятияExtendedTooltip</name>
+            <name>СвойстваАутентификации1СПредприятияРасширеннаяПодсказка</name>
             <id>223</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2075,7 +2075,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>ДекорацияОтступExtendedTooltip</name>
+                <name>ДекорацияОтступРасширеннаяПодсказка</name>
                 <id>234</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2182,7 +2182,7 @@
               <value>Свойства параметры аутентификации ОС</value>
             </title>
             <extendedTooltip>
-              <name>СвойстваПараметрыАутентификацииОСExtendedTooltip</name>
+              <name>СвойстваПараметрыАутентификацииОСРасширеннаяПодсказка</name>
               <id>233</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2215,7 +2215,7 @@
             <value>Аутентификация операционной системы</value>
           </title>
           <extendedTooltip>
-            <name>СвойстваАутентификацииОСExtendedTooltip</name>
+            <name>СвойстваАутентификацииОСРасширеннаяПодсказка</name>
             <id>231</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2370,7 +2370,7 @@
           </title>
           <horizontalStretch>false</horizontalStretch>
           <extendedTooltip>
-            <name>СвойстваДополнительныеExtendedTooltip</name>
+            <name>СвойстваДополнительныеРасширеннаяПодсказка</name>
             <id>236</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2405,7 +2405,7 @@
           <value>Основные свойства</value>
         </title>
         <extendedTooltip>
-          <name>ОсновныеСвойстваExtendedTooltip</name>
+          <name>ОсновныеСвойстваРасширеннаяПодсказка</name>
           <id>221</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2479,7 +2479,7 @@
                 <name>РолиПометкаПриИзменении</name>
               </handlers>
               <extendedTooltip>
-                <name>РолиПометкаExtendedTooltip</name>
+                <name>РолиПометкаРасширеннаяПодсказка</name>
                 <id>246</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2520,7 +2520,7 @@
                 <segments>Роли.Синоним</segments>
               </dataPath>
               <extendedTooltip>
-                <name>РолиСинонимExtendedTooltip</name>
+                <name>РолиСинонимРасширеннаяПодсказка</name>
                 <id>247</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2569,7 +2569,7 @@
               <value>Роли колонок</value>
             </title>
             <extendedTooltip>
-              <name>РолиКолонокExtendedTooltip</name>
+              <name>РолиКолонокРасширеннаяПодсказка</name>
               <id>245</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2602,7 +2602,7 @@
               </userVisible>
               <skipOnInput>false</skipOnInput>
               <extendedTooltip>
-                <name>РолиУстановитьФлажкиExtendedTooltip</name>
+                <name>РолиУстановитьФлажкиРасширеннаяПодсказка</name>
                 <id>240</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2633,7 +2633,7 @@
               </userVisible>
               <skipOnInput>false</skipOnInput>
               <extendedTooltip>
-                <name>РолиСнятьФлажкиExtendedTooltip</name>
+                <name>РолиСнятьФлажкиРасширеннаяПодсказка</name>
                 <id>241</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2664,7 +2664,7 @@
               </userVisible>
               <skipOnInput>false</skipOnInput>
               <extendedTooltip>
-                <name>РолиПоказатьТолькоВыбранныеРолиExtendedTooltip</name>
+                <name>РолиПоказатьТолькоВыбранныеРолиРасширеннаяПодсказка</name>
                 <id>242</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2694,7 +2694,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>РолиПоказатьПодсистемыРолейExtendedTooltip</name>
+                <name>РолиПоказатьПодсистемыРолейРасширеннаяПодсказка</name>
                 <id>243</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2871,7 +2871,7 @@
             </extInfo>
           </searchControlAddition>
           <extendedTooltip>
-            <name>РолиExtendedTooltip</name>
+            <name>РолиРасширеннаяПодсказка</name>
             <id>244</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2930,7 +2930,7 @@
           <value>Разрешенные действия (роли)</value>
         </title>
         <extendedTooltip>
-          <name>ОтображениеРолейExtendedTooltip</name>
+          <name>ОтображениеРолейРасширеннаяПодсказка</name>
           <id>239</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2963,7 +2963,7 @@
         <value>Главное</value>
       </title>
       <extendedTooltip>
-        <name>СвойстваПользователяИБExtendedTooltip</name>
+        <name>СвойстваПользователяИБРасширеннаяПодсказка</name>
         <id>220</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2996,7 +2996,7 @@
         <value>Адреса, телефоны</value>
       </title>
       <extendedTooltip>
-        <name>КонтактнаяИнформацияExtendedTooltip</name>
+        <name>КонтактнаяИнформацияРасширеннаяПодсказка</name>
         <id>248</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3065,7 +3065,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>КомментарийExtendedTooltip</name>
+          <name>КомментарийРасширеннаяПодсказка</name>
           <id>260</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3142,7 +3142,7 @@
       <value>Страницы</value>
     </title>
     <extendedTooltip>
-      <name>СтраницыExtendedTooltip</name>
+      <name>СтраницыРасширеннаяПодсказка</name>
       <id>219</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -4549,12 +4549,7 @@
     </valueType>
   </parameters>
   <commandInterface>
-    <navigationPanel>
-      <cmiFragmentRecord>
-        <command>0</command>
-        <userVisible/>
-      </cmiFragmentRecord>
-    </navigationPanel>
+    <navigationPanel/>
     <commandBar/>
   </commandInterface>
   <extInfo xsi:type="form:CatalogFormExtInfo">

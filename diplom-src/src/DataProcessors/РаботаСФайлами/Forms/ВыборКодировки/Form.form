@@ -32,7 +32,7 @@
         <segments>СписокКодировок.Value</segments>
       </dataPath>
       <extendedTooltip>
-        <name>СписокКодировокЗначениеExtendedTooltip</name>
+        <name>СписокКодировокЗначениеРасширеннаяПодсказка</name>
         <id>12</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -201,7 +201,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокКодировокExtendedTooltip</name>
+      <name>СписокКодировокРасширеннаяПодсказка</name>
       <id>11</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -266,7 +266,7 @@
       <name>ПоказыватьТолькоОсновныеКодировкиПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>ПоказыватьТолькоОсновныеКодировкиExtendedTooltip</name>
+      <name>ПоказыватьТолькоОсновныеКодировкиРасширеннаяПодсказка</name>
       <id>13</id>
       <visible>true</visible>
       <enabled>true</enabled>

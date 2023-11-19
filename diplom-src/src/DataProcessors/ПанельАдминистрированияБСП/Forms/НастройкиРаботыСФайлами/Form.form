@@ -16,7 +16,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОписаниеРазделаExtendedTooltip</name>
+        <name>ОписаниеРазделаРасширеннаяПодсказка</name>
         <id>2045</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -58,7 +58,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаExtendedTooltip</name>
+          <name>СправкаРасширеннаяПодсказка</name>
           <id>2048</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -89,7 +89,7 @@
         <value>Справка</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСправкаExtendedTooltip</name>
+        <name>ГруппаСправкаРасширеннаяПодсказка</name>
         <id>2047</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -118,7 +118,7 @@
       <value>Заголовок</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЗаголовокExtendedTooltip</name>
+      <name>ГруппаЗаголовокРасширеннаяПодсказка</name>
       <id>2044</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -428,7 +428,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправочникТомаХраненияФайловExtendedTooltip</name>
+          <name>СправочникТомаХраненияФайловРасширеннаяПодсказка</name>
           <id>2054</id>
           <title>
             <key>ru</key>
@@ -466,7 +466,7 @@
       </title>
       <width>40</width>
       <extendedTooltip>
-        <name>ГруппаСправочникТомаХраненияФайловExtendedTooltip</name>
+        <name>ГруппаСправочникТомаХраненияФайловРасширеннаяПодсказка</name>
         <id>2053</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -589,7 +589,7 @@
       <value>Управление томами файлов</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаУправлениеТомамиФайловExtendedTooltip</name>
+      <name>ГруппаУправлениеТомамиФайловРасширеннаяПодсказка</name>
       <id>2049</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1093,7 +1093,7 @@
           <name>ЗапрещатьЗагрузкуФайловПоРасширениюПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ЗапрещатьЗагрузкуФайловПоРасширениюExtendedTooltip</name>
+          <name>ЗапрещатьЗагрузкуФайловПоРасширениюРасширеннаяПодсказка</name>
           <id>2058</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1141,7 +1141,7 @@
           <name>СписокЗапрещенныхРасширенийОбластиДанныхПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>СписокЗапрещенныхРасширенийОбластиДанныхExtendedTooltip</name>
+          <name>СписокЗапрещенныхРасширенийОбластиДанныхРасширеннаяПодсказка</name>
           <id>2059</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1193,7 +1193,7 @@
       </title>
       <toolTipRepresentation>ShowBottom</toolTipRepresentation>
       <extendedTooltip>
-        <name>ГруппаРасширениеExtendedTooltip</name>
+        <name>ГруппаРасширениеРасширеннаяПодсказка</name>
         <id>2057</id>
         <title>
           <key>ru</key>
@@ -1232,7 +1232,7 @@
       <value>Управление загрузкой файлов</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаУправлениеЗагрузкойФайловExtendedTooltip</name>
+      <name>ГруппаУправлениеЗагрузкойФайловРасширеннаяПодсказка</name>
       <id>2056</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1281,7 +1281,7 @@
             <name>МаксимальныйРазмерФайлаОбластиДанныхПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>МаксимальныйРазмерФайлаОбластиДанныхExtendedTooltip</name>
+            <name>МаксимальныйРазмерФайлаОбластиДанныхРасширеннаяПодсказка</name>
             <id>2063</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1334,7 +1334,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ДекорацияМбExtendedTooltip</name>
+            <name>ДекорацияМбРасширеннаяПодсказка</name>
             <id>2064</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1376,7 +1376,7 @@
         </title>
         <toolTipRepresentation>ShowBottom</toolTipRepresentation>
         <extendedTooltip>
-          <name>ГруппаРазмерExtendedTooltip</name>
+          <name>ГруппаРазмерРасширеннаяПодсказка</name>
           <id>2062</id>
           <title>
             <key>ru</key>
@@ -1413,7 +1413,7 @@
       </title>
       <width>43</width>
       <extendedTooltip>
-        <name>ГруппаМаксимальныйРазмерФайлаОбластиДанныхExtendedTooltip</name>
+        <name>ГруппаМаксимальныйРазмерФайлаОбластиДанныхРасширеннаяПодсказка</name>
         <id>2061</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1575,7 +1575,7 @@
           <name>СписокРасширенийФайловOpenDocumentОбластиДанныхПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>СписокРасширенийФайловOpenDocumentОбластиДанныхExtendedTooltip</name>
+          <name>СписокРасширенийФайловOpenDocumentОбластиДанныхРасширеннаяПодсказка</name>
           <id>2067</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1627,7 +1627,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПояснениеСписокРасширенийФайловOpenDocumentОбластиДанныхExtendedTooltip</name>
+          <name>ПояснениеСписокРасширенийФайловOpenDocumentОбластиДанныхРасширеннаяПодсказка</name>
           <id>2068</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1671,7 +1671,7 @@
       </title>
       <toolTipRepresentation>ShowBottom</toolTipRepresentation>
       <extendedTooltip>
-        <name>ГруппаСписокРасширенийФайловOpenDocumentОбластиДанныхExtendedTooltip</name>
+        <name>ГруппаСписокРасширенийФайловOpenDocumentОбластиДанныхРасширеннаяПодсказка</name>
         <id>2066</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1716,7 +1716,7 @@
           <name>СписокРасширенийТекстовыхФайловПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>СписокРасширенийТекстовыхФайловExtendedTooltip</name>
+          <name>СписокРасширенийТекстовыхФайловРасширеннаяПодсказка</name>
           <id>2070</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1768,7 +1768,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПояснениеСписокРасширенийТекстовыхФайловExtendedTooltip</name>
+          <name>ПояснениеСписокРасширенийТекстовыхФайловРасширеннаяПодсказка</name>
           <id>2071</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1811,7 +1811,7 @@
         <value>Список расширений текстовых файлов</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСписокРасширенийТекстовыхФайловExtendedTooltip</name>
+        <name>ГруппаСписокРасширенийТекстовыхФайловРасширеннаяПодсказка</name>
         <id>2069</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2089,7 +2089,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПояснениеОбщиеПараметрыДляВсехОбластейДанныхExtendedTooltip</name>
+          <name>ПояснениеОбщиеПараметрыДляВсехОбластейДанныхРасширеннаяПодсказка</name>
           <id>2084</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2144,7 +2144,7 @@
               <name>МаксимальныйРазмерФайлаПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>МаксимальныйРазмерФайлаExtendedTooltip</name>
+              <name>МаксимальныйРазмерФайлаРасширеннаяПодсказка</name>
               <id>2087</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2196,7 +2196,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ДекорацияМб1ExtendedTooltip</name>
+              <name>ДекорацияМб1РасширеннаяПодсказка</name>
               <id>2088</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2238,7 +2238,7 @@
           </title>
           <toolTipRepresentation>ShowBottom</toolTipRepresentation>
           <extendedTooltip>
-            <name>ГруппаРазмер1ExtendedTooltip</name>
+            <name>ГруппаРазмер1РасширеннаяПодсказка</name>
             <id>2086</id>
             <title>
               <key>ru</key>
@@ -2274,7 +2274,7 @@
           <value>Максимальный размер файла</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаМаксимальныйРазмерФайлаExtendedTooltip</name>
+          <name>ГруппаМаксимальныйРазмерФайлаРасширеннаяПодсказка</name>
           <id>2085</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2324,7 +2324,7 @@
               <name>СписокЗапрещенныхРасширенийПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>СписокЗапрещенныхРасширенийExtendedTooltip</name>
+              <name>СписокЗапрещенныхРасширенийРасширеннаяПодсказка</name>
               <id>2091</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2376,7 +2376,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПояснениеЗапретЗагрузкиФайловПоРасширению2ExtendedTooltip</name>
+              <name>ПояснениеЗапретЗагрузкиФайловПоРасширению2РасширеннаяПодсказка</name>
               <id>2092</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2420,7 +2420,7 @@
           </title>
           <toolTipRepresentation>ShowBottom</toolTipRepresentation>
           <extendedTooltip>
-            <name>ГруппаСписокЗапрещенныхРасширенийExtendedTooltip</name>
+            <name>ГруппаСписокЗапрещенныхРасширенийРасширеннаяПодсказка</name>
             <id>2090</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2466,7 +2466,7 @@
               <name>СписокРасширенийФайловOpenDocumentПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>СписокРасширенийФайловOpenDocumentExtendedTooltip</name>
+              <name>СписокРасширенийФайловOpenDocumentРасширеннаяПодсказка</name>
               <id>2094</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2517,7 +2517,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПояснениеСписокРасширенийФайловOpenDocumentExtendedTooltip</name>
+              <name>ПояснениеСписокРасширенийФайловOpenDocumentРасширеннаяПодсказка</name>
               <id>2095</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2560,7 +2560,7 @@
             <value>Список расширений файлов open document</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаСписокРасширенийФайловOpenDocumentExtendedTooltip</name>
+            <name>ГруппаСписокРасширенийФайловOpenDocumentРасширеннаяПодсказка</name>
             <id>2093</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2626,7 +2626,7 @@
         <value>Общие параметры для всех областей данных</value>
       </title>
       <extendedTooltip>
-        <name>ОбщиеПараметрыДляВсехОбластейДанныхExtendedTooltip</name>
+        <name>ОбщиеПараметрыДляВсехОбластейДанныхРасширеннаяПодсказка</name>
         <id>2083</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2661,7 +2661,7 @@
       <value>Отступ 1</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаОтступ1ExtendedTooltip</name>
+      <name>ГруппаОтступ1РасширеннаяПодсказка</name>
       <id>2082</id>
       <visible>true</visible>
       <enabled>true</enabled>

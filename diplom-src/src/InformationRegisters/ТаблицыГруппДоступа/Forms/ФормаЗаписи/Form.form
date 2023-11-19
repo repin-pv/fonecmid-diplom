@@ -12,7 +12,7 @@
       <segments>Запись.Таблица</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ТаблицаExtendedTooltip</name>
+      <name>ТаблицаРасширеннаяПодсказка</name>
       <id>23</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -63,7 +63,7 @@
       <segments>Запись.ГруппаДоступа</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ГруппаДоступаExtendedTooltip</name>
+      <name>ГруппаДоступаРасширеннаяПодсказка</name>
       <id>24</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -491,7 +491,7 @@
       <segments>Запись.ТипТаблицы</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ТипТаблицыExtendedTooltip</name>
+      <name>ТипТаблицыРасширеннаяПодсказка</name>
       <id>29</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -541,7 +541,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВозможностьРедактированияExtendedTooltip</name>
+        <name>ФормаВключитьВозможностьРедактированияРасширеннаяПодсказка</name>
         <id>22</id>
         <visible>true</visible>
         <enabled>true</enabled>

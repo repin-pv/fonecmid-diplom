@@ -149,7 +149,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ЗавершитьИЗакрытьExtendedTooltip</name>
+        <name>ЗавершитьИЗакрытьРасширеннаяПодсказка</name>
         <id>99</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -187,7 +187,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ВыбратьГруппуВнешнихПользователейExtendedTooltip</name>
+        <name>ВыбратьГруппуВнешнихПользователейРасширеннаяПодсказка</name>
         <id>100</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -221,7 +221,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ВыбратьВнешнегоПользователяExtendedTooltip</name>
+        <name>ВыбратьВнешнегоПользователяРасширеннаяПодсказка</name>
         <id>101</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -252,7 +252,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СоздатьВнешнегоПользователяExtendedTooltip</name>
+        <name>СоздатьВнешнегоПользователяРасширеннаяПодсказка</name>
         <id>102</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -283,7 +283,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СоздатьГруппуВнешнихПользователейExtendedTooltip</name>
+        <name>СоздатьГруппуВнешнихПользователейРасширеннаяПодсказка</name>
         <id>103</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -313,7 +313,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>НазначитьГруппыExtendedTooltip</name>
+        <name>НазначитьГруппыРасширеннаяПодсказка</name>
         <id>104</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -531,7 +531,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ПользователиИБExtendedTooltip</name>
+          <name>ПользователиИБРасширеннаяПодсказка</name>
           <id>107</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -594,7 +594,7 @@
         <value>Командная панель внешние пользователи</value>
       </title>
       <extendedTooltip>
-        <name>КоманднаяПанельВнешниеПользователиExtendedTooltip</name>
+        <name>КоманднаяПанельВнешниеПользователиРасширеннаяПодсказка</name>
         <id>105</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -619,7 +619,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>108</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -793,7 +793,7 @@
               <segments>ГруппыВнешнихПользователей.Description</segments>
             </dataPath>
             <extendedTooltip>
-              <name>НаименованиеГруппыExtendedTooltip</name>
+              <name>НаименованиеГруппыРасширеннаяПодсказка</name>
               <id>113</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1025,7 +1025,7 @@
             </extInfo>
           </searchControlAddition>
           <extendedTooltip>
-            <name>ГруппыВнешнихПользователейExtendedTooltip</name>
+            <name>ГруппыВнешнихПользователейРасширеннаяПодсказка</name>
             <id>112</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1128,7 +1128,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ВыбратьГруппуExtendedTooltip</name>
+              <name>ВыбратьГруппуРасширеннаяПодсказка</name>
               <id>116</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1160,7 +1160,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОтменитьВыборПользователяИлиГруппыExtendedTooltip</name>
+              <name>ОтменитьВыборПользователяИлиГруппыРасширеннаяПодсказка</name>
               <id>117</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1192,7 +1192,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОчиститьСписокВыбранныхПользователейИГруппExtendedTooltip</name>
+              <name>ОчиститьСписокВыбранныхПользователейИГруппРасширеннаяПодсказка</name>
               <id>118</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1225,7 +1225,7 @@
           </title>
           <verticalStretch>true</verticalStretch>
           <extendedTooltip>
-            <name>ГруппаВыбратьГруппуExtendedTooltip</name>
+            <name>ГруппаВыбратьГруппуРасширеннаяПодсказка</name>
             <id>114</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1259,7 +1259,7 @@
           <value>Группы пользователей</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаГруппыExtendedTooltip</name>
+          <name>ГруппаГруппыРасширеннаяПодсказка</name>
           <id>111</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1317,7 +1317,7 @@
               <segments>ВнешниеПользователиСписок.Description</segments>
             </dataPath>
             <extendedTooltip>
-              <name>НаименованиеExtendedTooltip</name>
+              <name>НаименованиеРасширеннаяПодсказка</name>
               <id>122</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1548,7 +1548,7 @@
             </extInfo>
           </searchControlAddition>
           <extendedTooltip>
-            <name>ВнешниеПользователиСписокExtendedTooltip</name>
+            <name>ВнешниеПользователиСписокРасширеннаяПодсказка</name>
             <id>121</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1725,7 +1725,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>ВнешниеПользователиСписокКонтекстноеМенюНазначитьГруппыExtendedTooltip</name>
+                <name>ВнешниеПользователиСписокКонтекстноеМенюНазначитьГруппыРасширеннаяПодсказка</name>
                 <id>120</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1829,7 +1829,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ВыбратьПользователяКомандаExtendedTooltip</name>
+              <name>ВыбратьПользователяКомандаРасширеннаяПодсказка</name>
               <id>125</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1860,7 +1860,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОтменитьВыборПользователяExtendedTooltip</name>
+              <name>ОтменитьВыборПользователяРасширеннаяПодсказка</name>
               <id>126</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1891,7 +1891,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОчиститьСписокВыбранныхExtendedTooltip</name>
+              <name>ОчиститьСписокВыбранныхРасширеннаяПодсказка</name>
               <id>127</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1924,7 +1924,7 @@
           </title>
           <verticalStretch>true</verticalStretch>
           <extendedTooltip>
-            <name>ГруппаВыбратьПользователяExtendedTooltip</name>
+            <name>ГруппаВыбратьПользователяРасширеннаяПодсказка</name>
             <id>123</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1958,7 +1958,7 @@
           <value>Пользователи</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаПользователиExtendedTooltip</name>
+          <name>ГруппаПользователиРасширеннаяПодсказка</name>
           <id>119</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1991,7 +1991,7 @@
         <value>Группы и пользователи</value>
       </title>
       <extendedTooltip>
-        <name>ГруппыИПользователиExtendedTooltip</name>
+        <name>ГруппыИПользователиРасширеннаяПодсказка</name>
         <id>110</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2054,7 +2054,7 @@
             <segments>ВыбранныеПользователиИГруппы.Пользователь</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ПользователиИГруппыExtendedTooltip</name>
+            <name>ПользователиИГруппыРасширеннаяПодсказка</name>
             <id>130</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2229,7 +2229,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>СписокВыбранныхПользователейИГруппExtendedTooltip</name>
+          <name>СписокВыбранныхПользователейИГруппРасширеннаяПодсказка</name>
           <id>129</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2288,7 +2288,7 @@
         <value>Выбранные пользователи и группы</value>
       </title>
       <extendedTooltip>
-        <name>ВыбранныеПользователиИГруппыExtendedTooltip</name>
+        <name>ВыбранныеПользователиИГруппыРасширеннаяПодсказка</name>
         <id>128</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2365,7 +2365,7 @@
         <name>ВыбиратьИерархическиПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ВыбиратьИерархическиExtendedTooltip</name>
+        <name>ВыбиратьИерархическиРасширеннаяПодсказка</name>
         <id>132</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2454,7 +2454,7 @@
       <value>Показывать внешних пользователей дочерних групп</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаПоказыватьВнешнихПользователейДочернихГруппExtendedTooltip</name>
+      <name>ГруппаПоказыватьВнешнихПользователейДочернихГруппРасширеннаяПодсказка</name>
       <id>131</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -3345,6 +3345,9 @@
     <commandBar>
       <cmiFragmentRecord>
         <command>CommonCommand.ДополнительныеСведенияКоманднаяПанель</command>
+        <commandParameter xsi:type="form:DataPath">
+          <segments>Items.ВнешниеПользователиСписок.CurrentData</segments>
+        </commandParameter>
         <group>FormCommandBarImportant</group>
         <index>0</index>
         <userVisible/>

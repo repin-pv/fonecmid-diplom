@@ -18,7 +18,7 @@
       <common>true</common>
     </userVisible>
     <extendedTooltip>
-      <name>ДекорацияПояснениеExtendedTooltip</name>
+      <name>ДекорацияПояснениеРасширеннаяПодсказка</name>
       <id>14</id>
       <visible>true</visible>
       <enabled>true</enabled>

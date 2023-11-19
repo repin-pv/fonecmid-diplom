@@ -20,7 +20,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КартинкаПредупрежденияExtendedTooltip</name>
+        <name>КартинкаПредупрежденияРасширеннаяПодсказка</name>
         <id>34</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -66,7 +66,7 @@
       </title>
       <shortcut>Ctrl+S</shortcut>
       <extendedTooltip>
-        <name>ОсновнаяГруппаExtendedTooltip</name>
+        <name>ОсновнаяГруппаРасширеннаяПодсказка</name>
         <id>35</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -100,7 +100,7 @@
       <value>Верхняя группа</value>
     </title>
     <extendedTooltip>
-      <name>ВерхняяГруппаExtendedTooltip</name>
+      <name>ВерхняяГруппаРасширеннаяПодсказка</name>
       <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -136,7 +136,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаДаExtendedTooltip</name>
+        <name>ФормаДаРасширеннаяПодсказка</name>
         <id>31</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -167,7 +167,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОтменаExtendedTooltip</name>
+        <name>ФормаОтменаРасширеннаяПодсказка</name>
         <id>32</id>
         <visible>true</visible>
         <enabled>true</enabled>

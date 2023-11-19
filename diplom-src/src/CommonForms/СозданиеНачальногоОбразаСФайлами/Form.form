@@ -27,7 +27,7 @@
           <name>ВидБазыПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ВидБазыExtendedTooltip</name>
+          <name>ВидБазыРасширеннаяПодсказка</name>
           <id>51</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -99,7 +99,7 @@
                 <segments>Язык</segments>
               </dataPath>
               <extendedTooltip>
-                <name>ЯзыкФайловойБазыExtendedTooltip</name>
+                <name>ЯзыкФайловойБазыРасширеннаяПодсказка</name>
                 <id>55</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -161,7 +161,7 @@
                   <name>ПолноеИмяФайловойБазыПриИзменении</name>
                 </handlers>
                 <extendedTooltip>
-                  <name>ПолноеИмяФайловойБазыExtendedTooltip</name>
+                  <name>ПолноеИмяФайловойБазыРасширеннаяПодсказка</name>
                   <id>57</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -221,7 +221,7 @@
                 </dataPath>
                 <titleLocation>Top</titleLocation>
                 <extendedTooltip>
-                  <name>ПолноеИмяФайловойБазыLinuxExtendedTooltip</name>
+                  <name>ПолноеИмяФайловойБазыLinuxРасширеннаяПодсказка</name>
                   <id>58</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -269,7 +269,7 @@
                 <value>Полное имя файловой базы</value>
               </title>
               <extendedTooltip>
-                <name>ГруппаПутьФайловойБазыExtendedTooltip</name>
+                <name>ГруппаПутьФайловойБазыРасширеннаяПодсказка</name>
                 <id>56</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -304,7 +304,7 @@
               <value>Заполнить параметры файловой базы</value>
             </title>
             <extendedTooltip>
-              <name>ЗаполнитьПараметрыФайловойБазыExtendedTooltip</name>
+              <name>ЗаполнитьПараметрыФайловойБазыРасширеннаяПодсказка</name>
               <id>54</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -342,7 +342,7 @@
                   <segments>Сервер</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>СерверExtendedTooltip</name>
+                  <name>СерверРасширеннаяПодсказка</name>
                   <id>60</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -392,7 +392,7 @@
                   <segments>ИмяБазы</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ИмяБазыExtendedTooltip</name>
+                  <name>ИмяБазыРасширеннаяПодсказка</name>
                   <id>61</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -442,7 +442,7 @@
                   <segments>ЗащищенноеСоединение</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ЗащищенноеСоединениеExtendedTooltip</name>
+                  <name>ЗащищенноеСоединениеРасширеннаяПодсказка</name>
                   <id>62</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -521,7 +521,7 @@
                   <segments>Язык</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ЯзыкБазыСервераExtendedTooltip</name>
+                  <name>ЯзыкБазыСервераРасширеннаяПодсказка</name>
                   <id>69</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -571,7 +571,7 @@
                 </dataPath>
                 <titleLocation>Right</titleLocation>
                 <extendedTooltip>
-                  <name>УстановитьБлокировкуРегламентныхЗаданийExtendedTooltip</name>
+                  <name>УстановитьБлокировкуРегламентныхЗаданийРасширеннаяПодсказка</name>
                   <id>70</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -650,7 +650,7 @@
                   <segments>ТипСУБД</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ТипСУБДExtendedTooltip</name>
+                  <name>ТипСУБДРасширеннаяПодсказка</name>
                   <id>63</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -736,7 +736,7 @@
                   <segments>СерверБазыДанных</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>СерверБазыДанныхExtendedTooltip</name>
+                  <name>СерверБазыДанныхРасширеннаяПодсказка</name>
                   <id>64</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -786,7 +786,7 @@
                   <segments>ИмяБазыДанных</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ИмяБазыДанныхExtendedTooltip</name>
+                  <name>ИмяБазыДанныхРасширеннаяПодсказка</name>
                   <id>65</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -835,7 +835,7 @@
                   <segments>ПользовательБазыДанных</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ПользовательБазыДанныхExtendedTooltip</name>
+                  <name>ПользовательБазыДанныхРасширеннаяПодсказка</name>
                   <id>66</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -884,7 +884,7 @@
                   <segments>ПарольПользователя</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ПарольПользователяExtendedTooltip</name>
+                  <name>ПарольПользователяРасширеннаяПодсказка</name>
                   <id>67</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -934,7 +934,7 @@
                   <segments>СмещениеДат</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>СмещениеДатExtendedTooltip</name>
+                  <name>СмещениеДатРасширеннаяПодсказка</name>
                   <id>68</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1033,7 +1033,7 @@
               <value>Заполнить параметры серверной базы</value>
             </title>
             <extendedTooltip>
-              <name>ЗаполнитьПараметрыСервернойБазыExtendedTooltip</name>
+              <name>ЗаполнитьПараметрыСервернойБазыРасширеннаяПодсказка</name>
               <id>59</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1063,7 +1063,7 @@
             <value>Страницы</value>
           </title>
           <extendedTooltip>
-            <name>СтраницыExtendedTooltip</name>
+            <name>СтраницыРасширеннаяПодсказка</name>
             <id>53</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1092,7 +1092,7 @@
           <value>Параметры информационной базы</value>
         </title>
         <extendedTooltip>
-          <name>ПараметрыExtendedTooltip</name>
+          <name>ПараметрыРасширеннаяПодсказка</name>
           <id>52</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1137,7 +1137,7 @@
           </dataPath>
           <titleLocation>Top</titleLocation>
           <extendedTooltip>
-            <name>ПутьКАрхивуСФайламиТомовExtendedTooltip</name>
+            <name>ПутьКАрхивуСФайламиТомовРасширеннаяПодсказка</name>
             <id>72</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1197,7 +1197,7 @@
           </dataPath>
           <titleLocation>Top</titleLocation>
           <extendedTooltip>
-            <name>ПутьКАрхивуСФайламиТомовLinuxExtendedTooltip</name>
+            <name>ПутьКАрхивуСФайламиТомовLinuxРасширеннаяПодсказка</name>
             <id>73</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1245,7 +1245,7 @@
           <value>Полное имя архива с файлами томов</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаПутьКАрхивуСФайламиТомовExtendedTooltip</name>
+          <name>ГруппаПутьКАрхивуСФайламиТомовРасширеннаяПодсказка</name>
           <id>71</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1283,7 +1283,7 @@
           <value>Панель действий</value>
         </title>
         <extendedTooltip>
-          <name>ПанельДействийExtendedTooltip</name>
+          <name>ПанельДействийРасширеннаяПодсказка</name>
           <id>74</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1628,7 +1628,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СоздатьНачальныйОбразExtendedTooltip</name>
+        <name>СоздатьНачальныйОбразРасширеннаяПодсказка</name>
         <id>48</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1664,7 +1664,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ЗакрытьExtendedTooltip</name>
+        <name>ЗакрытьРасширеннаяПодсказка</name>
         <id>49</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1694,7 +1694,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>50</id>
         <visible>true</visible>
         <enabled>true</enabled>

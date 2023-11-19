@@ -16,7 +16,7 @@
       <segments>ПредставлениеХранилищаФайлов</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ПредставлениеХранилищаФайловExtendedTooltip</name>
+      <name>ПредставлениеХранилищаФайловРасширеннаяПодсказка</name>
       <id>22</id>
       <visible>true</visible>
       <enabled>true</enabled>

@@ -46,7 +46,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>ИспользуетсяExtendedTooltip</name>
+          <name>ИспользуетсяРасширеннаяПодсказка</name>
           <id>17</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -89,7 +89,7 @@
           <segments>Разделы.Представление</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПредставлениеExtendedTooltip</name>
+          <name>ПредставлениеРасширеннаяПодсказка</name>
           <id>18</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -137,7 +137,7 @@
         <value>Колонок</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаКолонокExtendedTooltip</name>
+        <name>ГруппаКолонокРасширеннаяПодсказка</name>
         <id>16</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -283,7 +283,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>РазделыExtendedTooltip</name>
+      <name>РазделыРасширеннаяПодсказка</name>
       <id>15</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -341,7 +341,7 @@
       <defaultItem>true</defaultItem>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОКExtendedTooltip</name>
+        <name>ОКРасширеннаяПодсказка</name>
         <id>13</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -373,7 +373,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаExtendedTooltip</name>
+        <name>ОтменаРасширеннаяПодсказка</name>
         <id>14</id>
         <visible>true</visible>
         <enabled>true</enabled>

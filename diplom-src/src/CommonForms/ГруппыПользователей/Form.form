@@ -22,7 +22,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаЗаписатьИЗакрытьExtendedTooltip</name>
+            <name>ФормаЗаписатьИЗакрытьРасширеннаяПодсказка</name>
             <id>30</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -53,7 +53,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаИсключитьИзВсехГруппExtendedTooltip</name>
+            <name>ФормаИсключитьИзВсехГруппРасширеннаяПодсказка</name>
             <id>31</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -83,7 +83,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ВывестиСписокExtendedTooltip</name>
+            <name>ВывестиСписокРасширеннаяПодсказка</name>
             <id>32</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -114,7 +114,7 @@
           <value>Командная панель</value>
         </title>
         <extendedTooltip>
-          <name>КоманднаяПанельExtendedTooltip</name>
+          <name>КоманднаяПанельРасширеннаяПодсказка</name>
           <id>29</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -181,7 +181,7 @@
               <name>ДеревоГруппПометкаПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ДеревоГруппПометкаExtendedTooltip</name>
+              <name>ДеревоГруппПометкаРасширеннаяПодсказка</name>
               <id>37</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -225,7 +225,7 @@
               <segments>ДеревоГрупп.Картинка</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ДеревоГруппКартинкаExtendedTooltip</name>
+              <name>ДеревоГруппКартинкаРасширеннаяПодсказка</name>
               <id>38</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -277,7 +277,7 @@
               <segments>ДеревоГрупп.Группа</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ДеревоГруппГруппаExtendedTooltip</name>
+              <name>ДеревоГруппГруппаРасширеннаяПодсказка</name>
               <id>39</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -327,7 +327,7 @@
             <value>Пометка картинка</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаПометкаКартинкаExtendedTooltip</name>
+            <name>ГруппаПометкаКартинкаРасширеннаяПодсказка</name>
             <id>36</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -478,7 +478,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ДеревоГруппExtendedTooltip</name>
+          <name>ДеревоГруппРасширеннаяПодсказка</name>
           <id>35</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -530,7 +530,7 @@
         <value>Группа</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаExtendedTooltip</name>
+        <name>ГруппаРасширеннаяПодсказка</name>
         <id>28</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -566,7 +566,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КартинкаПредупрежденияExtendedTooltip</name>
+          <name>КартинкаПредупрежденияРасширеннаяПодсказка</name>
           <id>41</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -611,7 +611,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстПредупрежденияExtendedTooltip</name>
+          <name>ТекстПредупрежденияРасширеннаяПодсказка</name>
           <id>42</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -653,7 +653,7 @@
         <value>Предупреждение</value>
       </title>
       <extendedTooltip>
-        <name>ПредупреждениеExtendedTooltip</name>
+        <name>ПредупреждениеРасширеннаяПодсказка</name>
         <id>40</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -683,7 +683,7 @@
       <value>Группы или предупреждение</value>
     </title>
     <extendedTooltip>
-      <name>ГруппыИлиПредупреждениеExtendedTooltip</name>
+      <name>ГруппыИлиПредупреждениеРасширеннаяПодсказка</name>
       <id>27</id>
       <visible>true</visible>
       <enabled>true</enabled>

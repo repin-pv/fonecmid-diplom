@@ -68,7 +68,7 @@
       <value>Быстрые фильтры</value>
     </title>
     <extendedTooltip>
-      <name>БыстрыеОтборыExtendedTooltip</name>
+      <name>БыстрыеОтборыРасширеннаяПодсказка</name>
       <id>31</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -104,7 +104,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВыбратьExtendedTooltip</name>
+        <name>ВыбратьРасширеннаяПодсказка</name>
         <id>34</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -135,7 +135,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ИзменитьExtendedTooltip</name>
+        <name>ИзменитьРасширеннаяПодсказка</name>
         <id>35</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -169,7 +169,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>УдалитьExtendedTooltip</name>
+        <name>УдалитьРасширеннаяПодсказка</name>
         <id>36</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -202,7 +202,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовExtendedTooltip</name>
+        <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовРасширеннаяПодсказка</name>
         <id>37</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -232,7 +232,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОбновитьExtendedTooltip</name>
+        <name>ФормаОбновитьРасширеннаяПодсказка</name>
         <id>38</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -266,7 +266,7 @@
         <value>Командная панель дерева</value>
       </title>
       <extendedTooltip>
-        <name>КоманднаяПанельДереваExtendedTooltip</name>
+        <name>КоманднаяПанельДереваРасширеннаяПодсказка</name>
         <id>39</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -294,7 +294,7 @@
       <value>Основная командная панель</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяКоманднаяПанельExtendedTooltip</name>
+      <name>ОсновнаяКоманднаяПанельРасширеннаяПодсказка</name>
       <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -351,7 +351,7 @@
         <segments>ДеревоВариантовОтчета.Наименование</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаПредставлениеExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаПредставлениеРасширеннаяПодсказка</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -405,7 +405,7 @@
         <value>Доступен всем пользователям</value>
       </toolTip>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаКартинкаАвтораExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаКартинкаАвтораРасширеннаяПодсказка</name>
         <id>44</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -458,7 +458,7 @@
         <segments>ДеревоВариантовОтчета.Автор</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ДеревоВариантовОтчетаАвторExtendedTooltip</name>
+        <name>ДеревоВариантовОтчетаАвторРасширеннаяПодсказка</name>
         <id>45</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -648,7 +648,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ДеревоВариантовОтчетаExtendedTooltip</name>
+      <name>ДеревоВариантовОтчетаРасширеннаяПодсказка</name>
       <id>42</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -678,7 +678,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>УдалитьКМExtendedTooltip</name>
+          <name>УдалитьКМРасширеннаяПодсказка</name>
           <id>40</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -711,7 +711,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовКМExtendedTooltip</name>
+          <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовКМРасширеннаяПодсказка</name>
           <id>41</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -782,7 +782,7 @@
     </dataPath>
     <titleLocation>Left</titleLocation>
     <extendedTooltip>
-      <name>ВариантОписаниеExtendedTooltip</name>
+      <name>ВариантОписаниеРасширеннаяПодсказка</name>
       <id>46</id>
       <visible>true</visible>
       <enabled>true</enabled>

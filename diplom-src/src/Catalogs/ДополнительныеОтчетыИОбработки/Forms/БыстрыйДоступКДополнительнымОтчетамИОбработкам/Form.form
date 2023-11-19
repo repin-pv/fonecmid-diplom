@@ -41,7 +41,7 @@
           <segments>ВсеПользователи.Пользователь</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПользователиСсылкаExtendedTooltip</name>
+          <name>ПользователиСсылкаРасширеннаяПодсказка</name>
           <id>37</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -93,7 +93,7 @@
           </userVisible>
           <skipOnInput>false</skipOnInput>
           <extendedTooltip>
-            <name>ПользователиНайтиExtendedTooltip</name>
+            <name>ПользователиНайтиРасширеннаяПодсказка</name>
             <id>34</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -124,7 +124,7 @@
           </userVisible>
           <skipOnInput>false</skipOnInput>
           <extendedTooltip>
-            <name>ПользователиОтменитьПоискExtendedTooltip</name>
+            <name>ПользователиОтменитьПоискРасширеннаяПодсказка</name>
             <id>35</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -277,7 +277,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>ВсеПользователиExtendedTooltip</name>
+        <name>ВсеПользователиРасширеннаяПодсказка</name>
         <id>36</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -332,7 +332,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>УстановитьКомандуДляВыделенныхПользователейExtendedTooltip</name>
+          <name>УстановитьКомандуДляВыделенныхПользователейРасширеннаяПодсказка</name>
           <id>40</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -363,7 +363,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>УстановитьДоступДляВсехПользователейExtendedTooltip</name>
+          <name>УстановитьДоступДляВсехПользователейРасширеннаяПодсказка</name>
           <id>41</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -394,7 +394,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>УбратьДоступККомандеУВсехПользователейExtendedTooltip</name>
+          <name>УбратьДоступККомандеУВсехПользователейРасширеннаяПодсказка</name>
           <id>42</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -425,7 +425,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>УбратьДоступККомандеУВыделенныхПользователейExtendedTooltip</name>
+          <name>УбратьДоступККомандеУВыделенныхПользователейРасширеннаяПодсказка</name>
           <id>43</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -459,7 +459,7 @@
       <enableContentChange>true</enableContentChange>
       <groupVerticalAlign>Center</groupVerticalAlign>
       <extendedTooltip>
-        <name>КомандыУправленияСпискомExtendedTooltip</name>
+        <name>КомандыУправленияСпискомРасширеннаяПодсказка</name>
         <id>38</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -520,7 +520,7 @@
           <segments>ПользователиКороткогоСписка.Пользователь</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПользователиКороткогоСпискаПользовательExtendedTooltip</name>
+          <name>ПользователиКороткогоСпискаПользовательРасширеннаяПодсказка</name>
           <id>47</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -572,7 +572,7 @@
           </userVisible>
           <skipOnInput>false</skipOnInput>
           <extendedTooltip>
-            <name>ПользователиКороткогоСпискаНайтиExtendedTooltip</name>
+            <name>ПользователиКороткогоСпискаНайтиРасширеннаяПодсказка</name>
             <id>44</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -603,7 +603,7 @@
           </userVisible>
           <skipOnInput>false</skipOnInput>
           <extendedTooltip>
-            <name>ПользователиКороткогоСпискаОтменитьПоискExtendedTooltip</name>
+            <name>ПользователиКороткогоСпискаОтменитьПоискРасширеннаяПодсказка</name>
             <id>45</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -756,7 +756,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>ПользователиКороткогоСпискаExtendedTooltip</name>
+        <name>ПользователиКороткогоСпискаРасширеннаяПодсказка</name>
         <id>46</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -809,7 +809,7 @@
       <value>Пользователи</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаПользователиExtendedTooltip</name>
+      <name>ГруппаПользователиРасширеннаяПодсказка</name>
       <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -846,7 +846,7 @@
       <defaultItem>true</defaultItem>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОКExtendedTooltip</name>
+        <name>ОКРасширеннаяПодсказка</name>
         <id>31</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -878,7 +878,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаExtendedTooltip</name>
+        <name>ОтменаРасширеннаяПодсказка</name>
         <id>32</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -22,7 +22,7 @@
           <segments>Разрешение</segments>
         </dataPath>
         <extendedTooltip>
-          <name>РазрешениеExtendedTooltip</name>
+          <name>РазрешениеРасширеннаяПодсказка</name>
           <id>63</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -74,7 +74,7 @@
           <segments>Цветность</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ЦветностьExtendedTooltip</name>
+          <name>ЦветностьРасширеннаяПодсказка</name>
           <id>64</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -130,7 +130,7 @@
           <segments>Поворот</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПоворотExtendedTooltip</name>
+          <name>ПоворотРасширеннаяПодсказка</name>
           <id>65</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -182,7 +182,7 @@
           <segments>РазмерБумаги</segments>
         </dataPath>
         <extendedTooltip>
-          <name>РазмерБумагиExtendedTooltip</name>
+          <name>РазмерБумагиРасширеннаяПодсказка</name>
           <id>66</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -235,7 +235,7 @@
         </dataPath>
         <titleLocation>Right</titleLocation>
         <extendedTooltip>
-          <name>ДвустороннееСканированиеExtendedTooltip</name>
+          <name>ДвустороннееСканированиеРасширеннаяПодсказка</name>
           <id>67</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -279,7 +279,7 @@
         </dataPath>
         <titleLocation>Right</titleLocation>
         <extendedTooltip>
-          <name>ПоказыватьДиалогСканераExtendedTooltip</name>
+          <name>ПоказыватьДиалогСканераРасширеннаяПодсказка</name>
           <id>68</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -370,7 +370,7 @@
               <name>ФорматХраненияОдностраничныйПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ФорматХраненияОдностраничныйExtendedTooltip</name>
+              <name>ФорматХраненияОдностраничныйРасширеннаяПодсказка</name>
               <id>53</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -424,7 +424,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ДекорацияФорматХраненияОдностраничныйExtendedTooltip</name>
+              <name>ДекорацияФорматХраненияОдностраничныйРасширеннаяПодсказка</name>
               <id>54</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -464,7 +464,7 @@
             <value>Формата хранения</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаФорматаХраненияExtendedTooltip</name>
+            <name>ГруппаФорматаХраненияРасширеннаяПодсказка</name>
             <id>52</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -506,7 +506,7 @@
               <name>ФорматСканированногоИзображенияПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ФорматСканированногоИзображенияExtendedTooltip</name>
+              <name>ФорматСканированногоИзображенияРасширеннаяПодсказка</name>
               <id>56</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -560,7 +560,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ДекорацияФорматСканированногоИзображенияExtendedTooltip</name>
+              <name>ДекорацияФорматСканированногоИзображенияРасширеннаяПодсказка</name>
               <id>57</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -600,7 +600,7 @@
             <value>Формата сканирования</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаФорматаСканированияExtendedTooltip</name>
+            <name>ГруппаФорматаСканированияРасширеннаяПодсказка</name>
             <id>55</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -635,7 +635,7 @@
             <segments>КачествоJPG</segments>
           </dataPath>
           <extendedTooltip>
-            <name>КачествоJPGExtendedTooltip</name>
+            <name>КачествоJPGРасширеннаяПодсказка</name>
             <id>58</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -687,7 +687,7 @@
             <segments>СжатиеTIFF</segments>
           </dataPath>
           <extendedTooltip>
-            <name>СжатиеTIFFExtendedTooltip</name>
+            <name>СжатиеTIFFРасширеннаяПодсказка</name>
             <id>59</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -738,7 +738,7 @@
           <value>Для одностраничных изображений</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаФорматХраненияОдиночныйExtendedTooltip</name>
+          <name>ГруппаФорматХраненияОдиночныйРасширеннаяПодсказка</name>
           <id>51</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -778,7 +778,7 @@
             <segments>ФорматХраненияМногостраничный</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ФорматХраненияМногостраничныйExtendedTooltip</name>
+            <name>ФорматХраненияМногостраничныйРасширеннаяПодсказка</name>
             <id>61</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -829,7 +829,7 @@
           <value>Для многостраничных изображений</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаФорматХраненияМногостраничныйExtendedTooltip</name>
+          <name>ГруппаФорматХраненияМногостраничныйРасширеннаяПодсказка</name>
           <id>60</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -934,7 +934,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОКExtendedTooltip</name>
+        <name>ОКРасширеннаяПодсказка</name>
         <id>48</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -966,7 +966,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаExtendedTooltip</name>
+        <name>ОтменаРасширеннаяПодсказка</name>
         <id>49</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -997,7 +997,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>50</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -222,7 +222,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ШрифтВерхнегоКолонтитулаExtendedTooltip</name>
+        <name>ШрифтВерхнегоКолонтитулаРасширеннаяПодсказка</name>
         <id>104</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -256,7 +256,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ВертикальноеПоложениеВерхнегоКолонтитулаВерхExtendedTooltip</name>
+          <name>ВертикальноеПоложениеВерхнегоКолонтитулаВерхРасширеннаяПодсказка</name>
           <id>106</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -286,7 +286,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ВертикальноеПоложениеВерхнегоКолонтитулаЦентрExtendedTooltip</name>
+          <name>ВертикальноеПоложениеВерхнегоКолонтитулаЦентрРасширеннаяПодсказка</name>
           <id>107</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -316,7 +316,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ВертикальноеПоложениеВерхнегоКолонтитулаНизExtendedTooltip</name>
+          <name>ВертикальноеПоложениеВерхнегоКолонтитулаНизРасширеннаяПодсказка</name>
           <id>108</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -415,7 +415,7 @@
         <name>ТекстПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ТекстСлеваСверхуExtendedTooltip</name>
+        <name>ТекстСлеваСверхуРасширеннаяПодсказка</name>
         <id>110</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -473,7 +473,7 @@
         <name>ТекстПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ТекстВЦентреСверхуExtendedTooltip</name>
+        <name>ТекстВЦентреСверхуРасширеннаяПодсказка</name>
         <id>111</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -531,7 +531,7 @@
         <name>ТекстПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ТекстСправаСверхуExtendedTooltip</name>
+        <name>ТекстСправаСверхуРасширеннаяПодсказка</name>
         <id>112</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -582,7 +582,7 @@
       <value>Текст верхнего колонтитула</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаТекстВерхнегоКолонтитулаExtendedTooltip</name>
+      <name>ГруппаТекстВерхнегоКолонтитулаРасширеннаяПодсказка</name>
       <id>109</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -620,7 +620,7 @@
       <name>ВыводитьВерхнийКолонтитулСоСтраницыПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>ВыводитьВерхнийКолонтитулСоСтраницыExtendedTooltip</name>
+      <name>ВыводитьВерхнийКолонтитулСоСтраницыРасширеннаяПодсказка</name>
       <id>113</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -672,7 +672,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>ОбразецExtendedTooltip</name>
+      <name>ОбразецРасширеннаяПодсказка</name>
       <id>114</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -736,7 +736,7 @@
         <name>ПримерСтраницыПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПримерСтраницыExtendedTooltip</name>
+        <name>ПримерСтраницыРасширеннаяПодсказка</name>
         <id>117</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -790,7 +790,7 @@
     </title>
     <groupHorizontalAlign>Right</groupHorizontalAlign>
     <extendedTooltip>
-      <name>ГруппаСнизуExtendedTooltip</name>
+      <name>ГруппаСнизуРасширеннаяПодсказка</name>
       <id>115</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1033,7 +1033,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ШрифтНижнегоКолонтитулаExtendedTooltip</name>
+        <name>ШрифтНижнегоКолонтитулаРасширеннаяПодсказка</name>
         <id>127</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1066,7 +1066,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ВертикальноеПоложениеНижнегоКолонтитулаВерхExtendedTooltip</name>
+          <name>ВертикальноеПоложениеНижнегоКолонтитулаВерхРасширеннаяПодсказка</name>
           <id>129</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1096,7 +1096,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ВертикальноеПоложениеНижнегоКолонтитулаЦентрExtendedTooltip</name>
+          <name>ВертикальноеПоложениеНижнегоКолонтитулаЦентрРасширеннаяПодсказка</name>
           <id>130</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1126,7 +1126,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ВертикальноеПоложениеНижнегоКолонтитулаНизExtendedTooltip</name>
+          <name>ВертикальноеПоложениеНижнегоКолонтитулаНизРасширеннаяПодсказка</name>
           <id>131</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1224,7 +1224,7 @@
         <name>ТекстПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ТекстСлеваСнизуExtendedTooltip</name>
+        <name>ТекстСлеваСнизуРасширеннаяПодсказка</name>
         <id>133</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1282,7 +1282,7 @@
         <name>ТекстПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ТекстВЦентреСнизуExtendedTooltip</name>
+        <name>ТекстВЦентреСнизуРасширеннаяПодсказка</name>
         <id>134</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1340,7 +1340,7 @@
         <name>ТекстПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ТекстСправаСнизуExtendedTooltip</name>
+        <name>ТекстСправаСнизуРасширеннаяПодсказка</name>
         <id>135</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1391,7 +1391,7 @@
       <value>Текст нижнего колонтитула</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаТекстНижнегоКолонтитулаExtendedTooltip</name>
+      <name>ГруппаТекстНижнегоКолонтитулаРасширеннаяПодсказка</name>
       <id>132</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1429,7 +1429,7 @@
       <name>ВыводитьНижнийКолонтитулСоСтраницыПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>ВыводитьНижнийКолонтитулСоСтраницыExtendedTooltip</name>
+      <name>ВыводитьНижнийКолонтитулСоСтраницыРасширеннаяПодсказка</name>
       <id>136</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1510,7 +1510,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОтменаExtendedTooltip</name>
+        <name>ФормаОтменаРасширеннаяПодсказка</name>
         <id>93</id>
         <visible>true</visible>
         <enabled>true</enabled>

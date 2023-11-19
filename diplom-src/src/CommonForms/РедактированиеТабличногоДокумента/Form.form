@@ -22,7 +22,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ЗаписатьИЗакрытьExtendedTooltip</name>
+            <name>ЗаписатьИЗакрытьРасширеннаяПодсказка</name>
             <id>96</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -54,7 +54,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ЗаписатьExtendedTooltip</name>
+            <name>ЗаписатьРасширеннаяПодсказка</name>
             <id>97</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -85,7 +85,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>РедактированиеExtendedTooltip</name>
+            <name>РедактированиеРасширеннаяПодсказка</name>
             <id>98</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -117,7 +117,7 @@
           <value>Действия с документом</value>
         </title>
         <extendedTooltip>
-          <name>ДействияСДокументомExtendedTooltip</name>
+          <name>ДействияСДокументомРасширеннаяПодсказка</name>
           <id>95</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -544,7 +544,7 @@
         <value>Командная панель</value>
       </title>
       <extendedTooltip>
-        <name>КоманднаяПанельExtendedTooltip</name>
+        <name>КоманднаяПанельРасширеннаяПодсказка</name>
         <id>94</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -897,7 +897,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>УменьшитьРазмерШрифтаExtendedTooltip</name>
+              <name>УменьшитьРазмерШрифтаРасширеннаяПодсказка</name>
               <id>104</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -928,7 +928,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>УвеличитьРазмерШрифтаExtendedTooltip</name>
+              <name>УвеличитьРазмерШрифтаРасширеннаяПодсказка</name>
               <id>103</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -960,7 +960,7 @@
             <value>Шрифт</value>
           </title>
           <extendedTooltip>
-            <name>ШрифтExtendedTooltip</name>
+            <name>ШрифтРасширеннаяПодсказка</name>
             <id>101</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1083,7 +1083,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ЗачеркиваниеExtendedTooltip</name>
+              <name>ЗачеркиваниеРасширеннаяПодсказка</name>
               <id>109</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1115,7 +1115,7 @@
             <value>Начертание</value>
           </title>
           <extendedTooltip>
-            <name>НачертаниеExtendedTooltip</name>
+            <name>НачертаниеРасширеннаяПодсказка</name>
             <id>105</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1270,7 +1270,7 @@
             <value>Выравнивание</value>
           </title>
           <extendedTooltip>
-            <name>ВыравниваниеExtendedTooltip</name>
+            <name>ВыравниваниеРасширеннаяПодсказка</name>
             <id>113</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1549,7 +1549,7 @@
             <value>Цвет</value>
           </title>
           <extendedTooltip>
-            <name>ЦветExtendedTooltip</name>
+            <name>ЦветРасширеннаяПодсказка</name>
             <id>110</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1577,7 +1577,7 @@
           <value>Форматирование текста</value>
         </title>
         <extendedTooltip>
-          <name>ФорматированиеТекстаExtendedTooltip</name>
+          <name>ФорматированиеТекстаРасширеннаяПодсказка</name>
           <id>100</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1949,7 +1949,7 @@
           <value>Границы</value>
         </title>
         <extendedTooltip>
-          <name>ГраницыExtendedTooltip</name>
+          <name>ГраницыРасширеннаяПодсказка</name>
           <id>118</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2680,7 +2680,7 @@
           <value>Действия с ячейками</value>
         </title>
         <extendedTooltip>
-          <name>ДействияСЯчейкамиExtendedTooltip</name>
+          <name>ДействияСЯчейкамиРасширеннаяПодсказка</name>
           <id>130</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2989,7 +2989,7 @@
         <value>Команды редактирования</value>
       </title>
       <extendedTooltip>
-        <name>КомандыРедактированияExtendedTooltip</name>
+        <name>КомандыРедактированияРасширеннаяПодсказка</name>
         <id>99</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3228,7 +3228,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ОтображатьГруппировкиExtendedTooltip</name>
+            <name>ОтображатьГруппировкиРасширеннаяПодсказка</name>
             <id>136</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3258,7 +3258,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>СвернутьВсеГруппыExtendedTooltip</name>
+            <name>СвернутьВсеГруппыРасширеннаяПодсказка</name>
             <id>137</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3288,7 +3288,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>РазвернутьВсеГруппыExtendedTooltip</name>
+            <name>РазвернутьВсеГруппыРасширеннаяПодсказка</name>
             <id>138</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3319,7 +3319,7 @@
           <value>Действия с группами</value>
         </title>
         <extendedTooltip>
-          <name>ДействияСГруппамиExtendedTooltip</name>
+          <name>ДействияСГруппамиРасширеннаяПодсказка</name>
           <id>135</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3344,7 +3344,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ИзменитьФормуExtendedTooltip</name>
+          <name>ИзменитьФормуРасширеннаяПодсказка</name>
           <id>139</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3622,7 +3622,7 @@
         <value>Все действия</value>
       </title>
       <extendedTooltip>
-        <name>ВсеДействияExtendedTooltip</name>
+        <name>ВсеДействияРасширеннаяПодсказка</name>
         <id>134</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3649,7 +3649,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>140</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3715,7 +3715,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КартинкаПредупрежденияExtendedTooltip</name>
+        <name>КартинкаПредупрежденияРасширеннаяПодсказка</name>
         <id>142</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3760,7 +3760,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ТекстПредупрежденияExtendedTooltip</name>
+        <name>ТекстПредупрежденияРасширеннаяПодсказка</name>
         <id>143</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3802,7 +3802,7 @@
       <value>Предупреждение</value>
     </title>
     <extendedTooltip>
-      <name>ПредупреждениеExtendedTooltip</name>
+      <name>ПредупреждениеРасширеннаяПодсказка</name>
       <id>141</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -3852,7 +3852,7 @@
             <name>ТекстСлеваСверхуПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ТекстСлеваСверхуExtendedTooltip</name>
+            <name>ТекстСлеваСверхуРасширеннаяПодсказка</name>
             <id>359</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3907,7 +3907,7 @@
             <name>ТекстВЦентреСверхуПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ТекстВЦентреСверхуExtendedTooltip</name>
+            <name>ТекстВЦентреСверхуРасширеннаяПодсказка</name>
             <id>362</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3962,7 +3962,7 @@
             <name>ТекстСправаСверхуПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ТекстСправаСверхуExtendedTooltip</name>
+            <name>ТекстСправаСверхуРасширеннаяПодсказка</name>
             <id>365</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -4125,7 +4125,7 @@
               </dataPath>
               <titleLocation>None</titleLocation>
               <extendedTooltip>
-                <name>ТабличныйДокументExtendedTooltip</name>
+                <name>ТабличныйДокументРасширеннаяПодсказка</name>
                 <id>144</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -4390,7 +4390,7 @@
             <name>ТекстСлеваСнизуПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ТекстСлеваСнизуExtendedTooltip</name>
+            <name>ТекстСлеваСнизуРасширеннаяПодсказка</name>
             <id>370</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -4445,7 +4445,7 @@
             <name>ТекстВЦентреСнизуПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ТекстВЦентреСнизуExtendedTooltip</name>
+            <name>ТекстВЦентреСнизуРасширеннаяПодсказка</name>
             <id>373</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -4500,7 +4500,7 @@
             <name>ТекстСправаСнизуПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ТекстСправаСнизуExtendedTooltip</name>
+            <name>ТекстСправаСнизуРасширеннаяПодсказка</name>
             <id>376</id>
             <visible>true</visible>
             <enabled>true</enabled>

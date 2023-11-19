@@ -25,7 +25,7 @@
         <name>ИзменятьВТранзакцииПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ИзменятьВТранзакцииExtendedTooltip</name>
+        <name>ИзменятьВТранзакцииРасширеннаяПодсказка</name>
         <id>54</id>
         <title>
           <key>ru</key>
@@ -72,7 +72,7 @@
       <value>Изменять в транзакции</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаИзменятьВТранзакцииExtendedTooltip</name>
+      <name>ГруппаИзменятьВТранзакцииРасширеннаяПодсказка</name>
       <id>53</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -112,7 +112,7 @@
       <titleLocation>Right</titleLocation>
       <toolTipRepresentation>ShowBottom</toolTipRepresentation>
       <extendedTooltip>
-        <name>ПрерыватьПриОшибкеExtendedTooltip</name>
+        <name>ПрерыватьПриОшибкеРасширеннаяПодсказка</name>
         <id>57</id>
         <title>
           <key>ru</key>
@@ -159,7 +159,7 @@
       <value>Прерывание при ошибке</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаПрерываниеПриОшибкеExtendedTooltip</name>
+      <name>ГруппаПрерываниеПриОшибкеРасширеннаяПодсказка</name>
       <id>56</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -199,7 +199,7 @@
       <titleLocation>Right</titleLocation>
       <toolTipRepresentation>ShowBottom</toolTipRepresentation>
       <extendedTooltip>
-        <name>ОбрабатыватьГруппыРекурсивноExtendedTooltip</name>
+        <name>ОбрабатыватьГруппыРекурсивноРасширеннаяПодсказка</name>
         <id>60</id>
         <title>
           <key>ru</key>
@@ -246,7 +246,7 @@
       <value>Обрабатывать рекурсивно</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаОбрабатыватьРекурсивноExtendedTooltip</name>
+      <name>ГруппаОбрабатыватьРекурсивноРасширеннаяПодсказка</name>
       <id>59</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -588,7 +588,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОКExtendedTooltip</name>
+        <name>ФормаОКРасширеннаяПодсказка</name>
         <id>50</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -619,7 +619,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОтменаExtendedTooltip</name>
+        <name>ФормаОтменаРасширеннаяПодсказка</name>
         <id>51</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -649,7 +649,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>52</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -37,7 +37,7 @@
         <name>ГруппыПравПользовательПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ГруппыПравПользовательExtendedTooltip</name>
+        <name>ГруппыПравПользовательРасширеннаяПодсказка</name>
         <id>57</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -250,7 +250,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ГруппыПравExtendedTooltip</name>
+      <name>ГруппыПравРасширеннаяПодсказка</name>
       <id>56</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -277,7 +277,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюДобавитьExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюДобавитьРасширеннаяПодсказка</name>
           <id>50</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -308,7 +308,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюСкопироватьExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюСкопироватьРасширеннаяПодсказка</name>
           <id>51</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -339,7 +339,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюУдалитьExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюУдалитьРасширеннаяПодсказка</name>
           <id>52</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -368,7 +368,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюСнятьУстановкуПраваExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюСнятьУстановкуПраваРасширеннаяПодсказка</name>
           <id>53</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -397,7 +397,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюУстановитьЗапретПраваExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюУстановитьЗапретПраваРасширеннаяПодсказка</name>
           <id>54</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -426,7 +426,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ГруппыПравКонтекстноеМенюУстановитьРазрешениеПраваExtendedTooltip</name>
+          <name>ГруппыПравКонтекстноеМенюУстановитьРазрешениеПраваРасширеннаяПодсказка</name>
           <id>55</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -505,7 +505,7 @@
         <name>НаследоватьПраваРодителейПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>НаследоватьПраваРодителейExtendedTooltip</name>
+        <name>НаследоватьПраваРодителейРасширеннаяПодсказка</name>
         <id>58</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1087,7 +1087,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаЗаписатьИЗакрытьExtendedTooltip</name>
+        <name>ФормаЗаписатьИЗакрытьРасширеннаяПодсказка</name>
         <id>42</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1118,7 +1118,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаЗаписатьExtendedTooltip</name>
+        <name>ФормаЗаписатьРасширеннаяПодсказка</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1149,7 +1149,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаДобавитьExtendedTooltip</name>
+        <name>ФормаДобавитьРасширеннаяПодсказка</name>
         <id>44</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1180,7 +1180,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаУдалитьExtendedTooltip</name>
+        <name>ФормаУдалитьРасширеннаяПодсказка</name>
         <id>45</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1210,7 +1210,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаПереместитьВверхExtendedTooltip</name>
+        <name>ФормаПереместитьВверхРасширеннаяПодсказка</name>
         <id>46</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1240,7 +1240,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаПереместитьВнизExtendedTooltip</name>
+        <name>ФормаПереместитьВнизРасширеннаяПодсказка</name>
         <id>47</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1270,7 +1270,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>48</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1301,7 +1301,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаИзменитьФормуExtendedTooltip</name>
+        <name>ФормаИзменитьФормуРасширеннаяПодсказка</name>
         <id>49</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -321,7 +321,7 @@
           <name>ОбъектАвторизацииПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ОбъектАвторизацииExtendedTooltip</name>
+          <name>ОбъектАвторизацииРасширеннаяПодсказка</name>
           <id>202</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -378,7 +378,7 @@
           <name>НедействителенПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>НедействителенExtendedTooltip</name>
+          <name>НедействителенРасширеннаяПодсказка</name>
           <id>203</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1344,7 +1344,7 @@
               <value>Свойства аутентификации 1С предприятия</value>
             </title>
             <extendedTooltip>
-              <name>СвойстваАутентификации1СПредприятияExtendedTooltip</name>
+              <name>СвойстваАутентификации1СПредприятияРасширеннаяПодсказка</name>
               <id>208</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1566,7 +1566,7 @@
             <value>Основные свойства</value>
           </title>
           <extendedTooltip>
-            <name>ОсновныеСвойстваExtendedTooltip</name>
+            <name>ОсновныеСвойстваРасширеннаяПодсказка</name>
             <id>206</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1609,7 +1609,7 @@
               <name>УстановитьРолиНепосредственноПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>УстановитьРолиНепосредственноExtendedTooltip</name>
+              <name>УстановитьРолиНепосредственноРасширеннаяПодсказка</name>
               <id>218</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1691,7 +1691,7 @@
                     <name>РолиПометкаПриИзменении</name>
                   </handlers>
                   <extendedTooltip>
-                    <name>РолиПометкаExtendedTooltip</name>
+                    <name>РолиПометкаРасширеннаяПодсказка</name>
                     <id>226</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1732,7 +1732,7 @@
                     <segments>Роли.Синоним</segments>
                   </dataPath>
                   <extendedTooltip>
-                    <name>РолиСинонимExtendedTooltip</name>
+                    <name>РолиСинонимРасширеннаяПодсказка</name>
                     <id>227</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1781,7 +1781,7 @@
                   <value>Роли колонок</value>
                 </title>
                 <extendedTooltip>
-                  <name>РолиКолонокExtendedTooltip</name>
+                  <name>РолиКолонокРасширеннаяПодсказка</name>
                   <id>225</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1814,7 +1814,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>РолиУстановитьФлажкиExtendedTooltip</name>
+                    <name>РолиУстановитьФлажкиРасширеннаяПодсказка</name>
                     <id>220</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1845,7 +1845,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>РолиСнятьФлажкиExtendedTooltip</name>
+                    <name>РолиСнятьФлажкиРасширеннаяПодсказка</name>
                     <id>221</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1876,7 +1876,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>РолиПоказатьТолькоВыбранныеРолиExtendedTooltip</name>
+                    <name>РолиПоказатьТолькоВыбранныеРолиРасширеннаяПодсказка</name>
                     <id>222</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1906,7 +1906,7 @@
                     <common>true</common>
                   </userVisible>
                   <extendedTooltip>
-                    <name>РолиПоказатьПодсистемыРолейExtendedTooltip</name>
+                    <name>РолиПоказатьПодсистемыРолейРасширеннаяПодсказка</name>
                     <id>223</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -2083,7 +2083,7 @@
                 </extInfo>
               </searchControlAddition>
               <extendedTooltip>
-                <name>РолиExtendedTooltip</name>
+                <name>РолиРасширеннаяПодсказка</name>
                 <id>224</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2142,7 +2142,7 @@
               <value>Список ролей</value>
             </title>
             <extendedTooltip>
-              <name>ОтображениеРолейExtendedTooltip</name>
+              <name>ОтображениеРолейРасширеннаяПодсказка</name>
               <id>219</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2175,7 +2175,7 @@
             <value>Редактирование или просмотр ролей</value>
           </title>
           <extendedTooltip>
-            <name>РедактированиеИлиПросмотрРолейExtendedTooltip</name>
+            <name>РедактированиеИлиПросмотрРолейРасширеннаяПодсказка</name>
             <id>217</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2208,7 +2208,7 @@
           <value>Свойства пользователя информационной базы</value>
         </title>
         <extendedTooltip>
-          <name>СвойстваПользователяИБExtendedTooltip</name>
+          <name>СвойстваПользователяИБРасширеннаяПодсказка</name>
           <id>205</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2381,7 +2381,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>КомментарийExtendedTooltip</name>
+          <name>КомментарийРасширеннаяПодсказка</name>
           <id>259</id>
           <visible>true</visible>
           <enabled>true</enabled>

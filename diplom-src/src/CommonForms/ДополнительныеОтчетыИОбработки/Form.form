@@ -44,7 +44,7 @@
             <segments>ТаблицаКоманд.Представление</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ОбработкиПредставлениеExtendedTooltip</name>
+            <name>ОбработкиПредставлениеРасширеннаяПодсказка</name>
             <id>57</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -215,7 +215,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ТаблицаКомандExtendedTooltip</name>
+          <name>ТаблицаКомандРасширеннаяПодсказка</name>
           <id>56</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -269,7 +269,7 @@
         <value>Страница открыть обработку</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаОткрытьОбработкуExtendedTooltip</name>
+        <name>СтраницаОткрытьОбработкуРасширеннаяПодсказка</name>
         <id>55</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -305,7 +305,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ДекорацияДлительнаяОперацияExtendedTooltip</name>
+          <name>ДекорацияДлительнаяОперацияРасширеннаяПодсказка</name>
           <id>59</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -352,7 +352,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПоясняющаяДекорацияExtendedTooltip</name>
+          <name>ПоясняющаяДекорацияРасширеннаяПодсказка</name>
           <id>60</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -396,7 +396,7 @@
       </title>
       <verticalStretch>true</verticalStretch>
       <extendedTooltip>
-        <name>СтраницаВыполненияОбработкиExtendedTooltip</name>
+        <name>СтраницаВыполненияОбработкиРасширеннаяПодсказка</name>
         <id>58</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -427,7 +427,7 @@
       <value>Страницы</value>
     </title>
     <extendedTooltip>
-      <name>СтраницыExtendedTooltip</name>
+      <name>СтраницыРасширеннаяПодсказка</name>
       <id>54</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -459,7 +459,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>НастроитьСписокExtendedTooltip</name>
+        <name>НастроитьСписокРасширеннаяПодсказка</name>
         <id>63</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -495,7 +495,7 @@
         <defaultItem>true</defaultItem>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ВыполнитьОбработкуExtendedTooltip</name>
+          <name>ВыполнитьОбработкуРасширеннаяПодсказка</name>
           <id>65</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -558,7 +558,7 @@
         <value>Командная панель страницы открыть обработку</value>
       </title>
       <extendedTooltip>
-        <name>КоманднаяПанельСтраницыОткрытьОбработкуExtendedTooltip</name>
+        <name>КоманднаяПанельСтраницыОткрытьОбработкуРасширеннаяПодсказка</name>
         <id>64</id>
         <visible>true</visible>
         <enabled>true</enabled>

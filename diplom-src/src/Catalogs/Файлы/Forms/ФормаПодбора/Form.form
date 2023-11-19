@@ -187,7 +187,7 @@
           <value>Картинка и наименование папок</value>
         </title>
         <extendedTooltip>
-          <name>КартинкаИНаименованиеПапокExtendedTooltip</name>
+          <name>КартинкаИНаименованиеПапокРасширеннаяПодсказка</name>
           <id>47</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -384,7 +384,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>ПапкиExtendedTooltip</name>
+        <name>ПапкиРасширеннаяПодсказка</name>
         <id>46</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -644,7 +644,7 @@
           <value>Картинка и наименование</value>
         </title>
         <extendedTooltip>
-          <name>КартинкаИНаименованиеExtendedTooltip</name>
+          <name>КартинкаИНаименованиеРасширеннаяПодсказка</name>
           <id>51</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -955,7 +955,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>СписокExtendedTooltip</name>
+        <name>СписокРасширеннаяПодсказка</name>
         <id>50</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1028,7 +1028,7 @@
     </title>
     <height>10</height>
     <extendedTooltip>
-      <name>ГруппаСпискиExtendedTooltip</name>
+      <name>ГруппаСпискиРасширеннаяПодсказка</name>
       <id>45</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1064,7 +1064,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ВыбратьExtendedTooltip</name>
+        <name>ВыбратьРасширеннаяПодсказка</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1096,7 +1096,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>44</id>
         <visible>true</visible>
         <enabled>true</enabled>

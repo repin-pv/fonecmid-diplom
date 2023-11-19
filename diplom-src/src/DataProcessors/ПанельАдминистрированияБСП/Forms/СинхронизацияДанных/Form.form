@@ -16,7 +16,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОписаниеРазделаExtendedTooltip</name>
+        <name>ОписаниеРазделаРасширеннаяПодсказка</name>
         <id>2014</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -59,7 +59,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаExtendedTooltip</name>
+          <name>СправкаРасширеннаяПодсказка</name>
           <id>2017</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -90,7 +90,7 @@
         <value>Справка</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСправкаExtendedTooltip</name>
+        <name>ГруппаСправкаРасширеннаяПодсказка</name>
         <id>2016</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -119,7 +119,7 @@
       <value>Заголовок</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЗаголовокExtendedTooltip</name>
+      <name>ГруппаЗаголовокРасширеннаяПодсказка</name>
       <id>2013</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -213,7 +213,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаИспользоватьСинхронизациюДанныхExtendedTooltip</name>
+        <name>ГруппаИспользоватьСинхронизациюДанныхРасширеннаяПодсказка</name>
         <id>2019</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -248,7 +248,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>НастройкиСинхронизацииДанныхExtendedTooltip</name>
+          <name>НастройкиСинхронизацииДанныхРасширеннаяПодсказка</name>
           <id>2023</id>
           <title>
             <key>ru</key>
@@ -287,7 +287,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаНастройкиСинхронизацииДанныхExtendedTooltip</name>
+        <name>ГруппаНастройкиСинхронизацииДанныхРасширеннаяПодсказка</name>
         <id>2022</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -606,7 +606,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаРезультатовСинхронизацииДанныхExtendedTooltip</name>
+        <name>ГруппаРезультатовСинхронизацииДанныхРасширеннаяПодсказка</name>
         <id>2026</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -762,7 +762,7 @@
         <name>ПрефиксУзлаРаспределеннойИнформационнойБазыПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПрефиксУзлаРаспределеннойИнформационнойБазыExtendedTooltip</name>
+        <name>ПрефиксУзлаРаспределеннойИнформационнойБазыРасширеннаяПодсказка</name>
         <id>2035</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -859,7 +859,7 @@
     <toolTipRepresentation>ShowBottom</toolTipRepresentation>
     <width>43</width>
     <extendedTooltip>
-      <name>ГруппаПрефиксУзлаРаспределеннойИнформационнойБазыExtendedTooltip</name>
+      <name>ГруппаПрефиксУзлаРаспределеннойИнформационнойБазыРасширеннаяПодсказка</name>
       <id>2033</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1006,7 +1006,7 @@
     </title>
     <toolTipRepresentation>ShowBottom</toolTipRepresentation>
     <extendedTooltip>
-      <name>ГруппаВременныеКаталогиКластераСерверовExtendedTooltip</name>
+      <name>ГруппаВременныеКаталогиКластераСерверовРасширеннаяПодсказка</name>
       <id>2041</id>
       <title>
         <key>ru</key>

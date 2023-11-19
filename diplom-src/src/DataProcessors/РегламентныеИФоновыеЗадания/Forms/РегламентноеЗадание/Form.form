@@ -27,7 +27,7 @@
           <value>Включено - выполнять задание.</value>
         </toolTip>
         <extendedTooltip>
-          <name>ИспользованиеExtendedTooltip</name>
+          <name>ИспользованиеРасширеннаяПодсказка</name>
           <id>51</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -142,7 +142,7 @@
         <name>НаименованиеПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>НаименованиеExtendedTooltip</name>
+        <name>НаименованиеРасширеннаяПодсказка</name>
         <id>52</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -189,7 +189,7 @@
       <value>Основное</value>
     </title>
     <extendedTooltip>
-      <name>ОсновноеExtendedTooltip</name>
+      <name>ОсновноеРасширеннаяПодсказка</name>
       <id>50</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -228,7 +228,7 @@
       </dataPath>
       <titleHeight>2</titleHeight>
       <extendedTooltip>
-        <name>КоличествоПовторовПриАварийномЗавершенииExtendedTooltip</name>
+        <name>КоличествоПовторовПриАварийномЗавершенииРасширеннаяПодсказка</name>
         <id>55</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -283,7 +283,7 @@
         <segments>ИнтервалПовтораПриАварийномЗавершении</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИнтервалПовтораПриАварийномЗавершенииExtendedTooltip</name>
+        <name>ИнтервалПовтораПриАварийномЗавершенииРасширеннаяПодсказка</name>
         <id>58</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -375,7 +375,7 @@
       <value>Действия при ошибках</value>
     </title>
     <extendedTooltip>
-      <name>ДействияПриОшибкахExtendedTooltip</name>
+      <name>ДействияПриОшибкахРасширеннаяПодсказка</name>
       <id>53</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -420,7 +420,7 @@
 которое нельзя удалить.</value>
       </toolTip>
       <extendedTooltip>
-        <name>ПредопределенноеExtendedTooltip</name>
+        <name>ПредопределенноеРасширеннаяПодсказка</name>
         <id>61</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -471,7 +471,7 @@
         <segments>Идентификатор</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИдентификаторExtendedTooltip</name>
+        <name>ИдентификаторРасширеннаяПодсказка</name>
         <id>62</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -521,7 +521,7 @@
         <segments>Ключ</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КлючExtendedTooltip</name>
+        <name>КлючРасширеннаяПодсказка</name>
         <id>63</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -574,7 +574,7 @@
         <value>Имя пользователя информационной базы для выполнения фонового задания (имеет смысл только для серверной информационной базы)</value>
       </toolTip>
       <extendedTooltip>
-        <name>ИмяПользователяExtendedTooltip</name>
+        <name>ИмяПользователяРасширеннаяПодсказка</name>
         <id>64</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -626,7 +626,7 @@
       <value>Дополнительно</value>
     </title>
     <extendedTooltip>
-      <name>ДополнительноExtendedTooltip</name>
+      <name>ДополнительноРасширеннаяПодсказка</name>
       <id>60</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -664,7 +664,7 @@
         <segments>ИмяМетаданных</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИмяМетаданныхExtendedTooltip</name>
+        <name>ИмяМетаданныхРасширеннаяПодсказка</name>
         <id>66</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -715,7 +715,7 @@
       </dataPath>
       <skipOnInput>true</skipOnInput>
       <extendedTooltip>
-        <name>СинонимМетаданныхExtendedTooltip</name>
+        <name>СинонимМетаданныхРасширеннаяПодсказка</name>
         <id>67</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -765,7 +765,7 @@
         <segments>ИмяМетодаМетаданных</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИмяМетодаМетаданныхExtendedTooltip</name>
+        <name>ИмяМетодаМетаданныхРасширеннаяПодсказка</name>
         <id>68</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -813,7 +813,7 @@
       <value>Метаданные</value>
     </title>
     <extendedTooltip>
-      <name>МетаданныеExtendedTooltip</name>
+      <name>МетаданныеРасширеннаяПодсказка</name>
       <id>65</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -861,7 +861,7 @@
         <value>Сообщения пользователю и описание информации об ошибке</value>
       </toolTip>
       <extendedTooltip>
-        <name>СообщенияИОписаниеИнформацииОбОшибкеExtendedTooltip</name>
+        <name>СообщенияИОписаниеИнформацииОбОшибкеРасширеннаяПодсказка</name>
         <id>70</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -913,7 +913,7 @@
       <value>Сообщения пользователю и описание информации об ошибке</value>
     </title>
     <extendedTooltip>
-      <name>СообщенияПользователюИОписаниеИнформацииОбОшибкеExtendedTooltip</name>
+      <name>СообщенияПользователюИОписаниеИнформацииОбОшибкеРасширеннаяПодсказка</name>
       <id>69</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -949,7 +949,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ЗаписатьИЗакрытьExtendedTooltip</name>
+        <name>ЗаписатьИЗакрытьРасширеннаяПодсказка</name>
         <id>47</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -980,7 +980,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ЗаписатьExtendedTooltip</name>
+        <name>ЗаписатьРасширеннаяПодсказка</name>
         <id>48</id>
         <visible>true</visible>
         <enabled>true</enabled>

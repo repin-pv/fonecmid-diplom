@@ -27,7 +27,7 @@
           <name>ИнтервалОтбораДатаПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ДатаНачалаExtendedTooltip</name>
+          <name>ДатаНачалаРасширеннаяПодсказка</name>
           <id>204</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -90,7 +90,7 @@
           <name>ИнтервалОтбораДатаПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ДатаОкончанияExtendedTooltip</name>
+          <name>ДатаОкончанияРасширеннаяПодсказка</name>
           <id>205</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -243,7 +243,7 @@
       <value>Даты</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаДатыExtendedTooltip</name>
+      <name>ГруппаДатыРасширеннаяПодсказка</name>
       <id>200</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -478,7 +478,7 @@
               <segments>Важность.Check</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ПометкаВажностиExtendedTooltip</name>
+              <name>ПометкаВажностиРасширеннаяПодсказка</name>
               <id>213</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -526,7 +526,7 @@
               <segments>Важность.Value</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ЗначениеВажностиExtendedTooltip</name>
+              <name>ЗначениеВажностиРасширеннаяПодсказка</name>
               <id>214</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -726,7 +726,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ВажностьExtendedTooltip</name>
+          <name>ВажностьРасширеннаяПодсказка</name>
           <id>212</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -819,7 +819,7 @@
           <segments>СобытияОтображаемые</segments>
         </dataPath>
         <extendedTooltip>
-          <name>СобытияExtendedTooltip</name>
+          <name>СобытияРасширеннаяПодсказка</name>
           <id>222</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -880,7 +880,7 @@
           <segments>СписокПользователей</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПользователиExtendedTooltip</name>
+          <name>ПользователиРасширеннаяПодсказка</name>
           <id>208</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -937,7 +937,7 @@
           <segments>Приложения</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПриложенияExtendedTooltip</name>
+          <name>ПриложенияРасширеннаяПодсказка</name>
           <id>209</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -994,7 +994,7 @@
           <segments>Компьютеры</segments>
         </dataPath>
         <extendedTooltip>
-          <name>КомпьютерыExtendedTooltip</name>
+          <name>КомпьютерыРасширеннаяПодсказка</name>
           <id>210</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1056,7 +1056,7 @@
           <value>Номера сеансов задаются через ;</value>
         </toolTip>
         <extendedTooltip>
-          <name>СеансыExtendedTooltip</name>
+          <name>СеансыРасширеннаяПодсказка</name>
           <id>226</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1185,7 +1185,7 @@
           <segments>Метаданные</segments>
         </dataPath>
         <extendedTooltip>
-          <name>МетаданныеExtendedTooltip</name>
+          <name>МетаданныеРасширеннаяПодсказка</name>
           <id>217</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1242,7 +1242,7 @@
           <segments>Данные</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ДанныеExtendedTooltip</name>
+          <name>ДанныеРасширеннаяПодсказка</name>
           <id>218</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1297,7 +1297,7 @@
         </dataPath>
         <titleHeight>2</titleHeight>
         <extendedTooltip>
-          <name>ПредставлениеДанныхExtendedTooltip</name>
+          <name>ПредставлениеДанныхРасширеннаяПодсказка</name>
           <id>219</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1353,7 +1353,7 @@
         <value>Данные</value>
       </toolTip>
       <extendedTooltip>
-        <name>ГруппаДанныеСвойстваExtendedTooltip</name>
+        <name>ГруппаДанныеСвойстваРасширеннаяПодсказка</name>
         <id>216</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1626,7 +1626,7 @@
               <segments>СтатусТранзакции.Check</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ПометкаСтатусаExtendedTooltip</name>
+              <name>ПометкаСтатусаРасширеннаяПодсказка</name>
               <id>233</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1674,7 +1674,7 @@
               <segments>СтатусТранзакции.Value</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ЗначениеСтатусаExtendedTooltip</name>
+              <name>ЗначениеСтатусаРасширеннаяПодсказка</name>
               <id>234</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1874,7 +1874,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>СтатусТранзакцииExtendedTooltip</name>
+          <name>СтатусТранзакцииРасширеннаяПодсказка</name>
           <id>232</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1968,7 +1968,7 @@
       </dataPath>
       <titleLocation>Left</titleLocation>
       <extendedTooltip>
-        <name>ТранзакцияExtendedTooltip</name>
+        <name>ТранзакцияРасширеннаяПодсказка</name>
         <id>231</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2064,7 +2064,7 @@
       <titleLocation>Left</titleLocation>
       <titleHeight>2</titleHeight>
       <extendedTooltip>
-        <name>РабочиеСерверыExtendedTooltip</name>
+        <name>РабочиеСерверыРасширеннаяПодсказка</name>
         <id>227</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2122,7 +2122,7 @@
       </dataPath>
       <titleHeight>2</titleHeight>
       <extendedTooltip>
-        <name>ОсновныеIPПортыExtendedTooltip</name>
+        <name>ОсновныеIPПортыРасширеннаяПодсказка</name>
         <id>228</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2180,7 +2180,7 @@
       </dataPath>
       <titleHeight>2</titleHeight>
       <extendedTooltip>
-        <name>ВспомогательныеIPПортыExtendedTooltip</name>
+        <name>ВспомогательныеIPПортыРасширеннаяПодсказка</name>
         <id>229</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2294,7 +2294,7 @@
       </dataPath>
       <titleLocation>Left</titleLocation>
       <extendedTooltip>
-        <name>КомментарийExtendedTooltip</name>
+        <name>КомментарийРасширеннаяПодсказка</name>
         <id>223</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2392,7 +2392,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>OKExtendedTooltip</name>
+        <name>OKРасширеннаяПодсказка</name>
         <id>236</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2434,7 +2434,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменитьExtendedTooltip</name>
+        <name>ОтменитьРасширеннаяПодсказка</name>
         <id>237</id>
         <visible>true</visible>
         <enabled>true</enabled>

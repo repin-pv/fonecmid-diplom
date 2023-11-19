@@ -59,7 +59,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаExtendedTooltip</name>
+          <name>СправкаРасширеннаяПодсказка</name>
           <id>1604</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -90,7 +90,7 @@
         <value>Справка</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСправкаExtendedTooltip</name>
+        <name>ГруппаСправкаРасширеннаяПодсказка</name>
         <id>1603</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -119,7 +119,7 @@
       <value>Заголовок</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЗаголовокExtendedTooltip</name>
+      <name>ГруппаЗаголовокРасширеннаяПодсказка</name>
       <id>1600</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1129,7 +1129,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаОбработкаЗагрузкаКурсовВалютExtendedTooltip</name>
+          <name>ГруппаОбработкаЗагрузкаКурсовВалютРасширеннаяПодсказка</name>
           <id>1644</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1195,7 +1195,7 @@
       <value>Классификаторы и курсы валют</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКлассификаторыExtendedTooltip</name>
+      <name>ГруппаКлассификаторыРасширеннаяПодсказка</name>
       <id>1638</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1526,7 +1526,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОткрытьОписаниеИзмененийСистемыExtendedTooltip</name>
+              <name>ОткрытьОписаниеИзмененийСистемыРасширеннаяПодсказка</name>
               <id>1768</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1561,7 +1561,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПояснениеОткрытьОписаниеИзмененийСистемыExtendedTooltip</name>
+              <name>ПояснениеОткрытьОписаниеИзмененийСистемыРасширеннаяПодсказка</name>
               <id>1771</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1606,7 +1606,7 @@
           </title>
           <horizontalStretch>false</horizontalStretch>
           <extendedTooltip>
-            <name>ГруппаОткрытьОписаниеИзмененийСистемыExtendedTooltip</name>
+            <name>ГруппаОткрытьОписаниеИзмененийСистемыРасширеннаяПодсказка</name>
             <id>1766</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2236,7 +2236,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>РезультатыОбновленияИДополнительнаяОбработкаДанныхExtendedTooltip</name>
+            <name>РезультатыОбновленияИДополнительнаяОбработкаДанныхРасширеннаяПодсказка</name>
             <id>1790</id>
             <title>
               <key>ru</key>
@@ -2275,7 +2275,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаОтложеннаяОбработкаДанныхExtendedTooltip</name>
+          <name>ГруппаОтложеннаяОбработкаДанныхРасширеннаяПодсказка</name>
           <id>1788</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2323,7 +2323,7 @@
             <name>ДетализироватьОбновлениеИБВЖурналеРегистрацииПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ДетализироватьОбновлениеИБВЖурналеРегистрацииExtendedTooltip</name>
+            <name>ДетализироватьОбновлениеИБВЖурналеРегистрацииРасширеннаяПодсказка</name>
             <id>1795</id>
             <title>
               <key>ru</key>
@@ -2369,7 +2369,7 @@
         </title>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаДетализироватьОбновлениеИБВЖурналеРегистрацииExtendedTooltip</name>
+          <name>ГруппаДетализироватьОбновлениеИБВЖурналеРегистрацииРасширеннаяПодсказка</name>
           <id>1792</id>
           <visible>true</visible>
           <enabled>true</enabled>

@@ -17,7 +17,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>ОтчетExtendedTooltip</name>
+      <name>ОтчетРасширеннаяПодсказка</name>
       <id>7</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -83,7 +83,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ИзменитьРасписаниеExtendedTooltip</name>
+        <name>ИзменитьРасписаниеРасширеннаяПодсказка</name>
         <id>5</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -120,7 +120,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ПерейтиКЖурналуРегистрацииExtendedTooltip</name>
+        <name>ПерейтиКЖурналуРегистрацииРасширеннаяПодсказка</name>
         <id>6</id>
         <visible>true</visible>
         <enabled>true</enabled>

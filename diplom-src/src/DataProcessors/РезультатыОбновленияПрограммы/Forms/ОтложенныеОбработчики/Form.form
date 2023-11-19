@@ -659,7 +659,7 @@
           <segments>ОтложенныеОбработчики.Обработчик</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ОтложенныеОбработчикиОбработчикExtendedTooltip</name>
+          <name>ОтложенныеОбработчикиОбработчикРасширеннаяПодсказка</name>
           <id>43</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -716,7 +716,7 @@
           </dataPath>
           <titleLocation>None</titleLocation>
           <extendedTooltip>
-            <name>ОтложенныеОбработчикиСтатусКартинкаExtendedTooltip</name>
+            <name>ОтложенныеОбработчикиСтатусКартинкаРасширеннаяПодсказка</name>
             <id>48</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -764,7 +764,7 @@
             <segments>ОтложенныеОбработчики.СтатусПредставление</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ОтложенныеОбработчикиСтатусОбработчикаExtendedTooltip</name>
+            <name>ОтложенныеОбработчикиСтатусОбработчикаРасширеннаяПодсказка</name>
             <id>51</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -816,7 +816,7 @@
         <width>10</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаСтатусКартинкаExtendedTooltip</name>
+          <name>ГруппаСтатусКартинкаРасширеннаяПодсказка</name>
           <id>45</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1377,7 +1377,7 @@
       </dataPath>
       <titleLocation>None</titleLocation>
       <extendedTooltip>
-        <name>ОтложенныеОбработчикиИнформацияОПроцедуреОбновленияExtendedTooltip</name>
+        <name>ОтложенныеОбработчикиИнформацияОПроцедуреОбновленияРасширеннаяПодсказка</name>
         <id>28</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1620,7 +1620,7 @@
         </userVisible>
         <toolTipRepresentation>Button</toolTipRepresentation>
         <extendedTooltip>
-          <name>ГиперссылкаОтложенноеОбновлениеExtendedTooltip</name>
+          <name>ГиперссылкаОтложенноеОбновлениеРасширеннаяПодсказка</name>
           <id>29</id>
           <title>
             <key>ru</key>
@@ -1704,7 +1704,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОбновлениеВыполняетсяExtendedTooltip</name>
+        <name>ОбновлениеВыполняетсяРасширеннаяПодсказка</name>
         <id>30</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1755,7 +1755,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстПоясненияExtendedTooltip</name>
+          <name>ТекстПоясненияРасширеннаяПодсказка</name>
           <id>32</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1794,7 +1794,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ЗапуститьПовторноExtendedTooltip</name>
+          <name>ЗапуститьПовторноРасширеннаяПодсказка</name>
           <id>33</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1826,7 +1826,7 @@
         <value>Повторный запуск</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаПовторныйЗапускExtendedTooltip</name>
+        <name>ГруппаПовторныйЗапускРасширеннаяПодсказка</name>
         <id>31</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1896,7 +1896,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗакрытьФормуExtendedTooltip</name>
+        <name>ФормаЗакрытьФормуРасширеннаяПодсказка</name>
         <id>22</id>
         <visible>true</visible>
         <enabled>true</enabled>

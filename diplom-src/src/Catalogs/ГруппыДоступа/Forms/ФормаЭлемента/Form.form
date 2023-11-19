@@ -12,7 +12,7 @@
       <segments>Объект.Description</segments>
     </dataPath>
     <extendedTooltip>
-      <name>НаименованиеExtendedTooltip</name>
+      <name>НаименованиеРасширеннаяПодсказка</name>
       <id>336</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -61,7 +61,7 @@
       <segments>Объект.Parent</segments>
     </dataPath>
     <extendedTooltip>
-      <name>РодительExtendedTooltip</name>
+      <name>РодительРасширеннаяПодсказка</name>
       <id>337</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -118,7 +118,7 @@
         <name>ПрофильПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПрофильExtendedTooltip</name>
+        <name>ПрофильРасширеннаяПодсказка</name>
         <id>338</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -235,7 +235,7 @@
             <name>ПользовательПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ПользовательExtendedTooltip</name>
+            <name>ПользовательРасширеннаяПодсказка</name>
             <id>360</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -302,7 +302,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>ПользователиПодобратьExtendedTooltip</name>
+              <name>ПользователиПодобратьРасширеннаяПодсказка</name>
               <id>352</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -573,7 +573,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ПользователиExtendedTooltip</name>
+          <name>ПользователиРасширеннаяПодсказка</name>
           <id>359</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -600,7 +600,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>КонтекстноеМенюПользователиПодобратьExtendedTooltip</name>
+              <name>КонтекстноеМенюПользователиПодобратьРасширеннаяПодсказка</name>
               <id>345</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -695,7 +695,7 @@
         <value>Участники группы</value>
       </title>
       <extendedTooltip>
-        <name>ПользователиГруппыExtendedTooltip</name>
+        <name>ПользователиГруппыРасширеннаяПодсказка</name>
         <id>344</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1011,7 +1011,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ВидыДоступаExtendedTooltip</name>
+          <name>ВидыДоступаРасширеннаяПодсказка</name>
           <id>370</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1037,7 +1037,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ВидыДоступаКонтекстноеМенюИзменитьExtendedTooltip</name>
+              <name>ВидыДоступаКонтекстноеМенюИзменитьРасширеннаяПодсказка</name>
               <id>363</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1067,7 +1067,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ВидыДоступаКонтекстноеМенюЗакончитьРедактированиеExtendedTooltip</name>
+              <name>ВидыДоступаКонтекстноеМенюЗакончитьРедактированиеРасширеннаяПодсказка</name>
               <id>364</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1100,7 +1100,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>ВидыДоступаКонтекстноеМенюКопироватьВБуферОбменаExtendedTooltip</name>
+                <name>ВидыДоступаКонтекстноеМенюКопироватьВБуферОбменаРасширеннаяПодсказка</name>
                 <id>366</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1130,7 +1130,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>ВидыДоступаКонтекстноеМенюВывестиСписокExtendedTooltip</name>
+                <name>ВидыДоступаКонтекстноеМенюВывестиСписокРасширеннаяПодсказка</name>
                 <id>367</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1161,7 +1161,7 @@
               <value>Виды доступа группа кнопок контекстного меню</value>
             </title>
             <extendedTooltip>
-              <name>ВидыДоступаГруппаКнопокКонтекстногоМенюExtendedTooltip</name>
+              <name>ВидыДоступаГруппаКнопокКонтекстногоМенюРасширеннаяПодсказка</name>
               <id>365</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1216,7 +1216,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ТекстВидДоступаНеИспользуетсяExtendedTooltip</name>
+            <name>ТекстВидДоступаНеИспользуетсяРасширеннаяПодсказка</name>
             <id>377</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1581,7 +1581,7 @@
             </extInfo>
           </searchControlAddition>
           <extendedTooltip>
-            <name>ЗначенияДоступаExtendedTooltip</name>
+            <name>ЗначенияДоступаРасширеннаяПодсказка</name>
             <id>392</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1639,7 +1639,7 @@
           <value>Значения доступа по виду доступа</value>
         </title>
         <extendedTooltip>
-          <name>ЗначенияДоступаПоВидуДоступаExtendedTooltip</name>
+          <name>ЗначенияДоступаПоВидуДоступаРасширеннаяПодсказка</name>
           <id>373</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1675,7 +1675,7 @@
         <value>Ограничения доступа</value>
       </title>
       <extendedTooltip>
-        <name>ДоступExtendedTooltip</name>
+        <name>ДоступРасширеннаяПодсказка</name>
         <id>362</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1794,7 +1794,7 @@
       <value>Пользователи и доступ</value>
     </title>
     <extendedTooltip>
-      <name>ПользователиИДоступExtendedTooltip</name>
+      <name>ПользователиИДоступРасширеннаяПодсказка</name>
       <id>343</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1834,7 +1834,7 @@
       </dataPath>
       <titleLocation>Right</titleLocation>
       <extendedTooltip>
-        <name>ИспользованиеПерсональногоДоступаExtendedTooltip</name>
+        <name>ИспользованиеПерсональногоДоступаРасширеннаяПодсказка</name>
         <id>342</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1878,7 +1878,7 @@
       </dataPath>
       <titleLocation>None</titleLocation>
       <extendedTooltip>
-        <name>ПользовательВладелецExtendedTooltip</name>
+        <name>ПользовательВладелецРасширеннаяПодсказка</name>
         <id>341</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1933,7 +1933,7 @@
       <value>Свойства персональной группы</value>
     </title>
     <extendedTooltip>
-      <name>СвойстваПерсональнойГруппыExtendedTooltip</name>
+      <name>СвойстваПерсональнойГруппыРасширеннаяПодсказка</name>
       <id>340</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1968,7 +1968,7 @@
       <segments>Объект.Ответственный</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ОтветственныйExtendedTooltip</name>
+      <name>ОтветственныйРасширеннаяПодсказка</name>
       <id>361</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -2081,7 +2081,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ПоказыватьНеиспользуемыеВидыДоступаExtendedTooltip</name>
+        <name>ПоказыватьНеиспользуемыеВидыДоступаРасширеннаяПодсказка</name>
         <id>335</id>
         <visible>true</visible>
         <enabled>true</enabled>

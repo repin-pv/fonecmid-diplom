@@ -674,7 +674,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаКомандаОКExtendedTooltip</name>
+        <name>ФормаКомандаОКРасширеннаяПодсказка</name>
         <id>4</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -707,7 +707,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаExtendedTooltip</name>
+        <name>ФормаСправкаРасширеннаяПодсказка</name>
         <id>5</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -737,7 +737,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОтменаExtendedTooltip</name>
+        <name>ФормаОтменаРасширеннаяПодсказка</name>
         <id>6</id>
         <visible>true</visible>
         <enabled>true</enabled>

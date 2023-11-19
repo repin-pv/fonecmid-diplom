@@ -189,7 +189,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>СообщениеЗаголовокExtendedTooltip</name>
+      <name>СообщениеЗаголовокРасширеннаяПодсказка</name>
       <id>78</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -634,7 +634,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокExtendedTooltip</name>
+      <name>СписокРасширеннаяПодсказка</name>
       <id>89</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1081,7 +1081,7 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <extendedTooltip>
-      <name>ПоказыватьЗанятыеФайлыПриЗавершенииРаботыExtendedTooltip</name>
+      <name>ПоказыватьЗанятыеФайлыПриЗавершенииРаботыРасширеннаяПодсказка</name>
       <id>94</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1125,7 +1125,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>СообщениеВопросExtendedTooltip</name>
+      <name>СообщениеВопросРасширеннаяПодсказка</name>
       <id>95</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1176,7 +1176,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ДаExtendedTooltip</name>
+        <name>ДаРасширеннаяПодсказка</name>
         <id>97</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1212,7 +1212,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>НетExtendedTooltip</name>
+        <name>НетРасширеннаяПодсказка</name>
         <id>98</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1247,7 +1247,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаExtendedTooltip</name>
+        <name>СправкаРасширеннаяПодсказка</name>
         <id>99</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1278,7 +1278,7 @@
       <value>Основная командная панель</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяКоманднаяПанельExtendedTooltip</name>
+      <name>ОсновнаяКоманднаяПанельРасширеннаяПодсказка</name>
       <id>96</id>
       <visible>true</visible>
       <enabled>true</enabled>

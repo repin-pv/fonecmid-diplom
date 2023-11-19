@@ -26,7 +26,7 @@
           <name>СерверHTTPПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>СерверHTTPExtendedTooltip</name>
+          <name>СерверHTTPРасширеннаяПодсказка</name>
           <id>35</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -76,7 +76,7 @@
           <segments>ПортHTTP</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПортHTTPExtendedTooltip</name>
+          <name>ПортHTTPРасширеннаяПодсказка</name>
           <id>36</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -134,7 +134,7 @@
         <value>HTTP</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаHTTPExtendedTooltip</name>
+        <name>ГруппаHTTPРасширеннаяПодсказка</name>
         <id>34</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -176,7 +176,7 @@
           <name>СерверHTTPПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>СерверHTTPSExtendedTooltip</name>
+          <name>СерверHTTPSРасширеннаяПодсказка</name>
           <id>38</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -226,7 +226,7 @@
           <segments>ПортHTTPS</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПортHTTPSExtendedTooltip</name>
+          <name>ПортHTTPSРасширеннаяПодсказка</name>
           <id>39</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -284,7 +284,7 @@
         <value>HTTP</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаHTTPSExtendedTooltip</name>
+        <name>ГруппаHTTPSРасширеннаяПодсказка</name>
         <id>37</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -326,7 +326,7 @@
           <name>СерверHTTPПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>СерверFTPExtendedTooltip</name>
+          <name>СерверFTPРасширеннаяПодсказка</name>
           <id>41</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -376,7 +376,7 @@
           <segments>ПортFTP</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПортFTPExtendedTooltip</name>
+          <name>ПортFTPРасширеннаяПодсказка</name>
           <id>42</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -438,7 +438,7 @@
         <value>Группа HTTP</value>
       </toolTip>
       <extendedTooltip>
-        <name>ГруппаFTPExtendedTooltip</name>
+        <name>ГруппаFTPРасширеннаяПодсказка</name>
         <id>40</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -471,7 +471,7 @@
       <value>Прокси серверы</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаПроксиСерверыExtendedTooltip</name>
+      <name>ГруппаПроксиСерверыРасширеннаяПодсказка</name>
       <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -518,7 +518,7 @@
       <name>ОдинПроксиДляВсехПротоколовПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>ОдинПроксиДляВсехПротоколовExtendedTooltip</name>
+      <name>ОдинПроксиДляВсехПротоколовРасширеннаяПодсказка</name>
       <id>32</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -580,7 +580,7 @@
           <segments>АдресаИсключений.АдресСервера</segments>
         </dataPath>
         <extendedTooltip>
-          <name>АдресаИсключенийАдресСервераExtendedTooltip</name>
+          <name>АдресаИсключенийАдресСервераРасширеннаяПодсказка</name>
           <id>45</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -746,7 +746,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>АдресаИсключенийExtendedTooltip</name>
+        <name>АдресаИсключенийРасширеннаяПодсказка</name>
         <id>44</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -804,7 +804,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДекорацияПредупреждениеДляСервераExtendedTooltip</name>
+        <name>ДекорацияПредупреждениеДляСервераРасширеннаяПодсказка</name>
         <id>46</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -848,7 +848,7 @@
       <value>Не использовать прокси-сервер для адресов</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаАдресовИсключенийExtendedTooltip</name>
+      <name>ГруппаАдресовИсключенийРасширеннаяПодсказка</name>
       <id>43</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -886,7 +886,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаКнопкаОКExtendedTooltip</name>
+        <name>ФормаКнопкаОКРасширеннаяПодсказка</name>
         <id>30</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -917,7 +917,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОтменаExtendedTooltip</name>
+        <name>ФормаОтменаРасширеннаяПодсказка</name>
         <id>31</id>
         <visible>true</visible>
         <enabled>true</enabled>

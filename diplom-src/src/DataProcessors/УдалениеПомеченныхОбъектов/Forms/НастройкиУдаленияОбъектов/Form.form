@@ -35,7 +35,7 @@
           <segments>НастройкиОтображенияОбъектов.МестоПоискаРеквизитПредставление</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПолеРасширеннаяПодсказка</name>
+          <name>НастройкиОтображенияОбъектовОтображаемыйРеквизитРасширеннаяПодсказка</name>
           <id>34</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -50,7 +50,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ПолеКонтекстноеМеню</name>
+          <name>НастройкиОтображенияОбъектовОтображаемыйРеквизитКонтекстноеМеню</name>
           <id>33</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -86,7 +86,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>ПолеРасширеннаяПодсказка1</name>
+          <name>НастройкиОтображенияОбъектовКартинкаРасширеннаяПодсказка</name>
           <id>39</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -101,7 +101,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ПолеКонтекстноеМеню1</name>
+          <name>НастройкиОтображенияОбъектовКартинкаКонтекстноеМеню</name>
           <id>38</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -133,7 +133,7 @@
         <value>Настройки отображения объектов группа</value>
       </title>
       <extendedTooltip>
-        <name>НастройкиОтображенияОбъектовГруппа1РасширеннаяПодсказка</name>
+        <name>НастройкиОтображенияОбъектовГруппаРасширеннаяПодсказка</name>
         <id>41</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -154,7 +154,7 @@
       </extInfo>
     </items>
     <autoCommandBar>
-      <name>КоманднаяПанель</name>
+      <name>НастройкиОтображенияОбъектовКоманднаяПанель</name>
       <id>20</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -280,7 +280,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>РасширеннаяПодсказка</name>
+      <name>НастройкиОтображенияОбъектовРасширеннаяПодсказка</name>
       <id>22</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -295,7 +295,7 @@
       </extInfo>
     </extendedTooltip>
     <contextMenu>
-      <name>КонтекстноеМеню</name>
+      <name>НастройкиОтображенияОбъектовКонтекстноеМеню</name>
       <id>21</id>
       <items xsi:type="form:Button">
         <name>КонтекстноеМенюДобавитьНастройку</name>
@@ -435,7 +435,7 @@
         <name>ОбычноеУдалениеПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПолеРасширеннаяПодсказка5</name>
+        <name>ОбычноеУдалениеРасширеннаяПодсказка</name>
         <id>65</id>
         <title>
           <key>ru</key>
@@ -456,7 +456,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ПолеКонтекстноеМеню5</name>
+        <name>ОбычноеУдалениеКонтекстноеМеню</name>
         <id>64</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -500,7 +500,7 @@
         <name>БезопасноеУдалениеПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПолеРасширеннаяПодсказка4</name>
+        <name>БезопасноеУдалениеРасширеннаяПодсказка</name>
         <id>62</id>
         <title>
           <key>ru</key>
@@ -522,7 +522,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ПолеКонтекстноеМеню4</name>
+        <name>БезопасноеУдалениеКонтекстноеМеню</name>
         <id>61</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -566,7 +566,7 @@
         <name>МонопольноеУдалениеПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПолеРасширеннаяПодсказка2</name>
+        <name>МонопольноеУдалениеРасширеннаяПодсказка</name>
         <id>44</id>
         <title>
           <key>ru</key>
@@ -586,7 +586,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ПолеКонтекстноеМеню2</name>
+        <name>МонопольноеУдалениеКонтекстноеМеню</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -623,7 +623,7 @@
       <value>Способ удаления</value>
     </title>
     <extendedTooltip>
-      <name>Группа1РасширеннаяПодсказка1</name>
+      <name>ГруппаНастройкаРежимаУдаленияРасширеннаяПодсказка</name>
       <id>59</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -673,7 +673,7 @@
           <name>ИспользоватьРегламентноеУдалениеПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ПолеРасширеннаяПодсказка3</name>
+          <name>ИспользоватьРегламентноеУдалениеРасширеннаяПодсказка</name>
           <id>53</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -688,7 +688,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ПолеКонтекстноеМеню3</name>
+          <name>ИспользоватьРегламентноеУдалениеКонтекстноеМеню</name>
           <id>52</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -716,7 +716,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>НастройкиРегламентноеУдалениеПомеченныхРасширеннаяПодсказка</name>
+          <name>УдалениеПомеченныхНастроитьРасписаниеРасширеннаяПодсказка</name>
           <id>55</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -748,7 +748,7 @@
         <value>Настройки регламентного задания</value>
       </title>
       <extendedTooltip>
-        <name>Группа1РасширеннаяПодсказка2</name>
+        <name>ГруппаНастройкаРегламентногоЗаданияРасширеннаяПодсказка</name>
         <id>69</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -828,7 +828,7 @@
       <value>Автоматически удалять помеченные объекты по расписанию</value>
     </title>
     <extendedTooltip>
-      <name>Группа1РасширеннаяПодсказка</name>
+      <name>НастройкаРегламентногоУдаленияРасширеннаяПодсказка</name>
       <id>48</id>
       <visible>true</visible>
       <enabled>true</enabled>
