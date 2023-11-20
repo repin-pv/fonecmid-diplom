@@ -23,7 +23,7 @@
         <name>ИнтервалВремениВыполненияПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ИнтервалВремениВыполненияРасширеннаяПодсказка</name>
+        <name>ИнтервалВремениВыполненияExtendedTooltip</name>
         <id>26</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -75,7 +75,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДекорацияСекРасширеннаяПодсказка</name>
+        <name>ДекорацияСекExtendedTooltip</name>
         <id>27</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -116,7 +116,7 @@
       <value>Интервал времени</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаИнтервалВремениРасширеннаяПодсказка</name>
+      <name>ГруппаИнтервалВремениExtendedTooltip</name>
       <id>25</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -155,7 +155,7 @@
       <name>КоличествоФайловВПорцииПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>КоличествоФайловВПорцииРасширеннаяПодсказка</name>
+      <name>КоличествоФайловВПорцииExtendedTooltip</name>
       <id>28</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -253,7 +253,7 @@
       </dataPath>
       <titleLocation>None</titleLocation>
       <extendedTooltip>
-        <name>СтатусРасширеннаяПодсказка</name>
+        <name>СтатусExtendedTooltip</name>
         <id>31</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -298,7 +298,7 @@
       <value>Статуса</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаСтатусаРасширеннаяПодсказка</name>
+      <name>ГруппаСтатусаExtendedTooltip</name>
       <id>30</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -335,7 +335,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СтартРасширеннаяПодсказка</name>
+        <name>СтартExtendedTooltip</name>
         <id>21</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -365,7 +365,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СтопРасширеннаяПодсказка</name>
+        <name>СтопExtendedTooltip</name>
         <id>22</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -395,7 +395,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ИзвлечьТекстИзВсехФайловРасширеннаяПодсказка</name>
+        <name>ИзвлечьТекстИзВсехФайловExtendedTooltip</name>
         <id>23</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -426,7 +426,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ЗакрытьРасширеннаяПодсказка</name>
+        <name>ЗакрытьExtendedTooltip</name>
         <id>24</id>
         <visible>true</visible>
         <enabled>true</enabled>

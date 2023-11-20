@@ -46,7 +46,7 @@
           <segments>ВыбранныеФорматыСохранения.Check</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ВыбранныеФорматыСохраненияПометкаРасширеннаяПодсказка</name>
+          <name>ВыбранныеФорматыСохраненияПометкаExtendedTooltip</name>
           <id>46</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -93,7 +93,7 @@
           <segments>ВыбранныеФорматыСохранения.Value</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ВыбранныеФорматыСохраненияЗначениеРасширеннаяПодсказка</name>
+          <name>ВыбранныеФорматыСохраненияЗначениеExtendedTooltip</name>
           <id>47</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -259,7 +259,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>ВыбранныеФорматыРасширеннаяПодсказка</name>
+        <name>ВыбранныеФорматыExtendedTooltip</name>
         <id>45</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -311,7 +311,7 @@
       <value>Выбор форматов</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаВыборФорматовРасширеннаяПодсказка</name>
+      <name>ГруппаВыборФорматовExtendedTooltip</name>
       <id>44</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -355,7 +355,7 @@
       </dataPath>
       <titleLocation>Right</titleLocation>
       <extendedTooltip>
-        <name>УпаковатьВАрхивРасширеннаяПодсказка</name>
+        <name>УпаковатьВАрхивExtendedTooltip</name>
         <id>49</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -445,7 +445,7 @@
       <value>Дополнительные параметры</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаДополнительныеПараметрыРасширеннаяПодсказка</name>
+      <name>ГруппаДополнительныеПараметрыExtendedTooltip</name>
       <id>48</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -483,7 +483,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>КнопкаПрикрепитьРасширеннаяПодсказка</name>
+        <name>КнопкаПрикрепитьExtendedTooltip</name>
         <id>42</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -514,7 +514,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КнопкаОтменаРасширеннаяПодсказка</name>
+        <name>КнопкаОтменаExtendedTooltip</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>

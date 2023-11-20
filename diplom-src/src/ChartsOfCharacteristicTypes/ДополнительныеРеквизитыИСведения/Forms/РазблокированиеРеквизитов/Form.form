@@ -27,7 +27,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ТекстПоясненияДополнительногоРеквизитаРасширеннаяПодсказка</name>
+              <name>ТекстПоясненияДополнительногоРеквизитаExtendedTooltip</name>
               <id>32</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -70,7 +70,7 @@
             <value>Пояснение дополнительного реквизита</value>
           </title>
           <extendedTooltip>
-            <name>ПояснениеДополнительногоРеквизитаРасширеннаяПодсказка</name>
+            <name>ПояснениеДополнительногоРеквизитаExtendedTooltip</name>
             <id>31</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -107,7 +107,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ТекстПоясненияДополнительногоСведенияРасширеннаяПодсказка</name>
+              <name>ТекстПоясненияДополнительногоСведенияExtendedTooltip</name>
               <id>34</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -150,7 +150,7 @@
             <value>Пояснение дополнительного сведения</value>
           </title>
           <extendedTooltip>
-            <name>ПояснениеДополнительногоСведенияРасширеннаяПодсказка</name>
+            <name>ПояснениеДополнительногоСведенияExtendedTooltip</name>
             <id>33</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -179,7 +179,7 @@
           <value>Пояснения</value>
         </title>
         <extendedTooltip>
-          <name>ПоясненияРасширеннаяПодсказка</name>
+          <name>ПоясненияExtendedTooltip</name>
           <id>30</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -208,7 +208,7 @@
         <value>Объект не используется</value>
       </title>
       <extendedTooltip>
-        <name>ОбъектНеИспользуетсяРасширеннаяПодсказка</name>
+        <name>ОбъектНеИспользуетсяExtendedTooltip</name>
         <id>29</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -251,7 +251,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ТекстПредупрежденияДополнительногоРеквизитаРасширеннаяПодсказка</name>
+              <name>ТекстПредупрежденияДополнительногоРеквизитаExtendedTooltip</name>
               <id>40</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -294,7 +294,7 @@
             <value>Предупреждение дополнительного реквизита</value>
           </title>
           <extendedTooltip>
-            <name>ПредупреждениеДополнительногоРеквизитаРасширеннаяПодсказка</name>
+            <name>ПредупреждениеДополнительногоРеквизитаExtendedTooltip</name>
             <id>39</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -331,7 +331,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ТекстПредупрежденияДополнительногоСведенияРасширеннаяПодсказка</name>
+              <name>ТекстПредупрежденияДополнительногоСведенияExtendedTooltip</name>
               <id>42</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -374,7 +374,7 @@
             <value>Предупреждение дополнительного сведения</value>
           </title>
           <extendedTooltip>
-            <name>ПредупреждениеДополнительногоСведенияРасширеннаяПодсказка</name>
+            <name>ПредупреждениеДополнительногоСведенияExtendedTooltip</name>
             <id>41</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -403,7 +403,7 @@
           <value>Предупреждения</value>
         </title>
         <extendedTooltip>
-          <name>ПредупрежденияРасширеннаяПодсказка</name>
+          <name>ПредупрежденияExtendedTooltip</name>
           <id>38</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -432,7 +432,7 @@
         <value>Объект используется</value>
       </title>
       <extendedTooltip>
-        <name>ОбъектИспользуетсяРасширеннаяПодсказка</name>
+        <name>ОбъектИспользуетсяExtendedTooltip</name>
         <id>37</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -461,7 +461,7 @@
       <value>Диалоги пользователя</value>
     </title>
     <extendedTooltip>
-      <name>ДиалогиПользователяРасширеннаяПодсказка</name>
+      <name>ДиалогиПользователяExtendedTooltip</name>
       <id>28</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -501,7 +501,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ОКРасширеннаяПодсказка</name>
+          <name>ОКExtendedTooltip</name>
           <id>36</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -534,7 +534,7 @@
       </title>
       <groupVerticalAlign>Bottom</groupVerticalAlign>
       <extendedTooltip>
-        <name>КнопкиПоясненияРасширеннаяПодсказка</name>
+        <name>КнопкиПоясненияExtendedTooltip</name>
         <id>35</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -563,7 +563,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>РазрешитьРедактированиеРасширеннаяПодсказка</name>
+          <name>РазрешитьРедактированиеExtendedTooltip</name>
           <id>44</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -594,7 +594,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>ОтменаРасширеннаяПодсказка</name>
+          <name>ОтменаExtendedTooltip</name>
           <id>45</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -626,7 +626,7 @@
       </title>
       <groupVerticalAlign>Bottom</groupVerticalAlign>
       <extendedTooltip>
-        <name>КнопкиПредупрежденияРасширеннаяПодсказка</name>
+        <name>КнопкиПредупрежденияExtendedTooltip</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>

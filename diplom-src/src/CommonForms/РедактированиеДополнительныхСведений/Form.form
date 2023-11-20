@@ -38,7 +38,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>ТаблицаЗначенийСвойствНомерКартинкиРасширеннаяПодсказка</name>
+          <name>ТаблицаЗначенийСвойствНомерКартинкиExtendedTooltip</name>
           <id>27</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -95,7 +95,7 @@
           <segments>ТаблицаЗначенийСвойств.Наименование</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ТаблицаЗначенийСвойствНаименованиеРасширеннаяПодсказка</name>
+          <name>ТаблицаЗначенийСвойствНаименованиеExtendedTooltip</name>
           <id>28</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -144,7 +144,7 @@
       <readOnly>true</readOnly>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ТаблицаЗначенийСвойствКартинкаИСвойствоРасширеннаяПодсказка</name>
+        <name>ТаблицаЗначенийСвойствКартинкаИСвойствоExtendedTooltip</name>
         <id>26</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -180,7 +180,7 @@
         <segments>ТаблицаЗначенийСвойств.Значение</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ТаблицаЗначенийСвойствЗначениеРасширеннаяПодсказка</name>
+        <name>ТаблицаЗначенийСвойствЗначениеExtendedTooltip</name>
         <id>29</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -432,7 +432,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ТаблицаЗначенийСвойствРасширеннаяПодсказка</name>
+      <name>ТаблицаЗначенийСвойствExtendedTooltip</name>
       <id>25</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -486,7 +486,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗаписатьИЗакрытьРасширеннаяПодсказка</name>
+        <name>ФормаЗаписатьИЗакрытьExtendedTooltip</name>
         <id>22</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -517,7 +517,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗаписатьРасширеннаяПодсказка</name>
+        <name>ФормаЗаписатьExtendedTooltip</name>
         <id>23</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -548,7 +548,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ИзменитьСоставДополнительныхСведенийРасширеннаяПодсказка</name>
+        <name>ИзменитьСоставДополнительныхСведенийExtendedTooltip</name>
         <id>24</id>
         <visible>true</visible>
         <enabled>true</enabled>

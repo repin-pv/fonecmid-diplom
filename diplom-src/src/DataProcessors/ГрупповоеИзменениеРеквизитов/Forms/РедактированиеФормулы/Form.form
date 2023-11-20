@@ -517,7 +517,7 @@
                   <segments>Операнды.Идентификатор</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ОперандыИдентификаторРасширеннаяПодсказка</name>
+                  <name>ОперандыИдентификаторExtendedTooltip</name>
                   <id>40</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -751,7 +751,7 @@
                 </extInfo>
               </searchControlAddition>
               <extendedTooltip>
-                <name>ОперандыРасширеннаяПодсказка</name>
+                <name>ОперандыExtendedTooltip</name>
                 <id>39</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -812,7 +812,7 @@
               <value>Страница числовых операндов</value>
             </title>
             <extendedTooltip>
-              <name>СтраницаЧисловыхОперандовРасширеннаяПодсказка</name>
+              <name>СтраницаЧисловыхОперандовExtendedTooltip</name>
               <id>38</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -987,7 +987,7 @@
                 </extInfo>
               </searchControlAddition>
               <extendedTooltip>
-                <name>КомпоновщикНастроекРасширеннаяПодсказка</name>
+                <name>КомпоновщикНастроекExtendedTooltip</name>
                 <id>42</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1043,7 +1043,7 @@
               <value>Страница строковых операндов</value>
             </title>
             <extendedTooltip>
-              <name>СтраницаСтроковыхОперандовРасширеннаяПодсказка</name>
+              <name>СтраницаСтроковыхОперандовExtendedTooltip</name>
               <id>41</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1072,7 +1072,7 @@
             <value>Операнды страницы</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаОперандыСтраницыРасширеннаяПодсказка</name>
+            <name>ГруппаОперандыСтраницыExtendedTooltip</name>
             <id>37</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1101,7 +1101,7 @@
           <value>Операнды</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаОперандыРасширеннаяПодсказка</name>
+          <name>ГруппаОперандыExtendedTooltip</name>
           <id>36</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1158,7 +1158,7 @@
               <segments>Операторы.Наименование</segments>
             </dataPath>
             <extendedTooltip>
-              <name>ОператорыОператорРасширеннаяПодсказка</name>
+              <name>ОператорыОператорExtendedTooltip</name>
               <id>45</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1337,7 +1337,7 @@
             </extInfo>
           </searchControlAddition>
           <extendedTooltip>
-            <name>ОператорыРасширеннаяПодсказка</name>
+            <name>ОператорыExtendedTooltip</name>
             <id>44</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1392,7 +1392,7 @@
           <value>Операторы и функции</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаОператорыРасширеннаяПодсказка</name>
+          <name>ГруппаОператорыExtendedTooltip</name>
           <id>43</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1427,7 +1427,7 @@
         <value>Основная</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаОсновнаяРасширеннаяПодсказка</name>
+        <name>ГруппаОсновнаяExtendedTooltip</name>
         <id>35</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1463,7 +1463,7 @@
       </dataPath>
       <titleLocation>None</titleLocation>
       <extendedTooltip>
-        <name>ФормулаРасширеннаяПодсказка</name>
+        <name>ФормулаExtendedTooltip</name>
         <id>46</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1547,7 +1547,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОКРасширеннаяПодсказка</name>
+        <name>ОКExtendedTooltip</name>
         <id>32</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1579,7 +1579,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ПроверитьРасширеннаяПодсказка</name>
+        <name>ПроверитьExtendedTooltip</name>
         <id>33</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -22,7 +22,7 @@
           <name>ТипПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ТипРасширеннаяПодсказка</name>
+          <name>ТипExtendedTooltip</name>
           <id>86</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -118,7 +118,7 @@
         <name>НаименованиеПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>НаименованиеРасширеннаяПодсказка</name>
+        <name>НаименованиеExtendedTooltip</name>
         <id>87</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -167,7 +167,7 @@
         <segments>Объект.Parent</segments>
       </dataPath>
       <extendedTooltip>
-        <name>РодительРасширеннаяПодсказка</name>
+        <name>РодительExtendedTooltip</name>
         <id>89</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -259,7 +259,7 @@
         </dataPath>
         <titleLocation>Right</titleLocation>
         <extendedTooltip>
-          <name>ОбязательноеЗаполнениеРасширеннаяПодсказка</name>
+          <name>ОбязательноеЗаполнениеExtendedTooltip</name>
           <id>92</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -526,7 +526,7 @@
           <name>РазрешитьВводНесколькихЗначенийПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>РазрешитьВводНесколькихЗначенийРасширеннаяПодсказка</name>
+          <name>РазрешитьВводНесколькихЗначенийExtendedTooltip</name>
           <id>94</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -567,7 +567,7 @@
         <value>Тип общие для всех</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаТипОбщиеДляВсехРасширеннаяПодсказка</name>
+        <name>ГруппаТипОбщиеДляВсехExtendedTooltip</name>
         <id>91</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -613,7 +613,7 @@
             </dataPath>
             <titleLocation>Right</titleLocation>
             <extendedTooltip>
-              <name>ВключатьСтрануВПредставлениеРасширеннаяПодсказка</name>
+              <name>ВключатьСтрануВПредставлениеExtendedTooltip</name>
               <id>107</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -733,7 +733,7 @@
             <value>Адрес</value>
           </title>
           <extendedTooltip>
-            <name>АдресРасширеннаяПодсказка</name>
+            <name>АдресExtendedTooltip</name>
             <id>100</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -773,7 +773,7 @@
             </dataPath>
             <titleLocation>Right</titleLocation>
             <extendedTooltip>
-              <name>ПроверятьКорректностьРасширеннаяПодсказка</name>
+              <name>ПроверятьКорректностьExtendedTooltip</name>
               <id>109</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -814,7 +814,7 @@
             <value>Адрес электронной почты</value>
           </title>
           <extendedTooltip>
-            <name>АдресЭлектроннойПочтыРасширеннаяПодсказка</name>
+            <name>АдресЭлектроннойПочтыExtendedTooltip</name>
             <id>108</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1317,7 +1317,7 @@
             <value>Другое</value>
           </title>
           <extendedTooltip>
-            <name>ДругоеРасширеннаяПодсказка</name>
+            <name>ДругоеExtendedTooltip</name>
             <id>110</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1420,7 +1420,7 @@
           <value>Проверки</value>
         </title>
         <extendedTooltip>
-          <name>ПроверкиРасширеннаяПодсказка</name>
+          <name>ПроверкиExtendedTooltip</name>
           <id>99</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1449,7 +1449,7 @@
         <value>Наименование настройки по типам</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаНаименованиеНастройкиПоТипамРасширеннаяПодсказка</name>
+        <name>ГруппаНаименованиеНастройкиПоТипамExtendedTooltip</name>
         <id>97</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1483,7 +1483,7 @@
       <value>Тип контактной информации</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаТипКонтактнойИнформацииРасширеннаяПодсказка</name>
+      <name>ГруппаТипКонтактнойИнформацииExtendedTooltip</name>
       <id>90</id>
       <visible>true</visible>
       <enabled>true</enabled>

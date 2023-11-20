@@ -136,7 +136,7 @@
       <segments>Объект.Code</segments>
     </dataPath>
     <extendedTooltip>
-      <name>КодРасширеннаяПодсказка</name>
+      <name>КодExtendedTooltip</name>
       <id>32</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -188,7 +188,7 @@
       <segments>Объект.Description</segments>
     </dataPath>
     <extendedTooltip>
-      <name>НаименованиеРасширеннаяПодсказка</name>
+      <name>НаименованиеExtendedTooltip</name>
       <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -248,7 +248,7 @@
       <name>РодительПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>РодительРасширеннаяПодсказка</name>
+      <name>РодительExtendedTooltip</name>
       <id>34</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -301,7 +301,7 @@
       <segments>ПолныйПуть</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ПолныйПутьРасширеннаяПодсказка</name>
+      <name>ПолныйПутьExtendedTooltip</name>
       <id>35</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -351,7 +351,7 @@
       <segments>Объект.Описание</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ОписаниеРасширеннаяПодсказка</name>
+      <name>ОписаниеExtendedTooltip</name>
       <id>36</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -404,7 +404,7 @@
       <segments>Объект.Ответственный</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ОтветственныйРасширеннаяПодсказка</name>
+      <name>ОтветственныйExtendedTooltip</name>
       <id>37</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -457,7 +457,7 @@
       <segments>Объект.ДатаСоздания</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ДатаСозданияРасширеннаяПодсказка</name>
+      <name>ДатаСозданияExtendedTooltip</name>
       <id>38</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -511,7 +511,7 @@
       <segments>РабочийКаталог</segments>
     </dataPath>
     <extendedTooltip>
-      <name>РабочийКаталогРасширеннаяПодсказка</name>
+      <name>РабочийКаталогExtendedTooltip</name>
       <id>39</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -734,10 +734,13 @@
   <commandInterface>
     <navigationPanel>
       <cmiFragmentRecord>
+        <command>0</command>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
         <command>CommonCommand.ПрисоединенныеФайлы</command>
-        <commandParameter xsi:type="form:DataPath">
-          <segments>Объект.Ref</segments>
-        </commandParameter>
         <userVisible/>
       </cmiFragmentRecord>
     </navigationPanel>

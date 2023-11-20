@@ -17,7 +17,7 @@
       <name>ВариантыИспользованияПроксиСервераПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>ВариантыИспользованияПроксиСервераРасширеннаяПодсказка</name>
+      <name>ВариантыИспользованияПроксиСервераExtendedTooltip</name>
       <id>45</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -99,7 +99,7 @@
           <value>IP адрес или имя прокси сервера</value>
         </toolTip>
         <extendedTooltip>
-          <name>ПроксиСерверРасширеннаяПодсказка</name>
+          <name>ПроксиСерверExtendedTooltip</name>
           <id>48</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -152,7 +152,7 @@
           <value>Порт прокси сервера</value>
         </toolTip>
         <extendedTooltip>
-          <name>ПортРасширеннаяПодсказка</name>
+          <name>ПортExtendedTooltip</name>
           <id>49</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -209,7 +209,7 @@
         <value>Адрес сервера</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаАдресСервераРасширеннаяПодсказка</name>
+        <name>ГруппаАдресСервераExtendedTooltip</name>
         <id>47</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -330,7 +330,7 @@
           <value>Логин для авторизации на прокси сервере</value>
         </toolTip>
         <extendedTooltip>
-          <name>ПользовательРасширеннаяПодсказка</name>
+          <name>ПользовательExtendedTooltip</name>
           <id>51</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -383,7 +383,7 @@
           <value>Пароль для авторизации на прокси сервере</value>
         </toolTip>
         <extendedTooltip>
-          <name>ПарольРасширеннаяПодсказка</name>
+          <name>ПарольExtendedTooltip</name>
           <id>52</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -470,7 +470,7 @@
         </dataPath>
         <titleLocation>Right</titleLocation>
         <extendedTooltip>
-          <name>НеИспользоватьПроксиДляЛокальныхАдресовРасширеннаяПодсказка</name>
+          <name>НеИспользоватьПроксиДляЛокальныхАдресовExtendedTooltip</name>
           <id>54</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -510,7 +510,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ДополнительныеПараметрыПроксиСервераРасширеннаяПодсказка</name>
+          <name>ДополнительныеПараметрыПроксиСервераExtendedTooltip</name>
           <id>56</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -543,7 +543,7 @@
         <value>Дополнительных параметров</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаДополнительныхПараметровРасширеннаяПодсказка</name>
+        <name>ГруппаДополнительныхПараметровExtendedTooltip</name>
         <id>53</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -577,7 +577,7 @@
       <value>Параметры прокси</value>
     </title>
     <extendedTooltip>
-      <name>ПараметрыПроксиРасширеннаяПодсказка</name>
+      <name>ПараметрыПроксиExtendedTooltip</name>
       <id>46</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -615,7 +615,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОкРасширеннаяПодсказка</name>
+        <name>ОкExtendedTooltip</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -646,7 +646,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КнопкаОтменаРасширеннаяПодсказка</name>
+        <name>КнопкаОтменаExtendedTooltip</name>
         <id>44</id>
         <visible>true</visible>
         <enabled>true</enabled>

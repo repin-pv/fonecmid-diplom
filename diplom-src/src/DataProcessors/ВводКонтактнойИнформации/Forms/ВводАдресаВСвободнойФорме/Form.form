@@ -212,7 +212,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ФормаОчиститьАдресРасширеннаяПодсказка</name>
+              <name>ФормаОчиститьАдресExtendedTooltip</name>
               <id>143</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -326,7 +326,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаРасширеннаяПодсказка</name>
+          <name>СправкаExtendedTooltip</name>
           <id>148</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -358,7 +358,7 @@
         <value>Панель команд формы</value>
       </title>
       <extendedTooltip>
-        <name>ПанельКомандФормыРасширеннаяПодсказка</name>
+        <name>ПанельКомандФормыExtendedTooltip</name>
         <id>139</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -387,7 +387,7 @@
       <value>Панель команд</value>
     </title>
     <extendedTooltip>
-      <name>ПанельКомандРасширеннаяПодсказка</name>
+      <name>ПанельКомандExtendedTooltip</name>
       <id>136</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -835,7 +835,7 @@
               <name>ПредставлениеИностранногоАдресаПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ПредставлениеИностранногоАдресаРасширеннаяПодсказка</name>
+              <name>ПредставлениеИностранногоАдресаExtendedTooltip</name>
               <id>132</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1158,7 +1158,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаКомандаОКРасширеннаяПодсказка</name>
+          <name>ФормаКомандаОКExtendedTooltip</name>
           <id>140</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1189,7 +1189,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОтменаРасширеннаяПодсказка</name>
+          <name>ФормаОтменаExtendedTooltip</name>
           <id>141</id>
           <visible>true</visible>
           <enabled>true</enabled>

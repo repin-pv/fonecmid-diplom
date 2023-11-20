@@ -154,7 +154,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КартинкаИнформацияРасширеннаяПодсказка</name>
+            <name>КартинкаИнформацияExtendedTooltip</name>
             <id>129</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -201,7 +201,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ИнформацияОбновлениеЗавершеноРасширеннаяПодсказка</name>
+            <name>ИнформацияОбновлениеЗавершеноExtendedTooltip</name>
             <id>131</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -243,7 +243,7 @@
         </title>
         <verticalStretch>false</verticalStretch>
         <extendedTooltip>
-          <name>ГруппаОбновлениеЗавершеноРасширеннаяПодсказка</name>
+          <name>ГруппаОбновлениеЗавершеноExtendedTooltip</name>
           <id>128</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -890,7 +890,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КартинкаИнформацияФайловаяБазаРасширеннаяПодсказка</name>
+            <name>КартинкаИнформацияФайловаяБазаExtendedTooltip</name>
             <id>136</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -937,7 +937,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ЗаголовокИнформацииФайловаяБазаРасширеннаяПодсказка</name>
+            <name>ЗаголовокИнформацииФайловаяБазаExtendedTooltip</name>
             <id>139</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1020,7 +1020,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОткрытьСписокОтложенныхОбработчиков1РасширеннаяПодсказка</name>
+              <name>ОткрытьСписокОтложенныхОбработчиков1ExtendedTooltip</name>
               <id>140</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1051,7 +1051,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ВыполнитьРасширеннаяПодсказка</name>
+              <name>ВыполнитьExtendedTooltip</name>
               <id>141</id>
               <title>
                 <key>ru</key>
@@ -1123,7 +1123,7 @@
           <value>Информация файловая база</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаИнформацияФайловаяБазаРасширеннаяПодсказка</name>
+          <name>ГруппаИнформацияФайловаяБазаExtendedTooltip</name>
           <id>137</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1156,7 +1156,7 @@
         <value>Обновление в файловой базе</value>
       </title>
       <extendedTooltip>
-        <name>ОбновлениеВФайловойБазеРасширеннаяПодсказка</name>
+        <name>ОбновлениеВФайловойБазеExtendedTooltip</name>
         <id>134</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1195,7 +1195,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КартинкаИнформацияПользователюРасширеннаяПодсказка</name>
+            <name>КартинкаИнформацияПользователюExtendedTooltip</name>
             <id>146</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1243,7 +1243,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ЗаголовокИнформацииДляПользователяРасширеннаяПодсказка</name>
+            <name>ЗаголовокИнформацииДляПользователяExtendedTooltip</name>
             <id>148</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1320,7 +1320,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ОткрытьСписокОтложенныхОбработчиков2РасширеннаяПодсказка</name>
+          <name>ОткрытьСписокОтложенныхОбработчиков2ExtendedTooltip</name>
           <id>149</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1352,7 +1352,7 @@
         <value>Статус обновления для пользователя</value>
       </title>
       <extendedTooltip>
-        <name>СтатусОбновленияДляПользователяРасширеннаяПодсказка</name>
+        <name>СтатусОбновленияДляПользователяExtendedTooltip</name>
         <id>145</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1393,7 +1393,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>КартинкаДействиеВыполняетсяРасширеннаяПодсказка</name>
+              <name>КартинкаДействиеВыполняетсяExtendedTooltip</name>
               <id>152</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1439,7 +1439,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ЗаголовокИнформацииРасширеннаяПодсказка</name>
+              <name>ЗаголовокИнформацииExtendedTooltip</name>
               <id>154</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1993,7 +1993,7 @@
                       <common>true</common>
                     </userVisible>
                     <extendedTooltip>
-                      <name>ИнформацияСтатусОбновленияРасширеннаяПодсказка</name>
+                      <name>ИнформацияСтатусОбновленияExtendedTooltip</name>
                       <id>155</id>
                       <visible>true</visible>
                       <enabled>true</enabled>
@@ -2556,7 +2556,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ИнформацияПодсказкаФайловаяБаза2РасширеннаяПодсказка</name>
+              <name>ИнформацияПодсказкаФайловаяБаза2ExtendedTooltip</name>
               <id>156</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2607,7 +2607,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>ПодсказкаПроПериодНаименьшейАктивностиПользователейРасширеннаяПодсказка</name>
+                <name>ПодсказкаПроПериодНаименьшейАктивностиПользователейExtendedTooltip</name>
                 <id>158</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2657,7 +2657,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ИзменитьРасписаниеРасширеннаяПодсказка</name>
+                  <name>ИзменитьРасписаниеExtendedTooltip</name>
                   <id>159</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -2689,7 +2689,7 @@
                 <value>Настройка расписания</value>
               </title>
               <extendedTooltip>
-                <name>ГруппаНастройкаРасписанияРасширеннаяПодсказка</name>
+                <name>ГруппаНастройкаРасписанияExtendedTooltip</name>
                 <id>174</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2722,7 +2722,7 @@
               <value>Подсказка про период наименьшей активности пользователей</value>
             </title>
             <extendedTooltip>
-              <name>ГруппаПодсказкаПроПериодНаименьшейАктивностиПользователейРасширеннаяПодсказка</name>
+              <name>ГруппаПодсказкаПроПериодНаименьшейАктивностиПользователейExtendedTooltip</name>
               <id>157</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2755,7 +2755,7 @@
             <value>Информация о прогрессе</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаИнформацияОПрогрессеРасширеннаяПодсказка</name>
+            <name>ГруппаИнформацияОПрогрессеExtendedTooltip</name>
             <id>153</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2788,7 +2788,7 @@
           <value>Ход обновления</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаХодОбновленияРасширеннаяПодсказка</name>
+          <name>ГруппаХодОбновленияExtendedTooltip</name>
           <id>151</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2822,7 +2822,7 @@
         <value>Обновление выполняется</value>
       </title>
       <extendedTooltip>
-        <name>ОбновлениеВыполняетсяРасширеннаяПодсказка</name>
+        <name>ОбновлениеВыполняетсяExtendedTooltip</name>
         <id>150</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2904,7 +2904,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ИнформацияОтложенныеОбработчикиОтсутствуютРасширеннаяПодсказка</name>
+              <name>ИнформацияОтложенныеОбработчикиОтсутствуютExtendedTooltip</name>
               <id>167</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -3373,7 +3373,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ОткрытьСписокОтложенныхОбработчиковРасширеннаяПодсказка</name>
+                  <name>ОткрытьСписокОтложенныхОбработчиковExtendedTooltip</name>
                   <id>170</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -3442,7 +3442,7 @@
               </userVisible>
               <toolTipRepresentation>Button</toolTipRepresentation>
               <extendedTooltip>
-                <name>ГиперссылкаОсновноеОбновлениеРасширеннаяПодсказка</name>
+                <name>ГиперссылкаОсновноеОбновлениеExtendedTooltip</name>
                 <id>132</id>
                 <title>
                   <key>ru</key>
@@ -3553,7 +3553,7 @@
           <value>Отложенное обновление завершено</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаОтложенноеОбновлениеЗавершеноРасширеннаяПодсказка</name>
+          <name>ГруппаОтложенноеОбновлениеЗавершеноExtendedTooltip</name>
           <id>164</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3587,7 +3587,7 @@
         <value>Обновление завершено</value>
       </title>
       <extendedTooltip>
-        <name>ОбновлениеЗавершеноРасширеннаяПодсказка</name>
+        <name>ОбновлениеЗавершеноExtendedTooltip</name>
         <id>163</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3617,7 +3617,7 @@
     </title>
     <horizontalStretch>true</horizontalStretch>
     <extendedTooltip>
-      <name>СтатусОбновленияРасширеннаяПодсказка</name>
+      <name>СтатусОбновленияExtendedTooltip</name>
       <id>133</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -3744,7 +3744,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗакрытьРасширеннаяПодсказка</name>
+        <name>ФормаЗакрытьExtendedTooltip</name>
         <id>127</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -19,7 +19,7 @@
         <segments>Наименование</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НаименованиеРасширеннаяПодсказка</name>
+        <name>НаименованиеExtendedTooltip</name>
         <id>32</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -68,7 +68,7 @@
         <segments>Состояние</segments>
       </dataPath>
       <extendedTooltip>
-        <name>СостояниеРасширеннаяПодсказка</name>
+        <name>СостояниеExtendedTooltip</name>
         <id>33</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -117,7 +117,7 @@
         <segments>Начало</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НачалоРасширеннаяПодсказка</name>
+        <name>НачалоExtendedTooltip</name>
         <id>34</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -166,7 +166,7 @@
         <segments>Конец</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КонецРасширеннаяПодсказка</name>
+        <name>КонецExtendedTooltip</name>
         <id>35</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -215,7 +215,7 @@
         <segments>Расположение</segments>
       </dataPath>
       <extendedTooltip>
-        <name>РасположениеРасширеннаяПодсказка</name>
+        <name>РасположениеExtendedTooltip</name>
         <id>36</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -263,7 +263,7 @@
     </title>
     <readOnly>true</readOnly>
     <extendedTooltip>
-      <name>ОсновноеРасширеннаяПодсказка</name>
+      <name>ОсновноеExtendedTooltip</name>
       <id>31</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -301,7 +301,7 @@
         <segments>Идентификатор</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИдентификаторРасширеннаяПодсказка</name>
+        <name>ИдентификаторExtendedTooltip</name>
         <id>38</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -350,7 +350,7 @@
         <segments>Ключ</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КлючРасширеннаяПодсказка</name>
+        <name>КлючExtendedTooltip</name>
         <id>39</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -399,7 +399,7 @@
         <segments>ИмяМетода</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИмяМетодаРасширеннаяПодсказка</name>
+        <name>ИмяМетодаExtendedTooltip</name>
         <id>40</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -447,7 +447,7 @@
     </title>
     <readOnly>true</readOnly>
     <extendedTooltip>
-      <name>ДополнительноРасширеннаяПодсказка</name>
+      <name>ДополнительноExtendedTooltip</name>
       <id>37</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -489,7 +489,7 @@
         <segments>НаименованиеРегламентногоЗадания</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НаименованиеРегламентногоЗаданияРасширеннаяПодсказка</name>
+        <name>НаименованиеРегламентногоЗаданияExtendedTooltip</name>
         <id>42</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -538,7 +538,7 @@
         <segments>ИдентификаторРегламентногоЗадания</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИдентификаторРегламентногоЗаданияРасширеннаяПодсказка</name>
+        <name>ИдентификаторРегламентногоЗаданияExtendedTooltip</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -586,7 +586,7 @@
     </title>
     <readOnly>true</readOnly>
     <extendedTooltip>
-      <name>РегламентноеЗаданиеРасширеннаяПодсказка</name>
+      <name>РегламентноеЗаданиеExtendedTooltip</name>
       <id>41</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -630,7 +630,7 @@
       <value>Сообщения пользователю и описание информации об ошибке</value>
     </toolTip>
     <extendedTooltip>
-      <name>СообщенияИОписаниеИнформацииОбОшибкеРасширеннаяПодсказка</name>
+      <name>СообщенияИОписаниеИнформацииОбОшибкеExtendedTooltip</name>
       <id>45</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -686,7 +686,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ЗакрытьРасширеннаяПодсказка</name>
+        <name>ЗакрытьExtendedTooltip</name>
         <id>30</id>
         <visible>true</visible>
         <enabled>true</enabled>

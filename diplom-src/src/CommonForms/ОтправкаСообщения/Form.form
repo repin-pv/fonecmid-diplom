@@ -430,7 +430,7 @@
         <name>УстановитьПризнакМодифицированностиФормы</name>
       </handlers>
       <extendedTooltip>
-        <name>ТемаПисьмаРасширеннаяПодсказка</name>
+        <name>ТемаПисьмаExtendedTooltip</name>
         <id>53</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -522,7 +522,7 @@
         <name>УстановитьПризнакМодифицированностиФормы</name>
       </handlers>
       <extendedTooltip>
-        <name>ТелоПисьмаРасширеннаяПодсказка</name>
+        <name>ТелоПисьмаExtendedTooltip</name>
         <id>54</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -596,7 +596,7 @@
             <segments>ПредставлениеВложений.Вложение1</segments>
           </dataPath>
           <extendedTooltip>
-            <name>Вложение1РасширеннаяПодсказка</name>
+            <name>Вложение1ExtendedTooltip</name>
             <id>62</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -645,7 +645,7 @@
             <segments>ПредставлениеВложений.Вложение2</segments>
           </dataPath>
           <extendedTooltip>
-            <name>Вложение2РасширеннаяПодсказка</name>
+            <name>Вложение2ExtendedTooltip</name>
             <id>63</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -695,7 +695,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>ПриложитьФайлРасширеннаяПодсказка</name>
+              <name>ПриложитьФайлExtendedTooltip</name>
               <id>60</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -864,7 +864,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ВложенияРасширеннаяПодсказка</name>
+          <name>ВложенияExtendedTooltip</name>
           <id>61</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -894,7 +894,7 @@
               </userVisible>
               <skipOnInput>false</skipOnInput>
               <extendedTooltip>
-                <name>КонтекстноеМенюВложенияПриложитьФайлРасширеннаяПодсказка</name>
+                <name>КонтекстноеМенюВложенияПриложитьФайлExtendedTooltip</name>
                 <id>57</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -925,7 +925,7 @@
               </userVisible>
               <skipOnInput>false</skipOnInput>
               <extendedTooltip>
-                <name>КонтекстноеМенюВложенияУдалитьРасширеннаяПодсказка</name>
+                <name>КонтекстноеМенюВложенияУдалитьExtendedTooltip</name>
                 <id>58</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -956,7 +956,7 @@
               <value>Приложить файл</value>
             </title>
             <extendedTooltip>
-              <name>ГруппаПриложитьФайлРасширеннаяПодсказка</name>
+              <name>ГруппаПриложитьФайлExtendedTooltip</name>
               <id>56</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -982,7 +982,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>КонтекстноеМенюВложенияОткрытьФайлРасширеннаяПодсказка</name>
+              <name>КонтекстноеМенюВложенияОткрытьФайлExtendedTooltip</name>
               <id>59</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1037,7 +1037,7 @@
         <value>Вложения</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаВложенияРасширеннаяПодсказка</name>
+        <name>ГруппаВложенияExtendedTooltip</name>
         <id>55</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1080,7 +1080,7 @@
         <name>УстановитьПризнакМодифицированностиФормы</name>
       </handlers>
       <extendedTooltip>
-        <name>АдресОтветаРасширеннаяПодсказка</name>
+        <name>АдресОтветаExtendedTooltip</name>
         <id>66</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1139,7 +1139,7 @@
       <value>Основная группа тела письма</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяГруппаТелаПисьмаРасширеннаяПодсказка</name>
+      <name>ОсновнаяГруппаТелаПисьмаExtendedTooltip</name>
       <id>51</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1176,7 +1176,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтправитьПисьмоРасширеннаяПодсказка</name>
+        <name>ОтправитьПисьмоExtendedTooltip</name>
         <id>49</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1238,7 +1238,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаРасширеннаяПодсказка</name>
+        <name>СправкаExtendedTooltip</name>
         <id>50</id>
         <visible>true</visible>
         <enabled>true</enabled>

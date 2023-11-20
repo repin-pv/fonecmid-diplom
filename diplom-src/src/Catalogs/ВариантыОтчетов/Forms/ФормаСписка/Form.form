@@ -122,7 +122,7 @@
         <name>ОтборТипОтчетаПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ОтборТипОтчетаРасширеннаяПодсказка</name>
+        <name>ОтборТипОтчетаExtendedTooltip</name>
         <id>101</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -188,7 +188,7 @@
       <value>Быстрые отборы</value>
     </title>
     <extendedTooltip>
-      <name>БыстрыеОтборыРасширеннаяПодсказка</name>
+      <name>БыстрыеОтборыExtendedTooltip</name>
       <id>98</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -259,7 +259,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВыбратьРасширеннаяПодсказка</name>
+        <name>ВыбратьExtendedTooltip</name>
         <id>103</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -292,7 +292,7 @@
         <segments>Items.Список.CurrentData.Ref</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ПросмотрРасширеннаяПодсказка</name>
+        <name>ПросмотрExtendedTooltip</name>
         <id>104</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -358,7 +358,7 @@
         <segments>Items.Список.CurrentData.Ref</segments>
       </dataPath>
       <extendedTooltip>
-        <name>РазместитьВРазделахРасширеннаяПодсказка</name>
+        <name>РазместитьВРазделахExtendedTooltip</name>
         <id>106</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -389,7 +389,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ИзменитьФормуРасширеннаяПодсказка</name>
+        <name>ИзменитьФормуExtendedTooltip</name>
         <id>107</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -419,7 +419,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СправкаРасширеннаяПодсказка</name>
+        <name>СправкаExtendedTooltip</name>
         <id>108</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -575,7 +575,7 @@
         <value>Команды списка</value>
       </title>
       <extendedTooltip>
-        <name>КомандыСпискаРасширеннаяПодсказка</name>
+        <name>КомандыСпискаExtendedTooltip</name>
         <id>109</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -639,7 +639,7 @@
         <segments>Items.Список.CurrentData.Ref</segments>
       </dataPath>
       <extendedTooltip>
-        <name>СброситьНастройкиПользователейРасширеннаяПодсказка</name>
+        <name>СброситьНастройкиПользователейExtendedTooltip</name>
         <id>111</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -670,7 +670,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>УстановитьПометкуУдаленияРасширеннаяПодсказка</name>
+        <name>УстановитьПометкуУдаленияExtendedTooltip</name>
         <id>112</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -791,7 +791,7 @@
       <value>Командная панель</value>
     </title>
     <extendedTooltip>
-      <name>КоманднаяПанельРасширеннаяПодсказка</name>
+      <name>КоманднаяПанельExtendedTooltip</name>
       <id>102</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -852,7 +852,7 @@
             <segments>ДеревоПодсистем.Представление</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ДеревоПодсистемПредставлениеРасширеннаяПодсказка</name>
+            <name>ДеревоПодсистемПредставлениеExtendedTooltip</name>
             <id>116</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1036,7 +1036,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ДеревоПодсистемРасширеннаяПодсказка</name>
+          <name>ДеревоПодсистемExtendedTooltip</name>
           <id>115</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1096,7 +1096,7 @@
           <name>ВключаяПодчиненныеПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ВключаяПодчиненныеРасширеннаяПодсказка</name>
+          <name>ВключаяПодчиненныеExtendedTooltip</name>
           <id>117</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1205,7 +1205,7 @@
               <segments>Список.Наименование</segments>
             </dataPath>
             <extendedTooltip>
-              <name>НаименованиеРасширеннаяПодсказка</name>
+              <name>НаименованиеExtendedTooltip</name>
               <id>124</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1253,7 +1253,7 @@
               <segments>Список.Автор</segments>
             </dataPath>
             <extendedTooltip>
-              <name>АвторРасширеннаяПодсказка</name>
+              <name>АвторExtendedTooltip</name>
               <id>125</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1306,7 +1306,7 @@
               <value>Доступен всем пользователям</value>
             </toolTip>
             <extendedTooltip>
-              <name>ДоступенВсемПользователямРасширеннаяПодсказка</name>
+              <name>ДоступенВсемПользователямExtendedTooltip</name>
               <id>126</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1357,7 +1357,7 @@
               <value>Видимость по умолчанию в панели отчетов</value>
             </toolTip>
             <extendedTooltip>
-              <name>ВидимостьПоУмолчаниюРасширеннаяПодсказка</name>
+              <name>ВидимостьПоУмолчаниюExtendedTooltip</name>
               <id>127</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1548,7 +1548,7 @@
             <segments>Список.ИмяОтчета</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ИмяОтчетаРасширеннаяПодсказка</name>
+            <name>ИмяОтчетаExtendedTooltip</name>
             <id>128</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1592,7 +1592,7 @@
             <segments>Список.Отчет</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ОтчетРасширеннаяПодсказка</name>
+            <name>ОтчетExtendedTooltip</name>
             <id>129</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1636,7 +1636,7 @@
             <segments>Список.ТипОтчета</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ТипОтчетаРасширеннаяПодсказка</name>
+            <name>ТипОтчетаExtendedTooltip</name>
             <id>130</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1680,7 +1680,7 @@
             <segments>Список.КлючВарианта</segments>
           </dataPath>
           <extendedTooltip>
-            <name>КлючВариантаРасширеннаяПодсказка</name>
+            <name>КлючВариантаExtendedTooltip</name>
             <id>131</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1923,7 +1923,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>СписокРасширеннаяПодсказка</name>
+        <name>СписокExtendedTooltip</name>
         <id>123</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1952,7 +1952,7 @@
             <segments>Items.Список.CurrentData.Ref</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ПросмотрСписокРасширеннаяПодсказка</name>
+            <name>ПросмотрСписокExtendedTooltip</name>
             <id>118</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2018,7 +2018,7 @@
             <segments>Items.Список.CurrentData.Ref</segments>
           </dataPath>
           <extendedTooltip>
-            <name>РазместитьВРазделахСписокРасширеннаяПодсказка</name>
+            <name>РазместитьВРазделахСписокExtendedTooltip</name>
             <id>120</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2052,7 +2052,7 @@
             <value>Команды списка</value>
           </title>
           <extendedTooltip>
-            <name>КомандыСпискаСписокРасширеннаяПодсказка</name>
+            <name>КомандыСпискаСписокExtendedTooltip</name>
             <id>121</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2079,7 +2079,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>УстановитьПометкуУдаленияСписокРасширеннаяПодсказка</name>
+            <name>УстановитьПометкуУдаленияСписокExtendedTooltip</name>
             <id>122</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2156,7 +2156,7 @@
       <value>Горизонтальная</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаГоризонтальнаяРасширеннаяПодсказка</name>
+      <name>ГруппаГоризонтальнаяExtendedTooltip</name>
       <id>113</id>
       <visible>true</visible>
       <enabled>true</enabled>

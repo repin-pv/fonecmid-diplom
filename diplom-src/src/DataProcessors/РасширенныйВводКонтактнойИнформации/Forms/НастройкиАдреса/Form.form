@@ -158,7 +158,7 @@
           </dataPath>
           <titleLocation>Right</titleLocation>
           <extendedTooltip>
-            <name>СкрыватьНеактуальныеАдресаРасширеннаяПодсказка</name>
+            <name>СкрыватьНеактуальныеАдресаExtendedTooltip</name>
             <id>23</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -307,7 +307,7 @@
       <value>Адрес</value>
     </title>
     <extendedTooltip>
-      <name>АдресРасширеннаяПодсказка</name>
+      <name>АдресExtendedTooltip</name>
       <id>2</id>
       <visible>true</visible>
       <enabled>true</enabled>

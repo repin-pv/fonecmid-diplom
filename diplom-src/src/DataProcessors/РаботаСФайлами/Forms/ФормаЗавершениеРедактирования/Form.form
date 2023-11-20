@@ -48,7 +48,7 @@
             <segments>ВыбранныеФайлы.ИндексКартинки</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ВыбранныеФайлыИндексКартинкиРасширеннаяПодсказка</name>
+            <name>ВыбранныеФайлыИндексКартинкиExtendedTooltip</name>
             <id>44</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -143,7 +143,7 @@
           <value>Картинка и наименование</value>
         </title>
         <extendedTooltip>
-          <name>КартинкаИНаименованиеРасширеннаяПодсказка</name>
+          <name>КартинкаИНаименованиеExtendedTooltip</name>
           <id>43</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -296,7 +296,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>ВыбранныеФайлыРасширеннаяПодсказка</name>
+        <name>ВыбранныеФайлыExtendedTooltip</name>
         <id>42</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -398,7 +398,7 @@
       <segments>Комментарий</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ОписаниеРасширеннаяПодсказка</name>
+      <name>ОписаниеExtendedTooltip</name>
       <id>48</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -454,7 +454,7 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <extendedTooltip>
-      <name>ХранитьВерсииРасширеннаяПодсказка</name>
+      <name>ХранитьВерсииExtendedTooltip</name>
       <id>49</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -540,7 +540,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаРасширеннаяПодсказка</name>
+        <name>ОтменаExtendedTooltip</name>
         <id>55</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -580,7 +580,7 @@
       <value>Основная командная панель</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяКоманднаяПанельРасширеннаяПодсказка</name>
+      <name>ОсновнаяКоманднаяПанельExtendedTooltip</name>
       <id>53</id>
       <visible>true</visible>
       <enabled>true</enabled>

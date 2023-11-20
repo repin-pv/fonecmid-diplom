@@ -63,7 +63,7 @@
       <segments>Объект.Description</segments>
     </dataPath>
     <extendedTooltip>
-      <name>НаименованиеРасширеннаяПодсказка</name>
+      <name>НаименованиеExtendedTooltip</name>
       <id>11</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -113,7 +113,7 @@
       <segments>Объект.Приоритет</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ПриоритетРасширеннаяПодсказка</name>
+      <name>ПриоритетExtendedTooltip</name>
       <id>12</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -164,7 +164,7 @@
       <segments>Объект.ЦелевоеВремя</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ЦелевоеВремяРасширеннаяПодсказка</name>
+      <name>ЦелевоеВремяExtendedTooltip</name>
       <id>13</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -214,7 +214,7 @@
       <segments>Объект.МинимальноДопустимыйУровень</segments>
     </dataPath>
     <extendedTooltip>
-      <name>МинимальноДопустимыйУровеньРасширеннаяПодсказка</name>
+      <name>МинимальноДопустимыйУровеньExtendedTooltip</name>
       <id>14</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -292,7 +292,12 @@
     <savedData>true</savedData>
   </attributes>
   <commandInterface>
-    <navigationPanel/>
+    <navigationPanel>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <userVisible/>
+      </cmiFragmentRecord>
+    </navigationPanel>
     <commandBar/>
   </commandInterface>
   <extInfo xsi:type="form:CatalogFormExtInfo"/>

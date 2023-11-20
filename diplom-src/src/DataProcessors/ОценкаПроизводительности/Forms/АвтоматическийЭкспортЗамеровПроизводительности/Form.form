@@ -66,7 +66,7 @@
           <name>ВыполнятьЭкспортПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ВыполнятьЭкспортРасширеннаяПодсказка</name>
+          <name>ВыполнятьЭкспортExtendedTooltip</name>
           <id>29</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -655,7 +655,7 @@
         <name>ВыполнятьЭкспортВКаталогПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ВыполнятьЭкспортВЛокальныйКаталогРасширеннаяПодсказка</name>
+        <name>ВыполнятьЭкспортВЛокальныйКаталогExtendedTooltip</name>
         <id>31</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -706,7 +706,7 @@
         <name>ЛокальныйКаталогЭкспортаПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ЛокальныйКаталогЭкспортаРасширеннаяПодсказка</name>
+        <name>ЛокальныйКаталогЭкспортаExtendedTooltip</name>
         <id>32</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -759,7 +759,7 @@
       <value>Настройки экспорта в локальный каталог</value>
     </title>
     <extendedTooltip>
-      <name>НастройкиЭкспортаВЛокальныйКаталогРасширеннаяПодсказка</name>
+      <name>НастройкиЭкспортаВЛокальныйКаталогExtendedTooltip</name>
       <id>30</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -803,7 +803,7 @@
         <name>ВыполнятьЭкспортВКаталогПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ВыполнятьЭкспортНаFTPРасширеннаяПодсказка</name>
+        <name>ВыполнятьЭкспортНаFTPExtendedTooltip</name>
         <id>34</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -854,7 +854,7 @@
         <name>FTPКаталогЭкспортаПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>FTPКаталогЭкспортаРасширеннаяПодсказка</name>
+        <name>FTPКаталогЭкспортаExtendedTooltip</name>
         <id>35</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -902,7 +902,7 @@
       <value>Настройки экспорта на FTP</value>
     </title>
     <extendedTooltip>
-      <name>НастройкиЭкспортаНаFTPРасширеннаяПодсказка</name>
+      <name>НастройкиЭкспортаНаFTPExtendedTooltip</name>
       <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -935,7 +935,7 @@
       <common>true</common>
     </userVisible>
     <extendedTooltip>
-      <name>НастроитьРасписаниеЭкспортаРасширеннаяПодсказка</name>
+      <name>НастроитьРасписаниеЭкспортаExtendedTooltip</name>
       <id>36</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -973,7 +973,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСохранитьЗакрытьРасширеннаяПодсказка</name>
+        <name>ФормаСохранитьЗакрытьExtendedTooltip</name>
         <id>25</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1008,7 +1008,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСохранитьНастройкиРасширеннаяПодсказка</name>
+        <name>ФормаСохранитьНастройкиExtendedTooltip</name>
         <id>26</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -1655,7 +1655,7 @@
             <name>ЗаголовокПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ЗаголовокРасширеннаяПодсказка</name>
+            <name>ЗаголовокExtendedTooltip</name>
             <id>118</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1708,7 +1708,7 @@
             <name>ЭтоДополнительноеСведениеПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ЭтоДополнительноеСведениеРасширеннаяПодсказка</name>
+            <name>ЭтоДополнительноеСведениеExtendedTooltip</name>
             <id>119</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1824,7 +1824,7 @@
               <name>ТипЗначенияПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ТипЗначенияРасширеннаяПодсказка</name>
+              <name>ТипЗначенияExtendedTooltip</name>
               <id>126</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1870,7 +1870,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>РедактироватьФорматЗначенияРасширеннаяПодсказка</name>
+              <name>РедактироватьФорматЗначенияExtendedTooltip</name>
               <id>127</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2308,7 +2308,7 @@
               <name>МногострочноеПолеВводаЧислоПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>МногострочноеПолеВводаЧислоРасширеннаяПодсказка</name>
+              <name>МногострочноеПолеВводаЧислоExtendedTooltip</name>
               <id>132</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2363,7 +2363,7 @@
             <value>Многострочное поле ввода настройки</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаМногострочноеПолеВводаНастройкиРасширеннаяПодсказка</name>
+            <name>ГруппаМногострочноеПолеВводаНастройкиExtendedTooltip</name>
             <id>130</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2395,7 +2395,7 @@
           <value>Многострочность</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаМногострочностьРасширеннаяПодсказка</name>
+          <name>ГруппаМногострочностьExtendedTooltip</name>
           <id>129</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2987,7 +2987,7 @@
               </dataPath>
               <titleHeight>2</titleHeight>
               <extendedTooltip>
-                <name>ПодсказкаРасширеннаяПодсказка</name>
+                <name>ПодсказкаExtendedTooltip</name>
                 <id>155</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -3045,7 +3045,7 @@
                   <value>Используется в заголовке формы дополнительного значения свойства.</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ЗаголовокФормыЗначенияРасширеннаяПодсказка</name>
+                  <name>ЗаголовокФормыЗначенияExtendedTooltip</name>
                   <id>157</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -3101,7 +3101,7 @@
                   <value>Используется в заголовке формы выбора дополнительного значения свойства.</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ЗаголовокФормыВыбораЗначенияРасширеннаяПодсказка</name>
+                  <name>ЗаголовокФормыВыбораЗначенияExtendedTooltip</name>
                   <id>158</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -3150,7 +3150,7 @@
                 <value>Заголовки форм значений</value>
               </title>
               <extendedTooltip>
-                <name>ГруппаЗаголовкиФормЗначенийРасширеннаяПодсказка</name>
+                <name>ГруппаЗаголовкиФормЗначенийExtendedTooltip</name>
                 <id>156</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -3186,7 +3186,7 @@
               </dataPath>
               <titleLocation>Left</titleLocation>
               <extendedTooltip>
-                <name>КомментарийРасширеннаяПодсказка</name>
+                <name>КомментарийExtendedTooltip</name>
                 <id>159</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -3245,7 +3245,7 @@
               <value>Остальные реквизиты</value>
             </title>
             <extendedTooltip>
-              <name>ОстальныеРеквизитыРасширеннаяПодсказка</name>
+              <name>ОстальныеРеквизитыExtendedTooltip</name>
               <id>154</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -3288,7 +3288,7 @@
                 <value>Переход к набору.</value>
               </toolTip>
               <extendedTooltip>
-                <name>УточнениеНаборовКомментарийРасширеннаяПодсказка</name>
+                <name>УточнениеНаборовКомментарийExtendedTooltip</name>
                 <id>161</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -3332,7 +3332,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>УточнениеНаборовИзменитьРасширеннаяПодсказка</name>
+                <name>УточнениеНаборовИзменитьExtendedTooltip</name>
                 <id>162</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -3364,7 +3364,7 @@
               <value>Уточнение наборов</value>
             </title>
             <extendedTooltip>
-              <name>УточнениеНаборовРасширеннаяПодсказка</name>
+              <name>УточнениеНаборовExtendedTooltip</name>
               <id>160</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -3461,7 +3461,7 @@
                     <segments>Значения.Наименование</segments>
                   </dataPath>
                   <extendedTooltip>
-                    <name>ЗначенияНаименованиеРасширеннаяПодсказка</name>
+                    <name>ЗначенияНаименованиеExtendedTooltip</name>
                     <id>148</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -3507,7 +3507,7 @@
                     <segments>Значения.Вес</segments>
                   </dataPath>
                   <extendedTooltip>
-                    <name>ЗначенияВесРасширеннаяПодсказка</name>
+                    <name>ЗначенияВесExtendedTooltip</name>
                     <id>149</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -3601,7 +3601,7 @@
                         <common>true</common>
                       </userVisible>
                       <extendedTooltip>
-                        <name>ЗначенияСоздатьРасширеннаяПодсказка</name>
+                        <name>ЗначенияСоздатьExtendedTooltip</name>
                         <id>141</id>
                         <visible>true</visible>
                         <enabled>true</enabled>
@@ -3631,7 +3631,7 @@
                         <common>true</common>
                       </userVisible>
                       <extendedTooltip>
-                        <name>ЗначенияСоздатьГруппуРасширеннаяПодсказка</name>
+                        <name>ЗначенияСоздатьГруппуExtendedTooltip</name>
                         <id>142</id>
                         <visible>true</visible>
                         <enabled>true</enabled>
@@ -3661,7 +3661,7 @@
                         <common>true</common>
                       </userVisible>
                       <extendedTooltip>
-                        <name>ЗначенияИзменитьРасширеннаяПодсказка</name>
+                        <name>ЗначенияИзменитьExtendedTooltip</name>
                         <id>143</id>
                         <visible>true</visible>
                         <enabled>true</enabled>
@@ -3691,7 +3691,7 @@
                         <common>true</common>
                       </userVisible>
                       <extendedTooltip>
-                        <name>ЗначенияУстановитьПометкуУдаленияРасширеннаяПодсказка</name>
+                        <name>ЗначенияУстановитьПометкуУдаленияExtendedTooltip</name>
                         <id>144</id>
                         <visible>true</visible>
                         <enabled>true</enabled>
@@ -3722,7 +3722,7 @@
                       <value>Значения командная панель редактирования</value>
                     </title>
                     <extendedTooltip>
-                      <name>ЗначенияКоманднаяПанельРедактированияРасширеннаяПодсказка</name>
+                      <name>ЗначенияКоманднаяПанельРедактированияExtendedTooltip</name>
                       <id>140</id>
                       <visible>true</visible>
                       <enabled>true</enabled>
@@ -3747,7 +3747,7 @@
                       <common>true</common>
                     </userVisible>
                     <extendedTooltip>
-                      <name>ЗначенияНайтиРасширеннаяПодсказка</name>
+                      <name>ЗначенияНайтиExtendedTooltip</name>
                       <id>145</id>
                       <visible>true</visible>
                       <enabled>true</enabled>
@@ -3777,7 +3777,7 @@
                       <common>true</common>
                     </userVisible>
                     <extendedTooltip>
-                      <name>ЗначенияОтменитьПоискРасширеннаяПодсказка</name>
+                      <name>ЗначенияОтменитьПоискExtendedTooltip</name>
                       <id>146</id>
                       <visible>true</visible>
                       <enabled>true</enabled>
@@ -3965,7 +3965,7 @@
                   </extInfo>
                 </searchControlAddition>
                 <extendedTooltip>
-                  <name>ЗначенияРасширеннаяПодсказка</name>
+                  <name>ЗначенияExtendedTooltip</name>
                   <id>147</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -4118,7 +4118,7 @@
                         <value>Значения контекстное меню стандартные команды</value>
                       </title>
                       <extendedTooltip>
-                        <name>ЗначенияКонтекстноеМенюСтандартныеКомандыРасширеннаяПодсказка</name>
+                        <name>ЗначенияКонтекстноеМенюСтандартныеКомандыExtendedTooltip</name>
                         <id>139</id>
                         <visible>true</visible>
                         <enabled>true</enabled>
@@ -4146,7 +4146,7 @@
                       <value>Значения контекстное меню редактирования</value>
                     </title>
                     <extendedTooltip>
-                      <name>ЗначенияКонтекстноеМенюРедактированияРасширеннаяПодсказка</name>
+                      <name>ЗначенияКонтекстноеМенюРедактированияExtendedTooltip</name>
                       <id>134</id>
                       <visible>true</visible>
                       <enabled>true</enabled>
@@ -4216,7 +4216,7 @@
                 <value>Дополнительные значения:</value>
               </title>
               <extendedTooltip>
-                <name>ДополнительныеЗначенияРасширеннаяПодсказка</name>
+                <name>ДополнительныеЗначенияExtendedTooltip</name>
                 <id>133</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -4787,7 +4787,7 @@
               <name>ДополнительныеЗначенияСВесомПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ДополнительныеЗначенияСВесомРасширеннаяПодсказка</name>
+              <name>ДополнительныеЗначенияСВесомExtendedTooltip</name>
               <id>150</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -4838,7 +4838,7 @@
                 <value>Переход к редактированию списка значений.</value>
               </toolTip>
               <extendedTooltip>
-                <name>УточнениеСпискаЗначенийКомментарийРасширеннаяПодсказка</name>
+                <name>УточнениеСпискаЗначенийКомментарийExtendedTooltip</name>
                 <id>152</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -4882,7 +4882,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>УточнениеСпискаЗначенийИзменитьРасширеннаяПодсказка</name>
+                <name>УточнениеСпискаЗначенийИзменитьExtendedTooltip</name>
                 <id>153</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -4914,7 +4914,7 @@
               <value>Уточнение списка значений</value>
             </title>
             <extendedTooltip>
-              <name>УточнениеСпискаЗначенийРасширеннаяПодсказка</name>
+              <name>УточнениеСпискаЗначенийExtendedTooltip</name>
               <id>151</id>
               <visible>true</visible>
               <enabled>true</enabled>

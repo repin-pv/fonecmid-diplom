@@ -12,7 +12,7 @@
       <common>true</common>
     </userVisible>
     <extendedTooltip>
-      <name>НедостаточноПравНаПросмотрРасширеннаяПодсказка</name>
+      <name>НедостаточноПравНаПросмотрExtendedTooltip</name>
       <id>116</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -86,7 +86,7 @@
             <segments>ГруппыДоступа.Наименование</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ГруппыДоступаНаименованиеРасширеннаяПодсказка</name>
+            <name>ГруппыДоступаНаименованиеExtendedTooltip</name>
             <id>125</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -136,7 +136,7 @@
             <segments>ГруппыДоступа.ПрофильНаименование</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ГруппыДоступаПрофильПредставлениеРасширеннаяПодсказка</name>
+            <name>ГруппыДоступаПрофильПредставлениеExtendedTooltip</name>
             <id>126</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -186,7 +186,7 @@
             <segments>ГруппыДоступа.Ответственный</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ГруппыДоступаОтветственныйРасширеннаяПодсказка</name>
+            <name>ГруппыДоступаОтветственныйExtendedTooltip</name>
             <id>127</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -236,7 +236,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ГруппыДоступаВключитьВГруппуРасширеннаяПодсказка</name>
+              <name>ГруппыДоступаВключитьВГруппуExtendedTooltip</name>
               <id>121</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -266,7 +266,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ГруппыДоступаИсключитьИзГруппыРасширеннаяПодсказка</name>
+              <name>ГруппыДоступаИсключитьИзГруппыExtendedTooltip</name>
               <id>122</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -296,7 +296,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ГруппыДоступаИзменитьГруппуРасширеннаяПодсказка</name>
+              <name>ГруппыДоступаИзменитьГруппуExtendedTooltip</name>
               <id>123</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -449,7 +449,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ГруппыДоступаРасширеннаяПодсказка</name>
+          <name>ГруппыДоступаExtendedTooltip</name>
           <id>124</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -475,7 +475,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ГруппыДоступаКонтекстноеМенюИзменитьГруппуРасширеннаяПодсказка</name>
+              <name>ГруппыДоступаКонтекстноеМенюИзменитьГруппуExtendedTooltip</name>
               <id>119</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -512,7 +512,7 @@
               <value>Группы доступа контекстное авто меню</value>
             </title>
             <extendedTooltip>
-              <name>ГруппыДоступаКонтекстноеАвтоМенюРасширеннаяПодсказка</name>
+              <name>ГруппыДоступаКонтекстноеАвтоМенюExtendedTooltip</name>
               <id>120</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -634,7 +634,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ЕстьЗапрещенныеГруппыКартинкаРасширеннаяПодсказка</name>
+            <name>ЕстьЗапрещенныеГруппыКартинкаExtendedTooltip</name>
             <id>130</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -681,7 +681,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ЕстьЗапрещенныеГруппыТекстРасширеннаяПодсказка</name>
+            <name>ЕстьЗапрещенныеГруппыТекстExtendedTooltip</name>
             <id>131</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -722,7 +722,7 @@
           <value>Предупреждение есть скрытые группы доступа</value>
         </title>
         <extendedTooltip>
-          <name>ПредупреждениеЕстьСкрытыеГруппыДоступаРасширеннаяПодсказка</name>
+          <name>ПредупреждениеЕстьСкрытыеГруппыДоступаExtendedTooltip</name>
           <id>129</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -755,7 +755,7 @@
         <value>Группы доступа</value>
       </title>
       <extendedTooltip>
-        <name>ГруппыДоступаПользователяРасширеннаяПодсказка</name>
+        <name>ГруппыДоступаПользователяExtendedTooltip</name>
         <id>118</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -822,7 +822,7 @@
               <segments>Роли.Пометка</segments>
             </dataPath>
             <extendedTooltip>
-              <name>РолиПометкаРасширеннаяПодсказка</name>
+              <name>РолиПометкаExtendedTooltip</name>
               <id>136</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -863,7 +863,7 @@
               <segments>Роли.Синоним</segments>
             </dataPath>
             <extendedTooltip>
-              <name>РолиСинонимРасширеннаяПодсказка</name>
+              <name>РолиСинонимExtendedTooltip</name>
               <id>137</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -912,7 +912,7 @@
             <value>Роли колонок</value>
           </title>
           <extendedTooltip>
-            <name>РолиКолонокРасширеннаяПодсказка</name>
+            <name>РолиКолонокExtendedTooltip</name>
             <id>135</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -944,7 +944,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>РолиПоказатьПодсистемыРолейРасширеннаяПодсказка</name>
+              <name>РолиПоказатьПодсистемыРолейExtendedTooltip</name>
               <id>133</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1089,7 +1089,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>РолиРасширеннаяПодсказка</name>
+          <name>РолиExtendedTooltip</name>
           <id>134</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1147,7 +1147,7 @@
         <value>Разрешенные действия (роли)</value>
       </title>
       <extendedTooltip>
-        <name>ОтображениеРолейРасширеннаяПодсказка</name>
+        <name>ОтображениеРолейExtendedTooltip</name>
         <id>132</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1177,7 +1177,7 @@
       <value>Группы доступа и роли</value>
     </title>
     <extendedTooltip>
-      <name>ГруппыДоступаИРолиРасширеннаяПодсказка</name>
+      <name>ГруппыДоступаИРолиExtendedTooltip</name>
       <id>117</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1208,7 +1208,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВГруппуРасширеннаяПодсказка</name>
+        <name>ФормаВключитьВГруппуExtendedTooltip</name>
         <id>109</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1237,7 +1237,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаИсключитьИзГруппыРасширеннаяПодсказка</name>
+        <name>ФормаИсключитьИзГруппыExtendedTooltip</name>
         <id>110</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1266,7 +1266,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаИзменитьГруппуРасширеннаяПодсказка</name>
+        <name>ФормаИзменитьГруппуExtendedTooltip</name>
         <id>111</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1326,7 +1326,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОбновитьРасширеннаяПодсказка</name>
+        <name>ФормаОбновитьExtendedTooltip</name>
         <id>115</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1357,7 +1357,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОтчетПраваДоступаРасширеннаяПодсказка</name>
+        <name>ФормаОтчетПраваДоступаExtendedTooltip</name>
         <id>112</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1392,7 +1392,7 @@
         <value>Панель формы</value>
       </title>
       <extendedTooltip>
-        <name>ПанельФормыРасширеннаяПодсказка</name>
+        <name>ПанельФормыExtendedTooltip</name>
         <id>113</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1419,7 +1419,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаРасширеннаяПодсказка</name>
+        <name>ФормаСправкаExtendedTooltip</name>
         <id>114</id>
         <visible>true</visible>
         <enabled>true</enabled>

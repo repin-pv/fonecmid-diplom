@@ -141,7 +141,7 @@
     </dataPath>
     <defaultItem>true</defaultItem>
     <extendedTooltip>
-      <name>НаименованиеРасширеннаяПодсказка</name>
+      <name>НаименованиеExtendedTooltip</name>
       <id>252</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -190,7 +190,7 @@
       <segments>Объект.Parent</segments>
     </dataPath>
     <extendedTooltip>
-      <name>РодительРасширеннаяПодсказка</name>
+      <name>РодительExtendedTooltip</name>
       <id>253</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -392,7 +392,7 @@
               <name>РолиПометкаПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>РолиПометкаРасширеннаяПодсказка</name>
+              <name>РолиПометкаExtendedTooltip</name>
               <id>263</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -433,7 +433,7 @@
               <segments>Роли.Синоним</segments>
             </dataPath>
             <extendedTooltip>
-              <name>РолиСинонимРасширеннаяПодсказка</name>
+              <name>РолиСинонимExtendedTooltip</name>
               <id>264</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -482,7 +482,7 @@
             <value>Роли колонок</value>
           </title>
           <extendedTooltip>
-            <name>РолиКолонокРасширеннаяПодсказка</name>
+            <name>РолиКолонокExtendedTooltip</name>
             <id>262</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -648,7 +648,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>РолиУстановитьФлажкиРасширеннаяПодсказка</name>
+              <name>РолиУстановитьФлажкиExtendedTooltip</name>
               <id>257</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -679,7 +679,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>РолиСнятьФлажкиРасширеннаяПодсказка</name>
+              <name>РолиСнятьФлажкиExtendedTooltip</name>
               <id>258</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -710,7 +710,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>РолиПоказатьТолькоВыбранныеРолиРасширеннаяПодсказка</name>
+              <name>РолиПоказатьТолькоВыбранныеРолиExtendedTooltip</name>
               <id>259</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -740,7 +740,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>РолиПоказатьПодсистемыРолейРасширеннаяПодсказка</name>
+              <name>РолиПоказатьПодсистемыРолейExtendedTooltip</name>
               <id>260</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -917,7 +917,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>РолиРасширеннаяПодсказка</name>
+          <name>РолиExtendedTooltip</name>
           <id>261</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -971,7 +971,7 @@
         <value>Разрешенные действия (роли)</value>
       </title>
       <extendedTooltip>
-        <name>ОтображениеРолейРасширеннаяПодсказка</name>
+        <name>ОтображениеРолейExtendedTooltip</name>
         <id>256</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1298,7 +1298,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ВидыДоступаРасширеннаяПодсказка</name>
+          <name>ВидыДоступаExtendedTooltip</name>
           <id>277</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1359,7 +1359,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ТекстВидДоступаНеИспользуетсяРасширеннаяПодсказка</name>
+            <name>ТекстВидДоступаНеИспользуетсяExtendedTooltip</name>
             <id>283</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1719,7 +1719,7 @@
                 </extInfo>
               </searchControlAddition>
               <extendedTooltip>
-                <name>ЗначенияДоступаРасширеннаяПодсказка</name>
+                <name>ЗначенияДоступаExtendedTooltip</name>
                 <id>294</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1777,7 +1777,7 @@
               <value>Предустановленный вид доступа</value>
             </title>
             <extendedTooltip>
-              <name>ПредустановленныйВидДоступаРасширеннаяПодсказка</name>
+              <name>ПредустановленныйВидДоступаExtendedTooltip</name>
               <id>285</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1813,7 +1813,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>ТекстИнформацииОбычногоВидаДоступаРасширеннаяПодсказка</name>
+                <name>ТекстИнформацииОбычногоВидаДоступаExtendedTooltip</name>
                 <id>300</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1855,7 +1855,7 @@
               <value>Обычный вид доступа</value>
             </title>
             <extendedTooltip>
-              <name>ОбычныйВидДоступаРасширеннаяПодсказка</name>
+              <name>ОбычныйВидДоступаExtendedTooltip</name>
               <id>299</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1884,7 +1884,7 @@
             <value>Типы видов доступа</value>
           </title>
           <extendedTooltip>
-            <name>ТипыВидовДоступаРасширеннаяПодсказка</name>
+            <name>ТипыВидовДоступаExtendedTooltip</name>
             <id>284</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1913,7 +1913,7 @@
           <value>Значения доступа по виду доступа</value>
         </title>
         <extendedTooltip>
-          <name>ЗначенияДоступаПоВидуДоступаРасширеннаяПодсказка</name>
+          <name>ЗначенияДоступаПоВидуДоступаExtendedTooltip</name>
           <id>280</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1949,7 +1949,7 @@
         <value>Ограничения доступа</value>
       </title>
       <extendedTooltip>
-        <name>ВидыИЗначенияДоступаРасширеннаяПодсказка</name>
+        <name>ВидыИЗначенияДоступаExtendedTooltip</name>
         <id>265</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2202,7 +2202,7 @@
       <value>Доступ</value>
     </title>
     <extendedTooltip>
-      <name>ДоступРасширеннаяПодсказка</name>
+      <name>ДоступExtendedTooltip</name>
       <id>255</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -2297,7 +2297,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ВосстановитьПоНачальномуЗаполнениюРасширеннаяПодсказка</name>
+        <name>ВосстановитьПоНачальномуЗаполнениюExtendedTooltip</name>
         <id>249</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2328,7 +2328,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ПоказыватьНеиспользуемыеВидыДоступаРасширеннаяПодсказка</name>
+        <name>ПоказыватьНеиспользуемыеВидыДоступаExtendedTooltip</name>
         <id>251</id>
         <visible>true</visible>
         <enabled>true</enabled>

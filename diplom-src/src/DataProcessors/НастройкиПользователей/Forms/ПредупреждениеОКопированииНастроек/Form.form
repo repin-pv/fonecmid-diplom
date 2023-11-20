@@ -108,7 +108,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СообщениеРасширеннаяПодсказка</name>
+        <name>СообщениеExtendedTooltip</name>
         <id>20</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -150,7 +150,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СписокАктивныхПользователейРасширеннаяПодсказка</name>
+        <name>СписокАктивныхПользователейExtendedTooltip</name>
         <id>22</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -195,7 +195,7 @@
       <value>Активные пользователи</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаАктивныеПользователиРасширеннаяПодсказка</name>
+      <name>ГруппаАктивныеПользователиExtendedTooltip</name>
       <id>21</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -232,7 +232,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СкопироватьРасширеннаяПодсказка</name>
+        <name>СкопироватьExtendedTooltip</name>
         <id>18</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -263,7 +263,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОтменаРасширеннаяПодсказка</name>
+        <name>ОтменаExtendedTooltip</name>
         <id>19</id>
         <visible>true</visible>
         <enabled>true</enabled>

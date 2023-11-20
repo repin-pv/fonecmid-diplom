@@ -36,7 +36,7 @@
           <name>ПометкаПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ПометкаРасширеннаяПодсказка</name>
+          <name>ПометкаExtendedTooltip</name>
           <id>18</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -79,7 +79,7 @@
           <segments>Список.Представление</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ПредставлениеРасширеннаяПодсказка</name>
+          <name>ПредставлениеExtendedTooltip</name>
           <id>19</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -119,7 +119,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ГруппаРасширеннаяПодсказка</name>
+        <name>ГруппаExtendedTooltip</name>
         <id>17</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -152,7 +152,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>УстановитьВсеРасширеннаяПодсказка</name>
+          <name>УстановитьВсеExtendedTooltip</name>
           <id>14</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -192,7 +192,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>СнятьВсеРасширеннаяПодсказка</name>
+          <name>СнятьВсеExtendedTooltip</name>
           <id>15</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -346,7 +346,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокРасширеннаяПодсказка</name>
+      <name>СписокExtendedTooltip</name>
       <id>16</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -403,7 +403,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>OKРасширеннаяПодсказка</name>
+        <name>OKExtendedTooltip</name>
         <id>21</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -441,7 +441,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаРасширеннаяПодсказка</name>
+        <name>ОтменаExtendedTooltip</name>
         <id>22</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -481,7 +481,7 @@
       <value>Кнопки формы</value>
     </title>
     <extendedTooltip>
-      <name>КнопкиФормыРасширеннаяПодсказка</name>
+      <name>КнопкиФормыExtendedTooltip</name>
       <id>20</id>
       <visible>true</visible>
       <enabled>true</enabled>

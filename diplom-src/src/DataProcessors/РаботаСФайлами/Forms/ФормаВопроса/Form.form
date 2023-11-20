@@ -13,7 +13,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>СообщениеЗаголовокРасширеннаяПодсказка</name>
+      <name>СообщениеЗаголовокExtendedTooltip</name>
       <id>17</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -80,7 +80,7 @@
         <segments>Файлы.Presentation</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ПредставлениеРасширеннаяПодсказка</name>
+        <name>ПредставлениеExtendedTooltip</name>
         <id>19</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -250,7 +250,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ФайлыРасширеннаяПодсказка</name>
+      <name>ФайлыExtendedTooltip</name>
       <id>18</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -311,7 +311,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>СообщениеВопросРасширеннаяПодсказка</name>
+      <name>СообщениеВопросExtendedTooltip</name>
       <id>20</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -362,7 +362,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ДаРасширеннаяПодсказка</name>
+        <name>ДаExtendedTooltip</name>
         <id>22</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -398,7 +398,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>НетРасширеннаяПодсказка</name>
+        <name>НетExtendedTooltip</name>
         <id>23</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -433,7 +433,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаРасширеннаяПодсказка</name>
+        <name>СправкаExtendedTooltip</name>
         <id>24</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -464,7 +464,7 @@
       <value>Основная командная панель</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяКоманднаяПанельРасширеннаяПодсказка</name>
+      <name>ОсновнаяКоманднаяПанельExtendedTooltip</name>
       <id>21</id>
       <visible>true</visible>
       <enabled>true</enabled>

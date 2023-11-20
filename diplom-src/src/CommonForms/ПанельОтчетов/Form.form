@@ -167,7 +167,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>НастроитьРасширеннаяПодсказка</name>
+            <name>НастроитьExtendedTooltip</name>
             <id>413</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -199,7 +199,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаОбновитьРасширеннаяПодсказка</name>
+            <name>ФормаОбновитьExtendedTooltip</name>
             <id>415</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -264,7 +264,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>СброситьМоиНастройкиРасширеннаяПодсказка</name>
+              <name>СброситьМоиНастройкиExtendedTooltip</name>
               <id>421</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -321,7 +321,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаИзменитьФормуРасширеннаяПодсказка</name>
+            <name>ФормаИзменитьФормуExtendedTooltip</name>
             <id>423</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -527,7 +527,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ДекорацияДлительнаяОперацияРасширеннаяПодсказка</name>
+            <name>ДекорацияДлительнаяОперацияExtendedTooltip</name>
             <id>441</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -573,7 +573,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ДекорацияПоясняющийТекстДлительнойОперацииРасширеннаяПодсказка</name>
+            <name>ДекорацияПоясняющийТекстДлительнойОперацииExtendedTooltip</name>
             <id>444</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -910,7 +910,7 @@
               <value>Быстрый доступ колонка 1</value>
             </title>
             <extendedTooltip>
-              <name>БыстрыйДоступКолонка1РасширеннаяПодсказка</name>
+              <name>БыстрыйДоступКолонка1ExtendedTooltip</name>
               <id>285</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -946,7 +946,7 @@
               <value>Быстрый доступ колонка 2</value>
             </title>
             <extendedTooltip>
-              <name>БыстрыйДоступКолонка2РасширеннаяПодсказка</name>
+              <name>БыстрыйДоступКолонка2ExtendedTooltip</name>
               <id>286</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -979,7 +979,7 @@
             <value>Быстрый доступ</value>
           </title>
           <extendedTooltip>
-            <name>БыстрыйДоступРасширеннаяПодсказка</name>
+            <name>БыстрыйДоступExtendedTooltip</name>
             <id>284</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1097,7 +1097,7 @@
               <value>Без группы колонка 1</value>
             </title>
             <extendedTooltip>
-              <name>БезГруппыКолонка1РасширеннаяПодсказка</name>
+              <name>БезГруппыКолонка1ExtendedTooltip</name>
               <id>290</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1133,7 +1133,7 @@
               <value>Без группы колонка 2</value>
             </title>
             <extendedTooltip>
-              <name>БезГруппыКолонка2РасширеннаяПодсказка</name>
+              <name>БезГруппыКолонка2ExtendedTooltip</name>
               <id>291</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1166,7 +1166,7 @@
             <value>Без группы</value>
           </title>
           <extendedTooltip>
-            <name>БезГруппыРасширеннаяПодсказка</name>
+            <name>БезГруппыExtendedTooltip</name>
             <id>289</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1245,7 +1245,7 @@
               <value>С группой колонка 1</value>
             </title>
             <extendedTooltip>
-              <name>СГруппойКолонка1РасширеннаяПодсказка</name>
+              <name>СГруппойКолонка1ExtendedTooltip</name>
               <id>295</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1281,7 +1281,7 @@
               <value>С группой колонка 2</value>
             </title>
             <extendedTooltip>
-              <name>СГруппойКолонка2РасширеннаяПодсказка</name>
+              <name>СГруппойКолонка2ExtendedTooltip</name>
               <id>296</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1314,7 +1314,7 @@
             <value>С группой</value>
           </title>
           <extendedTooltip>
-            <name>СГруппойРасширеннаяПодсказка</name>
+            <name>СГруппойExtendedTooltip</name>
             <id>294</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1444,7 +1444,7 @@
               <value>См также колонка 1</value>
             </title>
             <extendedTooltip>
-              <name>СмТакжеКолонка1РасширеннаяПодсказка</name>
+              <name>СмТакжеКолонка1ExtendedTooltip</name>
               <id>300</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1480,7 +1480,7 @@
               <value>См также колонка 2</value>
             </title>
             <extendedTooltip>
-              <name>СмТакжеКолонка2РасширеннаяПодсказка</name>
+              <name>СмТакжеКолонка2ExtendedTooltip</name>
               <id>301</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1513,7 +1513,7 @@
             <value>См также</value>
           </title>
           <extendedTooltip>
-            <name>СмТакжеРасширеннаяПодсказка</name>
+            <name>СмТакжеExtendedTooltip</name>
             <id>299</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1587,7 +1587,7 @@
           <value>Колонки</value>
         </title>
         <extendedTooltip>
-          <name>КолонкиРасширеннаяПодсказка</name>
+          <name>КолонкиExtendedTooltip</name>
           <id>283</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1811,7 +1811,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СсылкаВсеОтчетыРасширеннаяПодсказка</name>
+        <name>СсылкаВсеОтчетыExtendedTooltip</name>
         <id>304</id>
         <visible>true</visible>
         <enabled>true</enabled>

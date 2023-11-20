@@ -26,7 +26,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>УстановитьПериодРассчитанныхИтоговРасширеннаяПодсказка</name>
+              <name>УстановитьПериодРассчитанныхИтоговExtendedTooltip</name>
               <id>334</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -66,7 +66,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОписаниеУстановкиПериодаРасширеннаяПодсказка</name>
+              <name>ОписаниеУстановкиПериодаExtendedTooltip</name>
               <id>335</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -148,7 +148,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>ВключитьИспользованиеИтоговРасширеннаяПодсказка</name>
+              <name>ВключитьИспользованиеИтоговExtendedTooltip</name>
               <id>337</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -186,7 +186,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПростыеИтогиОписаниеРасширеннаяПодсказка</name>
+              <name>ПростыеИтогиОписаниеExtendedTooltip</name>
               <id>338</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -232,7 +232,7 @@
             <value>Включение итогов</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаВключениеИтоговРасширеннаяПодсказка</name>
+            <name>ГруппаВключениеИтоговExtendedTooltip</name>
             <id>336</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -265,7 +265,7 @@
           <value>Итоги</value>
         </title>
         <extendedTooltip>
-          <name>БыстрыйДоступИтогиРасширеннаяПодсказка</name>
+          <name>БыстрыйДоступИтогиExtendedTooltip</name>
           <id>332</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -306,7 +306,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>ПерестроитьИЗаполнитьАгрегатыРасширеннаяПодсказка</name>
+              <name>ПерестроитьИЗаполнитьАгрегатыExtendedTooltip</name>
               <id>341</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -344,7 +344,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПростоеПостроениеИЗаполнениеОписаниеРасширеннаяПодсказка</name>
+              <name>ПростоеПостроениеИЗаполнениеОписаниеExtendedTooltip</name>
               <id>342</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -390,7 +390,7 @@
             <value>Перестроение и заполнение агрегатов</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаПерестроениеИЗаполнениеАгрегатовРасширеннаяПодсказка</name>
+            <name>ГруппаПерестроениеИЗаполнениеАгрегатовExtendedTooltip</name>
             <id>340</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -425,7 +425,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>ПолучитьОптимальныеАгрегатыРасширеннаяПодсказка</name>
+              <name>ПолучитьОптимальныеАгрегатыExtendedTooltip</name>
               <id>344</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -463,7 +463,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПростоеПолучениеОптимальныхАгрегатовРасширеннаяПодсказка</name>
+              <name>ПростоеПолучениеОптимальныхАгрегатовExtendedTooltip</name>
               <id>345</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -509,7 +509,7 @@
             <value>Получение оптимальных агрегатов</value>
           </title>
           <extendedTooltip>
-            <name>ГруппаПолучениеОптимальныхАгрегатовРасширеннаяПодсказка</name>
+            <name>ГруппаПолучениеОптимальныхАгрегатовExtendedTooltip</name>
             <id>343</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -576,7 +576,7 @@
         <value>Типовые операции</value>
       </title>
       <extendedTooltip>
-        <name>БыстрыйДоступРасширеннаяПодсказка</name>
+        <name>БыстрыйДоступExtendedTooltip</name>
         <id>331</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -647,7 +647,7 @@
                 <value>Признак использования итогов данным регистром.</value>
               </toolTip>
               <extendedTooltip>
-                <name>ИтогиИспользоватьИтогиРасширеннаяПодсказка</name>
+                <name>ИтогиИспользоватьИтогиExtendedTooltip</name>
                 <id>373</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -693,7 +693,7 @@
                   <segments>СписокИтогов.Наименование</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ИтогиНаименованиеРасширеннаяПодсказка</name>
+                  <name>ИтогиНаименованиеExtendedTooltip</name>
                   <id>372</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -747,7 +747,7 @@
                   <value>Какой режим использует регистр: итогов или агрегатов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ИтогиАгрегатыИтогиРасширеннаяПодсказка</name>
+                  <name>ИтогиАгрегатыИтогиExtendedTooltip</name>
                   <id>377</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -834,7 +834,7 @@
                 <value>Текущая дата актуальности итогов</value>
               </toolTip>
               <extendedTooltip>
-                <name>ИтогиПериодИтоговРасширеннаяПодсказка</name>
+                <name>ИтогиПериодИтоговExtendedTooltip</name>
                 <id>375</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -889,7 +889,7 @@
                 <value>Признак использования текущих итогов данным регистром.</value>
               </toolTip>
               <extendedTooltip>
-                <name>ИтогиИспользоватьТекущиеИтогиРасширеннаяПодсказка</name>
+                <name>ИтогиИспользоватьТекущиеИтогиExtendedTooltip</name>
                 <id>374</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -936,7 +936,7 @@
                 <value>Возможность разделения итогов</value>
               </toolTip>
               <extendedTooltip>
-                <name>ИтогиРазделениеИтоговРасширеннаяПодсказка</name>
+                <name>ИтогиРазделениеИтоговExtendedTooltip</name>
                 <id>376</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -981,7 +981,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>ОбновитьСостояниеИтоговРасширеннаяПодсказка</name>
+                  <name>ОбновитьСостояниеИтоговExtendedTooltip</name>
                   <id>353</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1014,7 +1014,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ИтогиВключитьИспользованиеИтоговРасширеннаяПодсказка</name>
+                    <name>ИтогиВключитьИспользованиеИтоговExtendedTooltip</name>
                     <id>355</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1045,7 +1045,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ИтогиВыключитьИспользованиеИтоговРасширеннаяПодсказка</name>
+                    <name>ИтогиВыключитьИспользованиеИтоговExtendedTooltip</name>
                     <id>356</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1080,7 +1080,7 @@
                   <value>Включение/выключение использования итогов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаИтогиРасширеннаяПодсказка</name>
+                  <name>ГруппаИтогиExtendedTooltip</name>
                   <id>354</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1112,7 +1112,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ВключитьИспользованиеТекущихИтоговРасширеннаяПодсказка</name>
+                    <name>ВключитьИспользованиеТекущихИтоговExtendedTooltip</name>
                     <id>358</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1143,7 +1143,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ВыключитьИспользованиеТекущихИтоговРасширеннаяПодсказка</name>
+                    <name>ВыключитьИспользованиеТекущихИтоговExtendedTooltip</name>
                     <id>359</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1178,7 +1178,7 @@
                   <value>Включение/выключение использования текущих итогов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаТекущиеИтогиРасширеннаяПодсказка</name>
+                  <name>ГруппаТекущиеИтогиExtendedTooltip</name>
                   <id>357</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1210,7 +1210,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ВключитьРазделениеИтоговРасширеннаяПодсказка</name>
+                    <name>ВключитьРазделениеИтоговExtendedTooltip</name>
                     <id>361</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1241,7 +1241,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ВыключитьРазделениеИтоговРасширеннаяПодсказка</name>
+                    <name>ВыключитьРазделениеИтоговExtendedTooltip</name>
                     <id>362</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1276,7 +1276,7 @@
                   <value>Включение/выключение разделения итогов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаРазделениеИтоговРасширеннаяПодсказка</name>
+                  <name>ГруппаРазделениеИтоговExtendedTooltip</name>
                   <id>360</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1305,7 +1305,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>УстановитьПериодИтоговРасширеннаяПодсказка</name>
+                  <name>УстановитьПериодИтоговExtendedTooltip</name>
                   <id>363</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1339,7 +1339,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ПересчитатьИтогиРасширеннаяПодсказка</name>
+                    <name>ПересчитатьИтогиExtendedTooltip</name>
                     <id>365</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1370,7 +1370,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ПересчитатьТекущиеИтогиРасширеннаяПодсказка</name>
+                    <name>ПересчитатьТекущиеИтогиExtendedTooltip</name>
                     <id>366</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1401,7 +1401,7 @@
                   </userVisible>
                   <skipOnInput>false</skipOnInput>
                   <extendedTooltip>
-                    <name>ПересчитатьИтогиЗаПериодРасширеннаяПодсказка</name>
+                    <name>ПересчитатьИтогиЗаПериодExtendedTooltip</name>
                     <id>367</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -1436,7 +1436,7 @@
                   <value>Пересчет итогов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаПересчетРасширеннаяПодсказка</name>
+                  <name>ГруппаПересчетExtendedTooltip</name>
                   <id>364</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1465,7 +1465,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>НайтиРасширеннаяПодсказка</name>
+                  <name>НайтиExtendedTooltip</name>
                   <id>368</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1496,7 +1496,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>ОтменитьПоискРасширеннаяПодсказка</name>
+                  <name>ОтменитьПоискExtendedTooltip</name>
                   <id>369</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1527,7 +1527,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>ВыделитьВсеРасширеннаяПодсказка</name>
+                  <name>ВыделитьВсеExtendedTooltip</name>
                   <id>370</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1681,7 +1681,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>СписокИтоговРасширеннаяПодсказка</name>
+              <name>СписокИтоговExtendedTooltip</name>
               <id>371</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1708,7 +1708,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>КонтекстноеМенюИтогиУстановитьПериодИтоговРасширеннаяПодсказка</name>
+                  <name>КонтекстноеМенюИтогиУстановитьПериодИтоговExtendedTooltip</name>
                   <id>349</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1739,7 +1739,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>КонтекстноеМенюИтогиПересчитатьИтогиРасширеннаяПодсказка</name>
+                  <name>КонтекстноеМенюИтогиПересчитатьИтогиExtendedTooltip</name>
                   <id>350</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1770,7 +1770,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>КонтекстноеМенюИтогиПересчитатьТекущиеИтогиРасширеннаяПодсказка</name>
+                  <name>КонтекстноеМенюИтогиПересчитатьТекущиеИтогиExtendedTooltip</name>
                   <id>351</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1801,7 +1801,7 @@
                 </userVisible>
                 <skipOnInput>false</skipOnInput>
                 <extendedTooltip>
-                  <name>КонтекстноеМенюИтогиВыделитьВсеРасширеннаяПодсказка</name>
+                  <name>КонтекстноеМенюИтогиВыделитьВсеExtendedTooltip</name>
                   <id>352</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1860,7 +1860,7 @@
             </dataPath>
             <titleLocation>Right</titleLocation>
             <extendedTooltip>
-              <name>ПрерыватьПриОшибкеРасширеннаяПодсказка</name>
+              <name>ПрерыватьПриОшибкеExtendedTooltip</name>
               <id>378</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1905,7 +1905,7 @@
             <value>Управление итогами</value>
           </toolTip>
           <extendedTooltip>
-            <name>ГруппаИтоговРасширеннаяПодсказка</name>
+            <name>ГруппаИтоговExtendedTooltip</name>
             <id>348</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2529,7 +2529,7 @@
                   <value>Изменение режима использования регистра</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаРежимРасширеннаяПодсказка</name>
+                  <name>ГруппаРежимExtendedTooltip</name>
                   <id>385</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -2627,7 +2627,7 @@
                   <value>Изменение режима использования агрегатов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ГруппаИспользованиеРасширеннаяПодсказка</name>
+                  <name>ГруппаИспользованиеExtendedTooltip</name>
                   <id>388</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -2930,7 +2930,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>АгрегатыПоРегистрамРасширеннаяПодсказка</name>
+              <name>АгрегатыПоРегистрамExtendedTooltip</name>
               <id>396</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -3586,7 +3586,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>СписокАгрегатовРасширеннаяПодсказка</name>
+              <name>СписокАгрегатовExtendedTooltip</name>
               <id>404</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -3644,7 +3644,7 @@
             <value>Управление агрегатами</value>
           </toolTip>
           <extendedTooltip>
-            <name>ГруппаАгрегатыРасширеннаяПодсказка</name>
+            <name>ГруппаАгрегатыExtendedTooltip</name>
             <id>379</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3674,7 +3674,7 @@
           <value>Расширенные инструменты</value>
         </title>
         <extendedTooltip>
-          <name>РасширенныеИнструментыРасширеннаяПодсказка</name>
+          <name>РасширенныеИнструментыExtendedTooltip</name>
           <id>347</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3704,7 +3704,7 @@
         <value>Расширенная</value>
       </title>
       <extendedTooltip>
-        <name>РасширенныеВозможностиРасширеннаяПодсказка</name>
+        <name>РасширенныеВозможностиExtendedTooltip</name>
         <id>346</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3734,7 +3734,7 @@
       <value>Операции</value>
     </title>
     <extendedTooltip>
-      <name>ОперацииРасширеннаяПодсказка</name>
+      <name>ОперацииExtendedTooltip</name>
       <id>330</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -3820,7 +3820,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаРасширеннаяПодсказка</name>
+        <name>СправкаExtendedTooltip</name>
         <id>413</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3852,7 +3852,7 @@
       <value>Подвал</value>
     </title>
     <extendedTooltip>
-      <name>ПодвалРасширеннаяПодсказка</name>
+      <name>ПодвалExtendedTooltip</name>
       <id>411</id>
       <visible>true</visible>
       <enabled>true</enabled>

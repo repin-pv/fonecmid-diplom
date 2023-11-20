@@ -25,7 +25,7 @@
       <name>ПользовательСсылкаПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>ПользовательСсылкаРасширеннаяПодсказка</name>
+      <name>ПользовательСсылкаExtendedTooltip</name>
       <id>72</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -96,7 +96,7 @@
           <name>ПереключательКомуКопироватьНастройкиПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ПереключательКомуКопироватьНастройкиРасширеннаяПодсказка</name>
+          <name>ПереключательКомуКопироватьНастройкиExtendedTooltip</name>
           <id>74</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -160,7 +160,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ВыбратьПользователейРасширеннаяПодсказка</name>
+          <name>ВыбратьПользователейExtendedTooltip</name>
           <id>76</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -207,7 +207,7 @@
         <value>Выбрать пользователей</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаВыбратьПользователейРасширеннаяПодсказка</name>
+        <name>ГруппаВыбратьПользователейExtendedTooltip</name>
         <id>75</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -240,7 +240,7 @@
       <value>Кому копировать:</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКомуКопироватьРасширеннаяПодсказка</name>
+      <name>ГруппаКомуКопироватьExtendedTooltip</name>
       <id>73</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -288,7 +288,7 @@
           <name>ПереключательКопируемыеНастройкиПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ПереключательКопируемыеНастройкиРасширеннаяПодсказка</name>
+          <name>ПереключательКопируемыеНастройкиExtendedTooltip</name>
           <id>78</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -351,7 +351,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ВыбратьНастройкиРасширеннаяПодсказка</name>
+          <name>ВыбратьНастройкиExtendedTooltip</name>
           <id>81</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -400,7 +400,7 @@
       </title>
       <verticalStretch>true</verticalStretch>
       <extendedTooltip>
-        <name>ГруппаВыбратьРасширеннаяПодсказка</name>
+        <name>ГруппаВыбратьExtendedTooltip</name>
         <id>79</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -433,7 +433,7 @@
       <value>Что копировать:</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКопируемыеНастройкиРасширеннаяПодсказка</name>
+      <name>ГруппаКопируемыеНастройкиExtendedTooltip</name>
       <id>77</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -471,7 +471,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСкопироватьИЗакрытьРасширеннаяПодсказка</name>
+        <name>ФормаСкопироватьИЗакрытьExtendedTooltip</name>
         <id>69</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -502,7 +502,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СкопироватьРасширеннаяПодсказка</name>
+        <name>СкопироватьExtendedTooltip</name>
         <id>70</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -532,7 +532,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗакрытьРасширеннаяПодсказка</name>
+        <name>ФормаЗакрытьExtendedTooltip</name>
         <id>71</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -24,7 +24,7 @@
       </dataPath>
       <titleLocation>None</titleLocation>
       <extendedTooltip>
-        <name>КакОткрыватьРасширеннаяПодсказка</name>
+        <name>КакОткрыватьExtendedTooltip</name>
         <id>21</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -81,7 +81,7 @@
       <common>true</common>
     </userVisible>
     <extendedTooltip>
-      <name>ГруппаРасширеннаяПодсказка</name>
+      <name>ГруппаExtendedTooltip</name>
       <id>20</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -118,7 +118,7 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <extendedTooltip>
-      <name>БольшеНеСпрашиватьРасширеннаяПодсказка</name>
+      <name>БольшеНеСпрашиватьExtendedTooltip</name>
       <id>22</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -163,7 +163,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОКРасширеннаяПодсказка</name>
+        <name>ОКExtendedTooltip</name>
         <id>17</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -195,7 +195,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменаРасширеннаяПодсказка</name>
+        <name>ОтменаExtendedTooltip</name>
         <id>18</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -226,7 +226,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаРасширеннаяПодсказка</name>
+        <name>СправкаExtendedTooltip</name>
         <id>19</id>
         <visible>true</visible>
         <enabled>true</enabled>

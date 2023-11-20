@@ -698,7 +698,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокРасширеннаяПодсказка</name>
+      <name>СписокExtendedTooltip</name>
       <id>87</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1375,7 +1375,7 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <extendedTooltip>
-      <name>ПоказыватьЗанятыеФайлыПриЗавершенииРаботыРасширеннаяПодсказка</name>
+      <name>ПоказыватьЗанятыеФайлыПриЗавершенииРаботыExtendedTooltip</name>
       <id>94</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1422,7 +1422,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ЗаписатьИЗакрытьРасширеннаяПодсказка</name>
+        <name>ЗаписатьИЗакрытьExtendedTooltip</name>
         <id>96</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1457,7 +1457,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОтменаРасширеннаяПодсказка</name>
+        <name>ОтменаExtendedTooltip</name>
         <id>97</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1487,7 +1487,7 @@
       <value>Командной панели</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКоманднойПанелиРасширеннаяПодсказка</name>
+      <name>ГруппаКоманднойПанелиExtendedTooltip</name>
       <id>95</id>
       <visible>true</visible>
       <enabled>true</enabled>

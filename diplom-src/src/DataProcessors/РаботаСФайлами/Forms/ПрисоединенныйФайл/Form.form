@@ -42,7 +42,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСтандартнаяЗаписатьИЗакрытьРасширеннаяПодсказка</name>
+        <name>ФормаСтандартнаяЗаписатьИЗакрытьExtendedTooltip</name>
         <id>57</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -72,7 +72,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСтандартнаяЗаписатьРасширеннаяПодсказка</name>
+        <name>ФормаСтандартнаяЗаписатьExtendedTooltip</name>
         <id>58</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -101,7 +101,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСтандартнаяПеречитатьРасширеннаяПодсказка</name>
+        <name>ФормаСтандартнаяПеречитатьExtendedTooltip</name>
         <id>59</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -258,7 +258,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаРедактироватьРасширеннаяПодсказка</name>
+          <name>ФормаРедактироватьExtendedTooltip</name>
           <id>64</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -288,7 +288,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаЗакончитьРедактированиеРасширеннаяПодсказка</name>
+          <name>ФормаЗакончитьРедактированиеExtendedTooltip</name>
           <id>65</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -320,7 +320,7 @@
         <value>Файловые функции</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаФайловыеФункцииРасширеннаяПодсказка</name>
+        <name>ГруппаФайловыеФункцииExtendedTooltip</name>
         <id>62</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -377,7 +377,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСтандартныеСкопироватьРасширеннаяПодсказка</name>
+        <name>ФормаСтандартныеСкопироватьExtendedTooltip</name>
         <id>60</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -408,7 +408,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСтандартныеУстановитьПометкуУдаленияРасширеннаяПодсказка</name>
+        <name>ФормаСтандартныеУстановитьПометкуУдаленияExtendedTooltip</name>
         <id>61</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -473,7 +473,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаСохранитьКакРасширеннаяПодсказка</name>
+          <name>ФормаСохранитьКакExtendedTooltip</name>
           <id>67</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -534,7 +534,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОсвободитьРасширеннаяПодсказка</name>
+          <name>ФормаОсвободитьExtendedTooltip</name>
           <id>66</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -565,7 +565,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОбновитьИзФайлаНаДискеРасширеннаяПодсказка</name>
+          <name>ФормаОбновитьИзФайлаНаДискеExtendedTooltip</name>
           <id>68</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -596,7 +596,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОткрытьКаталогФайлаРасширеннаяПодсказка</name>
+          <name>ФормаОткрытьКаталогФайлаExtendedTooltip</name>
           <id>69</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -809,7 +809,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаЗашифроватьРасширеннаяПодсказка</name>
+            <name>ФормаЗашифроватьExtendedTooltip</name>
             <id>75</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -839,7 +839,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаРасшифроватьРасширеннаяПодсказка</name>
+            <name>ФормаРасшифроватьExtendedTooltip</name>
             <id>76</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1486,7 +1486,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОткрытьФайлДляПросмотраРасширеннаяПодсказка</name>
+          <name>ФормаОткрытьФайлДляПросмотраExtendedTooltip</name>
           <id>63</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2291,7 +2291,7 @@
       <value>Общая информация о файле</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаОбщаяИнформацияРасширеннаяПодсказка</name>
+      <name>ГруппаОбщаяИнформацияExtendedTooltip</name>
       <id>77</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -2726,7 +2726,7 @@
           <value>Основные сведения</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаСведенияЧасть1РасширеннаяПодсказка</name>
+          <name>ГруппаСведенияЧасть1ExtendedTooltip</name>
           <id>80</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3212,7 +3212,7 @@
           <value>Дополнительные сведения</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаСведенияЧасть2РасширеннаяПодсказка</name>
+          <name>ГруппаСведенияЧасть2ExtendedTooltip</name>
           <id>81</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3245,7 +3245,7 @@
         <value>Сведения о файле</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСведенияОФайлеРасширеннаяПодсказка</name>
+        <name>ГруппаСведенияОФайлеExtendedTooltip</name>
         <id>79</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -4186,7 +4186,7 @@
             <segments>СертификатыШифрования.Представление</segments>
           </dataPath>
           <extendedTooltip>
-            <name>СертификатыШифрованияПредставлениеРасширеннаяПодсказка</name>
+            <name>СертификатыШифрованияПредставлениеExtendedTooltip</name>
             <id>97</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -4385,7 +4385,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>СертификатыШифрованияРасширеннаяПодсказка</name>
+          <name>СертификатыШифрованияExtendedTooltip</name>
           <id>96</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -4508,7 +4508,7 @@
       <value>Дополнительные данные</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаДополнительныеДанныеСтраницыРасширеннаяПодсказка</name>
+      <name>ГруппаДополнительныеДанныеСтраницыExtendedTooltip</name>
       <id>78</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -6161,7 +6161,35 @@
     <valueType/>
   </parameters>
   <commandInterface>
-    <navigationPanel/>
+    <navigationPanel>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <type>Added</type>
+        <group>FormNavigationPanelGoTo</group>
+        <index>0</index>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <type>Added</type>
+        <group>FormNavigationPanelGoTo</group>
+        <index>1</index>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <type>Added</type>
+        <group>FormNavigationPanelGoTo</group>
+        <index>2</index>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+    </navigationPanel>
     <commandBar/>
   </commandInterface>
 </form:Form>

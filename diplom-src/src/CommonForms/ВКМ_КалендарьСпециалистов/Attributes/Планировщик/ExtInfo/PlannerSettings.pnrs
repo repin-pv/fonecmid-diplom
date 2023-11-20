@@ -55,7 +55,7 @@
     </levels>
   </timeScale>
   <periods>
-    <begin>2023-11-13T00:00:00</begin>
-    <end>2023-11-13T23:59:59</end>
+    <begin>2023-11-20T00:00:00</begin>
+    <end>2023-11-20T23:59:59</end>
   </periods>
 </planner:PlannerSettings>

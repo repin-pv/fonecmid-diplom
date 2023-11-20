@@ -15,7 +15,7 @@
         <segments>Объект.Description</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НаименованиеРасширеннаяПодсказка</name>
+        <name>НаименованиеExtendedTooltip</name>
         <id>153</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -77,7 +77,7 @@
         <name>РодительПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>РодительРасширеннаяПодсказка</name>
+        <name>РодительExtendedTooltip</name>
         <id>184</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -182,7 +182,7 @@
             <name>СоставУчастниковПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>УчастникиГруппыРасширеннаяПодсказка</name>
+            <name>УчастникиГруппыExtendedTooltip</name>
             <id>157</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -363,7 +363,7 @@
           <value>Тип пользователей</value>
         </title>
         <extendedTooltip>
-          <name>ТипПользователейРасширеннаяПодсказка</name>
+          <name>ТипПользователейExtendedTooltip</name>
           <id>156</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -420,7 +420,7 @@
             <segments>Объект.Состав.ВнешнийПользователь</segments>
           </dataPath>
           <extendedTooltip>
-            <name>СоставВнешнийПользовательРасширеннаяПодсказка</name>
+            <name>СоставВнешнийПользовательExtendedTooltip</name>
             <id>172</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -473,7 +473,7 @@
             <segments>Объект.Состав.Недействителен</segments>
           </dataPath>
           <extendedTooltip>
-            <name>НедействителенРасширеннаяПодсказка</name>
+            <name>НедействителенExtendedTooltip</name>
             <id>173</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -517,7 +517,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>СоставПодобратьРасширеннаяПодсказка</name>
+              <name>СоставПодобратьExtendedTooltip</name>
               <id>163</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -548,7 +548,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>СоставДобавитьРасширеннаяПодсказка</name>
+              <name>СоставДобавитьExtendedTooltip</name>
               <id>164</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -610,7 +610,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>СоставСкопироватьРасширеннаяПодсказка</name>
+              <name>СоставСкопироватьExtendedTooltip</name>
               <id>165</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -641,7 +641,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>СоставУдалитьРасширеннаяПодсказка</name>
+              <name>СоставУдалитьExtendedTooltip</name>
               <id>166</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -797,7 +797,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>ПоказыватьНедействительныхПользователейРасширеннаяПодсказка</name>
+                <name>ПоказыватьНедействительныхПользователейExtendedTooltip</name>
                 <id>152</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -983,7 +983,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>СоставРасширеннаяПодсказка</name>
+          <name>СоставExtendedTooltip</name>
           <id>171</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1283,7 +1283,7 @@
         <value>Участники группы</value>
       </title>
       <extendedTooltip>
-        <name>ВнешниеПользователиГруппыРасширеннаяПодсказка</name>
+        <name>ВнешниеПользователиГруппыExtendedTooltip</name>
         <id>155</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1357,7 +1357,7 @@
                 <name>РолиПометкаПриИзменении</name>
               </handlers>
               <extendedTooltip>
-                <name>РолиПометкаРасширеннаяПодсказка</name>
+                <name>РолиПометкаExtendedTooltip</name>
                 <id>182</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1398,7 +1398,7 @@
                 <segments>Роли.Синоним</segments>
               </dataPath>
               <extendedTooltip>
-                <name>РолиСинонимРасширеннаяПодсказка</name>
+                <name>РолиСинонимExtendedTooltip</name>
                 <id>183</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1447,7 +1447,7 @@
               <value>Роли колонок</value>
             </title>
             <extendedTooltip>
-              <name>РолиКолонокРасширеннаяПодсказка</name>
+              <name>РолиКолонокExtendedTooltip</name>
               <id>181</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1480,7 +1480,7 @@
               </userVisible>
               <skipOnInput>false</skipOnInput>
               <extendedTooltip>
-                <name>РолиУстановитьФлажкиРасширеннаяПодсказка</name>
+                <name>РолиУстановитьФлажкиExtendedTooltip</name>
                 <id>176</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1511,7 +1511,7 @@
               </userVisible>
               <skipOnInput>false</skipOnInput>
               <extendedTooltip>
-                <name>РолиСнятьФлажкиРасширеннаяПодсказка</name>
+                <name>РолиСнятьФлажкиExtendedTooltip</name>
                 <id>177</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1542,7 +1542,7 @@
               </userVisible>
               <skipOnInput>false</skipOnInput>
               <extendedTooltip>
-                <name>РолиПоказатьТолькоВыбранныеРолиРасширеннаяПодсказка</name>
+                <name>РолиПоказатьТолькоВыбранныеРолиExtendedTooltip</name>
                 <id>178</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1572,7 +1572,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>РолиПоказатьПодсистемыРолейРасширеннаяПодсказка</name>
+                <name>РолиПоказатьПодсистемыРолейExtendedTooltip</name>
                 <id>179</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1749,7 +1749,7 @@
             </extInfo>
           </searchControlAddition>
           <extendedTooltip>
-            <name>РолиРасширеннаяПодсказка</name>
+            <name>РолиExtendedTooltip</name>
             <id>180</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1808,7 +1808,7 @@
           <value>Отображение ролей</value>
         </title>
         <extendedTooltip>
-          <name>ОтображениеРолейРасширеннаяПодсказка</name>
+          <name>ОтображениеРолейExtendedTooltip</name>
           <id>175</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1841,7 +1841,7 @@
         <value>Разрешенные действия (роли)</value>
       </title>
       <extendedTooltip>
-        <name>РолиГруппыРасширеннаяПодсказка</name>
+        <name>РолиГруппыExtendedTooltip</name>
         <id>174</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1877,7 +1877,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>КомментарийРасширеннаяПодсказка</name>
+          <name>КомментарийExtendedTooltip</name>
           <id>185</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1954,7 +1954,7 @@
       <value>Состав и роли</value>
     </title>
     <extendedTooltip>
-      <name>СоставИРолиРасширеннаяПодсказка</name>
+      <name>СоставИРолиExtendedTooltip</name>
       <id>154</id>
       <visible>true</visible>
       <enabled>true</enabled>

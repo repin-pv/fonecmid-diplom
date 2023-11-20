@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3280be35-098a-4ed4-994c-28f6636acf35">
+  <producedTypes>
+    <objectType typeId="b728e9e3-5274-4166-aa9c-7f6c3f73dac6" valueTypeId="714dc988-29f0-4fe4-b7b7-baa8296f0312"/>
+    <managerType typeId="79780f57-41b5-4fce-be16-67520996738c" valueTypeId="c8592916-a7af-425d-82d0-324968e796c4"/>
+  </producedTypes>
+  <name>ВКМ_МассовоеСозданиеАктов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Массовое создание актов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <attributes uuid="af5ce93d-f46c-441b-a69d-aad51e3c004e">
+    <name>Период</name>
+    <synonym>
+      <key>ru</key>
+      <value>Период</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Date</dateFractions>
+      </dateQualifiers>
+    </type>
+    <format>
+      <key>ru</key>
+      <value>ДФ=MM.yyyy</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>ДФ=MM.yyyy</value>
+    </editFormat>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+  </attributes>
+  <tabularSections uuid="366ca237-1b5d-41f3-8ee8-663384e4ba25">
+    <producedTypes>
+      <objectType typeId="12b9c6e2-4414-4e99-bf0a-f3c8849d176f" valueTypeId="25d8dd92-c9ff-4905-bf3b-19ec5e83d0bf"/>
+      <rowType typeId="401f49ab-7b24-4a44-9768-cfeee20a3c3e" valueTypeId="9cf4294d-c193-48bb-a733-a9f3b19172b8"/>
+    </producedTypes>
+    <name>Документы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Документы</value>
+    </synonym>
+  </tabularSections>
+</mdclass:DataProcessor>

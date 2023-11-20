@@ -615,7 +615,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокРасширеннаяПодсказка</name>
+      <name>СписокExtendedTooltip</name>
       <id>89</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -642,7 +642,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>КонтекстноеМенюСписокОткрытьВерсиюРасширеннаяПодсказка</name>
+          <name>КонтекстноеМенюСписокОткрытьВерсиюExtendedTooltip</name>
           <id>82</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -673,7 +673,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>КонтекстноеМенюСписокОткрытьКарточкуРасширеннаяПодсказка</name>
+          <name>КонтекстноеМенюСписокОткрытьКарточкуExtendedTooltip</name>
           <id>83</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -704,7 +704,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>КонтекстноеМенюСписокСделатьАктивнойРасширеннаяПодсказка</name>
+          <name>КонтекстноеМенюСписокСделатьАктивнойExtendedTooltip</name>
           <id>84</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -735,7 +735,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>КонтекстноеМенюСписокСравнитьРасширеннаяПодсказка</name>
+          <name>КонтекстноеМенюСписокСравнитьExtendedTooltip</name>
           <id>85</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -765,7 +765,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КонтекстноеМенюСписокСохранитьКакРасширеннаяПодсказка</name>
+          <name>КонтекстноеМенюСписокСохранитьКакExtendedTooltip</name>
           <id>86</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -796,7 +796,7 @@
         </userVisible>
         <skipOnInput>false</skipOnInput>
         <extendedTooltip>
-          <name>КонтекстноеМенюСписокКопироватьРасширеннаяПодсказка</name>
+          <name>КонтекстноеМенюСписокКопироватьExtendedTooltip</name>
           <id>88</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -941,7 +941,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаОткрытьВерсиюРасширеннаяПодсказка</name>
+        <name>ФормаОткрытьВерсиюExtendedTooltip</name>
         <id>74</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -971,7 +971,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаОткрытьКарточкуРасширеннаяПодсказка</name>
+        <name>ФормаОткрытьКарточкуExtendedTooltip</name>
         <id>75</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1001,7 +1001,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаСделатьАктивнойРасширеннаяПодсказка</name>
+        <name>ФормаСделатьАктивнойExtendedTooltip</name>
         <id>76</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1032,7 +1032,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ФормаСравнитьРасширеннаяПодсказка</name>
+        <name>ФормаСравнитьExtendedTooltip</name>
         <id>78</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1062,7 +1062,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСохранитьКакРасширеннаяПодсказка</name>
+        <name>ФормаСохранитьКакExtendedTooltip</name>
         <id>79</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1158,7 +1158,7 @@
         <value>Форма стандартные команды</value>
       </title>
       <extendedTooltip>
-        <name>ФормаСтандартныеКомандыРасширеннаяПодсказка</name>
+        <name>ФормаСтандартныеКомандыExtendedTooltip</name>
         <id>80</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1244,7 +1244,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаРасширеннаяПодсказка</name>
+        <name>ФормаСправкаExtendedTooltip</name>
         <id>81</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -31,7 +31,7 @@
           <name>КодСтраныПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>КодСтраныРасширеннаяПодсказка</name>
+          <name>КодСтраныExtendedTooltip</name>
           <id>41</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -92,7 +92,7 @@
           <name>КодГородаПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>КодГородаРасширеннаяПодсказка</name>
+          <name>КодГородаExtendedTooltip</name>
           <id>42</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -154,7 +154,7 @@
           <name>НомерТелефонаПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>НомерТелефонаРасширеннаяПодсказка</name>
+          <name>НомерТелефонаExtendedTooltip</name>
           <id>43</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -215,7 +215,7 @@
           <name>ДобавочныйПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ДобавочныйРасширеннаяПодсказка</name>
+          <name>ДобавочныйExtendedTooltip</name>
           <id>44</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -305,7 +305,7 @@
         <value>Дополнительный комментарий, не попадающий в представление</value>
       </toolTip>
       <extendedTooltip>
-        <name>КомментарийРасширеннаяПодсказка</name>
+        <name>КомментарийExtendedTooltip</name>
         <id>47</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -392,7 +392,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>ПредставлениеРасширеннаяПодсказка</name>
+      <name>ПредставлениеExtendedTooltip</name>
       <id>45</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -449,7 +449,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КомандаОКРасширеннаяПодсказка</name>
+        <name>КомандаОКExtendedTooltip</name>
         <id>49</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -480,7 +480,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОтменаРасширеннаяПодсказка</name>
+        <name>ОтменаExtendedTooltip</name>
         <id>50</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -510,7 +510,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОчиститьТелефонРасширеннаяПодсказка</name>
+        <name>ОчиститьТелефонExtendedTooltip</name>
         <id>53</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -541,7 +541,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ИзменитьФормуРасширеннаяПодсказка</name>
+        <name>ИзменитьФормуExtendedTooltip</name>
         <id>55</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -572,7 +572,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СправкаРасширеннаяПодсказка</name>
+        <name>СправкаExtendedTooltip</name>
         <id>51</id>
         <visible>true</visible>
         <enabled>true</enabled>

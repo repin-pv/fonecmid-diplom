@@ -38,7 +38,7 @@
         <segments>Классификатор.Наименование</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КлассификаторНаименованиеРасширеннаяПодсказка</name>
+        <name>КлассификаторНаименованиеExtendedTooltip</name>
         <id>64</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -89,7 +89,7 @@
         <segments>Классификатор.Код</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КлассификаторКодРасширеннаяПодсказка</name>
+        <name>КлассификаторКодExtendedTooltip</name>
         <id>65</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -139,7 +139,7 @@
         <segments>Классификатор.КодАльфа2</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КлассификаторКодАльфа2РасширеннаяПодсказка</name>
+        <name>КлассификаторКодАльфа2ExtendedTooltip</name>
         <id>66</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -189,7 +189,7 @@
         <segments>Классификатор.КодАльфа3</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КлассификаторКолАльфа3РасширеннаяПодсказка</name>
+        <name>КлассификаторКолАльфа3ExtendedTooltip</name>
         <id>67</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -281,7 +281,7 @@
         <segments>Классификатор.НаименованиеПолное</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КлассификаторНаименованиеПолноеРасширеннаяПодсказка</name>
+        <name>КлассификаторНаименованиеПолноеExtendedTooltip</name>
         <id>68</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -423,7 +423,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КлассификаторНайтиРасширеннаяПодсказка</name>
+            <name>КлассификаторНайтиExtendedTooltip</name>
             <id>57</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -453,7 +453,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КлассификаторОтменитьПоискРасширеннаяПодсказка</name>
+            <name>КлассификаторОтменитьПоискExtendedTooltip</name>
             <id>58</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -484,7 +484,7 @@
           <value>Классификатор группа поиск</value>
         </title>
         <extendedTooltip>
-          <name>КлассификаторГруппаПоискРасширеннаяПодсказка</name>
+          <name>КлассификаторГруппаПоискExtendedTooltip</name>
           <id>56</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -509,7 +509,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторСортироватьСписокПоВозрастаниюРасширеннаяПодсказка</name>
+          <name>КлассификаторСортироватьСписокПоВозрастаниюExtendedTooltip</name>
           <id>59</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -540,7 +540,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторСортироватьСписокПоУбываниюРасширеннаяПодсказка</name>
+          <name>КлассификаторСортироватьСписокПоУбываниюExtendedTooltip</name>
           <id>60</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -571,7 +571,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторИзменитьФормуРасширеннаяПодсказка</name>
+          <name>КлассификаторИзменитьФормуExtendedTooltip</name>
           <id>61</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -601,7 +601,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторСправкаРасширеннаяПодсказка</name>
+          <name>КлассификаторСправкаExtendedTooltip</name>
           <id>62</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -767,7 +767,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>КлассификаторРасширеннаяПодсказка</name>
+      <name>КлассификаторExtendedTooltip</name>
       <id>63</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -793,7 +793,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторКонтекстноеМенюИзменитьРасширеннаяПодсказка</name>
+          <name>КлассификаторКонтекстноеМенюИзменитьExtendedTooltip</name>
           <id>48</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -823,7 +823,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторКонтекстноеМенюНайтиРасширеннаяПодсказка</name>
+          <name>КлассификаторКонтекстноеМенюНайтиExtendedTooltip</name>
           <id>49</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -853,7 +853,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторКонтекстноеМенюОтменитьПоискРасширеннаяПодсказка</name>
+          <name>КлассификаторКонтекстноеМенюОтменитьПоискExtendedTooltip</name>
           <id>50</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -883,7 +883,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторКонтекстноеМенюСортироватьСписокПоВозрастаниюРасширеннаяПодсказка</name>
+          <name>КлассификаторКонтекстноеМенюСортироватьСписокПоВозрастаниюExtendedTooltip</name>
           <id>51</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -913,7 +913,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторКонтекстноеМенюСортироватьСписокПоУбываниюРасширеннаяПодсказка</name>
+          <name>КлассификаторКонтекстноеМенюСортироватьСписокПоУбываниюExtendedTooltip</name>
           <id>52</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -943,7 +943,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторКонтекстноеМенюВывестиСписокРасширеннаяПодсказка</name>
+          <name>КлассификаторКонтекстноеМенюВывестиСписокExtendedTooltip</name>
           <id>53</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -973,7 +973,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторКонтекстноеМенюКопироватьВБуферОбменаРасширеннаяПодсказка</name>
+          <name>КлассификаторКонтекстноеМенюКопироватьВБуферОбменаExtendedTooltip</name>
           <id>54</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1003,7 +1003,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КлассификаторКонтекстноеМенюВыделитьВсеРасширеннаяПодсказка</name>
+          <name>КлассификаторКонтекстноеМенюВыделитьВсеExtendedTooltip</name>
           <id>55</id>
           <visible>true</visible>
           <enabled>true</enabled>

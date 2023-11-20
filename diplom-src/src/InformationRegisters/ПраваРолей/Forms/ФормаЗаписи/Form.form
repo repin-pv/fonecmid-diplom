@@ -12,7 +12,7 @@
       <segments>Запись.ОбъектМетаданных</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ОбъектМетаданныхРасширеннаяПодсказка</name>
+      <name>ОбъектМетаданныхExtendedTooltip</name>
       <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -67,7 +67,7 @@
       <segments>Запись.Роль</segments>
     </dataPath>
     <extendedTooltip>
-      <name>РольРасширеннаяПодсказка</name>
+      <name>РольExtendedTooltip</name>
       <id>34</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -259,7 +259,7 @@
         <value>Вертикальная группа 1</value>
       </title>
       <extendedTooltip>
-        <name>ВертикальнаяГруппа1РасширеннаяПодсказка</name>
+        <name>ВертикальнаяГруппа1ExtendedTooltip</name>
         <id>36</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -427,7 +427,7 @@
         <value>Вертикальная группа 2</value>
       </title>
       <extendedTooltip>
-        <name>ВертикальнаяГруппа2РасширеннаяПодсказка</name>
+        <name>ВертикальнаяГруппа2ExtendedTooltip</name>
         <id>41</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -667,7 +667,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВозможностьРедактированияРасширеннаяПодсказка</name>
+        <name>ФормаВключитьВозможностьРедактированияExtendedTooltip</name>
         <id>32</id>
         <visible>true</visible>
         <enabled>true</enabled>

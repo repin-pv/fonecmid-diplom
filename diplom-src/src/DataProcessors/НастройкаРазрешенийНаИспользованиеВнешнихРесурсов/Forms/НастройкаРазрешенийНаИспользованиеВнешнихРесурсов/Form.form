@@ -1128,7 +1128,7 @@
                   <segments>ПортКластераСерверов</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ПортКластераСерверовРасширеннаяПодсказка</name>
+                  <name>ПортКластераСерверовExtendedTooltip</name>
                   <id>59</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1653,7 +1653,7 @@
                   <segments>ИмяАдминистратораКластера</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ИмяАдминистратораКластераРасширеннаяПодсказка</name>
+                  <name>ИмяАдминистратораКластераExtendedTooltip</name>
                   <id>54</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1708,7 +1708,7 @@
                   <segments>ПарольАдминистратораКластера</segments>
                 </dataPath>
                 <extendedTooltip>
-                  <name>ПарольАдминистратораКластераРасширеннаяПодсказка</name>
+                  <name>ПарольАдминистратораКластераExtendedTooltip</name>
                   <id>55</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1758,7 +1758,7 @@
                 <value>Администратор кластера серверов 1С:Предприятие</value>
               </title>
               <extendedTooltip>
-                <name>ГруппаКластерТребуетАвторизацииРасширеннаяПодсказка</name>
+                <name>ГруппаКластерТребуетАвторизацииExtendedTooltip</name>
                 <id>51</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1808,7 +1808,7 @@
                   <value>Администратор информационной базы, от имени которого выполняется настройка</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>АдминистраторИБРасширеннаяПодсказка</name>
+                  <name>АдминистраторИБExtendedTooltip</name>
                   <id>49</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1869,7 +1869,7 @@
                   <value>Пароль администратора информационной базы, от имени которого выполняется принудительное отключение сеансов</value>
                 </toolTip>
                 <extendedTooltip>
-                  <name>ПарольАдминистратораИБРасширеннаяПодсказка</name>
+                  <name>ПарольАдминистратораИБExtendedTooltip</name>
                   <id>50</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1919,7 +1919,7 @@
                 <value>Администратор информационной базы:</value>
               </title>
               <extendedTooltip>
-                <name>ГруппаАдминистрированиеРасширеннаяПодсказка</name>
+                <name>ГруппаАдминистрированиеExtendedTooltip</name>
                 <id>43</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2272,7 +2272,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ФормаОтменаРасширеннаяПодсказка</name>
+              <name>ФормаОтменаExtendedTooltip</name>
               <id>41</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2304,7 +2304,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>СправкаРасширеннаяПодсказка</name>
+              <name>СправкаExtendedTooltip</name>
               <id>42</id>
               <visible>true</visible>
               <enabled>true</enabled>

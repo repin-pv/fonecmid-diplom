@@ -23,7 +23,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстСообщенияОбновляемаяКонфигурацияРасширеннаяПодсказка</name>
+          <name>ТекстСообщенияОбновляемаяКонфигурацияExtendedTooltip</name>
           <id>14</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -67,7 +67,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстПоясненияРасширеннаяПодсказка</name>
+          <name>ТекстПоясненияExtendedTooltip</name>
           <id>15</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -143,7 +143,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстПодготовкаКЗапускуРасширеннаяПодсказка</name>
+          <name>ТекстПодготовкаКЗапускуExtendedTooltip</name>
           <id>17</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -186,7 +186,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстПоясненияПодготовкаКЗапускуРасширеннаяПодсказка</name>
+          <name>ТекстПоясненияПодготовкаКЗапускуExtendedTooltip</name>
           <id>18</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -226,7 +226,7 @@
         <value>Начальное заполнение</value>
       </title>
       <extendedTooltip>
-        <name>НачальноеЗаполнениеРасширеннаяПодсказка</name>
+        <name>НачальноеЗаполнениеExtendedTooltip</name>
         <id>16</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -494,7 +494,7 @@
       <value>Режим запуска</value>
     </title>
     <extendedTooltip>
-      <name>РежимЗапускаРасширеннаяПодсказка</name>
+      <name>РежимЗапускаExtendedTooltip</name>
       <id>12</id>
       <visible>true</visible>
       <enabled>true</enabled>

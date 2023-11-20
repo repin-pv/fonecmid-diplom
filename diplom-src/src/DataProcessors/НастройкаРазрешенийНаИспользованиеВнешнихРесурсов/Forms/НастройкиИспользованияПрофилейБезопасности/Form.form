@@ -63,7 +63,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаРасширеннаяПодсказка</name>
+          <name>СправкаExtendedTooltip</name>
           <id>1604</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -94,7 +94,7 @@
         <value>Справка</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаСправкаРасширеннаяПодсказка</name>
+        <name>ГруппаСправкаExtendedTooltip</name>
         <id>1603</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -123,7 +123,7 @@
       <value>Заголовок</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЗаголовокРасширеннаяПодсказка</name>
+      <name>ГруппаЗаголовокExtendedTooltip</name>
       <id>1600</id>
       <visible>true</visible>
       <enabled>true</enabled>

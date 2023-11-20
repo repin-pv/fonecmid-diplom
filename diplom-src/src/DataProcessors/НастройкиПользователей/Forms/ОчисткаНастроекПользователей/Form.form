@@ -28,7 +28,7 @@
         <name>ПереключательКомуОчищатьНастройкиПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПереключательКомуОчищатьНастройкиРасширеннаяПодсказка</name>
+        <name>ПереключательКомуОчищатьНастройкиExtendedTooltip</name>
         <id>70</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -92,7 +92,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВыбратьПользователейРасширеннаяПодсказка</name>
+        <name>ВыбратьПользователейExtendedTooltip</name>
         <id>72</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -139,7 +139,7 @@
       <value>Очистить настройки:</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаОчиститьУПользователейРасширеннаяПодсказка</name>
+      <name>ГруппаОчиститьУПользователейExtendedTooltip</name>
       <id>69</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -184,7 +184,7 @@
         <name>ПереключательОчищаемыеНастройкиПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПереключательОчищаемыеНастройкиРасширеннаяПодсказка</name>
+        <name>ПереключательОчищаемыеНастройкиExtendedTooltip</name>
         <id>74</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -256,7 +256,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВыбратьНастройкиРасширеннаяПодсказка</name>
+        <name>ВыбратьНастройкиExtendedTooltip</name>
         <id>77</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -305,7 +305,7 @@
       <value>Что очистить:</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаОчищаемыеНастройкиРасширеннаяПодсказка</name>
+      <name>ГруппаОчищаемыеНастройкиExtendedTooltip</name>
       <id>73</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -343,7 +343,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОчиститьИЗакрытьРасширеннаяПодсказка</name>
+        <name>ФормаОчиститьИЗакрытьExtendedTooltip</name>
         <id>66</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -374,7 +374,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОчиститьРасширеннаяПодсказка</name>
+        <name>ОчиститьExtendedTooltip</name>
         <id>67</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -404,7 +404,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗакрытьРасширеннаяПодсказка</name>
+        <name>ФормаЗакрытьExtendedTooltip</name>
         <id>68</id>
         <visible>true</visible>
         <enabled>true</enabled>

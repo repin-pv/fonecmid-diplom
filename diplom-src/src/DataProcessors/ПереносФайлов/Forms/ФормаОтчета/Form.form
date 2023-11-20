@@ -17,7 +17,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>ПояснениеРасширеннаяПодсказка</name>
+      <name>ПояснениеExtendedTooltip</name>
       <id>6</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -68,7 +68,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>ОтчетРасширеннаяПодсказка</name>
+      <name>ОтчетExtendedTooltip</name>
       <id>7</id>
       <visible>true</visible>
       <enabled>true</enabled>

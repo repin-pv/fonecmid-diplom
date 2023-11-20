@@ -15,7 +15,7 @@
         <segments>Объект.Description</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НаименованиеРасширеннаяПодсказка</name>
+        <name>НаименованиеExtendedTooltip</name>
         <id>178</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -239,7 +239,7 @@
       </dataPath>
       <titleLocation>Left</titleLocation>
       <extendedTooltip>
-        <name>ПубликацияРасширеннаяПодсказка</name>
+        <name>ПубликацияExtendedTooltip</name>
         <id>180</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -297,7 +297,7 @@
       <value>Публикация ответственный</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаПубликацияОтветственныйРасширеннаяПодсказка</name>
+      <name>ГруппаПубликацияОтветственныйExtendedTooltip</name>
       <id>179</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -413,7 +413,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ВариантыИнформационнаяНадписьРасширеннаяПодсказка</name>
+              <name>ВариантыИнформационнаяНадписьExtendedTooltip</name>
               <id>192</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -488,7 +488,7 @@
           </title>
           <enableContentChange>true</enableContentChange>
           <extendedTooltip>
-            <name>ВариантыСкрытьДоЗаписиРасширеннаяПодсказка</name>
+            <name>ВариантыСкрытьДоЗаписиExtendedTooltip</name>
             <id>191</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -545,7 +545,7 @@
                 <segments>ВариантыДополнительногоОтчета.Наименование</segments>
               </dataPath>
               <extendedTooltip>
-                <name>ВариантыДополнительногоОтчетаНаименованиеРасширеннаяПодсказка</name>
+                <name>ВариантыДополнительногоОтчетаНаименованиеExtendedTooltip</name>
                 <id>208</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -594,7 +594,7 @@
                     <common>true</common>
                   </userVisible>
                   <extendedTooltip>
-                    <name>ВариантыДополнительногоОтчетаНайтиРасширеннаяПодсказка</name>
+                    <name>ВариантыДополнительногоОтчетаНайтиExtendedTooltip</name>
                     <id>200</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -625,7 +625,7 @@
                     <common>true</common>
                   </userVisible>
                   <extendedTooltip>
-                    <name>ВариантыДополнительногоОтчетаОтменитьПоискРасширеннаяПодсказка</name>
+                    <name>ВариантыДополнительногоОтчетаОтменитьПоискExtendedTooltip</name>
                     <id>201</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -656,7 +656,7 @@
                     <common>true</common>
                   </userVisible>
                   <extendedTooltip>
-                    <name>ВариантыДополнительногоОтчетаВывестиСписокРасширеннаяПодсказка</name>
+                    <name>ВариантыДополнительногоОтчетаВывестиСписокExtendedTooltip</name>
                     <id>202</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -687,7 +687,7 @@
                   <value>Группа поиск и вывести список</value>
                 </title>
                 <extendedTooltip>
-                  <name>ВариантыДополнительногоОтчетаПоискИВывестиСписокРасширеннаяПодсказка</name>
+                  <name>ВариантыДополнительногоОтчетаПоискИВывестиСписокExtendedTooltip</name>
                   <id>199</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -712,7 +712,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ВариантыДополнительногоОтчетаОткрытьРасширеннаяПодсказка</name>
+                  <name>ВариантыДополнительногоОтчетаОткрытьExtendedTooltip</name>
                   <id>203</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -746,7 +746,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ВариантыДополнительногоОтчетаИзменитьРасширеннаяПодсказка</name>
+                  <name>ВариантыДополнительногоОтчетаИзменитьExtendedTooltip</name>
                   <id>204</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -777,7 +777,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ВариантыДополнительногоОтчетаРазместитьВРазделахРасширеннаяПодсказка</name>
+                  <name>ВариантыДополнительногоОтчетаРазместитьВРазделахExtendedTooltip</name>
                   <id>205</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -807,7 +807,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ВариантыДополнительногоОтчетаУдалитьРасширеннаяПодсказка</name>
+                  <name>ВариантыДополнительногоОтчетаУдалитьExtendedTooltip</name>
                   <id>206</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -968,7 +968,7 @@
               </extInfo>
             </searchControlAddition>
             <extendedTooltip>
-              <name>ВариантыДополнительногоОтчетаРасширеннаяПодсказка</name>
+              <name>ВариантыДополнительногоОтчетаExtendedTooltip</name>
               <id>207</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -994,7 +994,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ВариантыДополнительногоОтчетаОткрыть1РасширеннаяПодсказка</name>
+                  <name>ВариантыДополнительногоОтчетаОткрыть1ExtendedTooltip</name>
                   <id>195</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1028,7 +1028,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ВариантыДополнительногоОтчетаИзменить1РасширеннаяПодсказка</name>
+                  <name>ВариантыДополнительногоОтчетаИзменить1ExtendedTooltip</name>
                   <id>196</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1058,7 +1058,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ВариантыДополнительногоОтчетаРазместитьВРазделах1РасширеннаяПодсказка</name>
+                  <name>ВариантыДополнительногоОтчетаРазместитьВРазделах1ExtendedTooltip</name>
                   <id>197</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1088,7 +1088,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ВариантыДополнительногоОтчетаУдалить1РасширеннаяПодсказка</name>
+                  <name>ВариантыДополнительногоОтчетаУдалить1ExtendedTooltip</name>
                   <id>198</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1152,7 +1152,7 @@
           </title>
           <enableContentChange>true</enableContentChange>
           <extendedTooltip>
-            <name>ВариантыПоказатьРасширеннаяПодсказка</name>
+            <name>ВариантыПоказатьExtendedTooltip</name>
             <id>194</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1183,7 +1183,7 @@
         </title>
         <enableContentChange>true</enableContentChange>
         <extendedTooltip>
-          <name>СтраницыВариантыРасширеннаяПодсказка</name>
+          <name>СтраницыВариантыExtendedTooltip</name>
           <id>190</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1212,7 +1212,7 @@
         <value>Варианты отчета</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаВариантыРасширеннаяПодсказка</name>
+        <name>СтраницаВариантыExtendedTooltip</name>
         <id>189</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1254,7 +1254,7 @@
             <segments>ПредставлениеНазначения</segments>
           </dataPath>
           <extendedTooltip>
-            <name>РазмещениеКомандРасширеннаяПодсказка</name>
+            <name>РазмещениеКомандExtendedTooltip</name>
             <id>210</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1372,7 +1372,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ПоказыватьРасширеннаяПодсказка</name>
+            <name>ПоказыватьExtendedTooltip</name>
             <id>183</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1422,7 +1422,7 @@
             <name>ИспользоватьДляФормыСпискаПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ИспользоватьДляФормыСпискаРасширеннаяПодсказка</name>
+            <name>ИспользоватьДляФормыСпискаExtendedTooltip</name>
             <id>184</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1474,7 +1474,7 @@
             <name>ИспользоватьДляФормыОбъектаПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ИспользоватьДляФормыОбъектаРасширеннаяПодсказка</name>
+            <name>ИспользоватьДляФормыОбъектаExtendedTooltip</name>
             <id>185</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1515,7 +1515,7 @@
           <value>Типы форм</value>
         </title>
         <extendedTooltip>
-          <name>ТипыФормРасширеннаяПодсказка</name>
+          <name>ТипыФормExtendedTooltip</name>
           <id>182</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1642,7 +1642,7 @@
             <segments>Объект.Команды.Представление</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ОбъектКомандыПредставлениеРасширеннаяПодсказка</name>
+            <name>ОбъектКомандыПредставлениеExtendedTooltip</name>
             <id>214</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1697,7 +1697,7 @@
             <value>Пользователи, которым выведена команда.</value>
           </toolTip>
           <extendedTooltip>
-            <name>ОбъектКомандыБыстрыйДоступПредставлениеРасширеннаяПодсказка</name>
+            <name>ОбъектКомандыБыстрыйДоступПредставлениеExtendedTooltip</name>
             <id>215</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1766,7 +1766,7 @@
             <name>ОбъектКомандыРегламентноеЗаданиеИспользованиеПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>ОбъектКомандыРегламентноеЗаданиеИспользованиеРасширеннаяПодсказка</name>
+            <name>ОбъектКомандыРегламентноеЗаданиеИспользованиеExtendedTooltip</name>
             <id>216</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1816,7 +1816,7 @@
             <value>Расписание выполнения команды.</value>
           </toolTip>
           <extendedTooltip>
-            <name>ОбъектКомандыРегламентноеЗаданиеПредставлениеРасширеннаяПодсказка</name>
+            <name>ОбъектКомандыРегламентноеЗаданиеПредставлениеExtendedTooltip</name>
             <id>217</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2052,7 +2052,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ОбъектКомандыРасширеннаяПодсказка</name>
+          <name>ОбъектКомандыExtendedTooltip</name>
           <id>213</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2078,7 +2078,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОбъектКомандыНастроитьБыстрыйДоступРасширеннаяПодсказка</name>
+              <name>ОбъектКомандыНастроитьБыстрыйДоступExtendedTooltip</name>
               <id>211</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2108,7 +2108,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОбъектКомандыНастроитьРасписаниеРасширеннаяПодсказка</name>
+              <name>ОбъектКомандыНастроитьРасписаниеExtendedTooltip</name>
               <id>212</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2164,7 +2164,7 @@
         <value>Команды</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаКомандыРасширеннаяПодсказка</name>
+        <name>СтраницаКомандыExtendedTooltip</name>
         <id>209</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3126,7 +3126,7 @@
         <skipOnInput>true</skipOnInput>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>ИнформацияРасширеннаяПодсказка</name>
+          <name>ИнформацияExtendedTooltip</name>
           <id>236</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3182,7 +3182,7 @@
         </dataPath>
         <skipOnInput>true</skipOnInput>
         <extendedTooltip>
-          <name>ВерсияРасширеннаяПодсказка</name>
+          <name>ВерсияExtendedTooltip</name>
           <id>234</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3235,7 +3235,7 @@
         </dataPath>
         <skipOnInput>true</skipOnInput>
         <extendedTooltip>
-          <name>ВидРасширеннаяПодсказка</name>
+          <name>ВидExtendedTooltip</name>
           <id>232</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3292,7 +3292,7 @@
         </dataPath>
         <skipOnInput>true</skipOnInput>
         <extendedTooltip>
-          <name>ИмяФайлаРасширеннаяПодсказка</name>
+          <name>ИмяФайлаExtendedTooltip</name>
           <id>233</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3345,7 +3345,7 @@
         </dataPath>
         <skipOnInput>true</skipOnInput>
         <extendedTooltip>
-          <name>ИмяОбъектаРасширеннаяПодсказка</name>
+          <name>ИмяОбъектаExtendedTooltip</name>
           <id>235</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3404,7 +3404,7 @@
             <segments>Объект.Parent</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ГруппаРасширеннаяПодсказка</name>
+            <name>ГруппаExtendedTooltip</name>
             <id>237</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3554,7 +3554,7 @@
       </dataPath>
       <skipOnInput>true</skipOnInput>
       <extendedTooltip>
-        <name>ОтветственныйРасширеннаяПодсказка</name>
+        <name>ОтветственныйExtendedTooltip</name>
         <id>238</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -4736,7 +4736,20 @@
   </formCommands>
   <commandInterface>
     <navigationPanel/>
-    <commandBar/>
+    <commandBar>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <userVisible/>
+      </cmiFragmentRecord>
+    </commandBar>
   </commandInterface>
   <extInfo xsi:type="form:CatalogFormExtInfo">
     <handlers>

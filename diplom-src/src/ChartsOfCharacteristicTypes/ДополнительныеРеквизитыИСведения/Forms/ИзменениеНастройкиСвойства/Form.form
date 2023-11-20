@@ -26,7 +26,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>РеквизитПредупреждениеКартинкаРасширеннаяПодсказка</name>
+            <name>РеквизитПредупреждениеКартинкаExtendedTooltip</name>
             <id>64</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -72,7 +72,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>РеквизитПредупреждениеКомментарийРасширеннаяПодсказка</name>
+            <name>РеквизитПредупреждениеКомментарийExtendedTooltip</name>
             <id>65</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -117,7 +117,7 @@
           <value>Реквизит предупреждение</value>
         </title>
         <extendedTooltip>
-          <name>РеквизитПредупреждениеРасширеннаяПодсказка</name>
+          <name>РеквизитПредупреждениеExtendedTooltip</name>
           <id>63</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -157,7 +157,7 @@
           <name>ВидПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ОтдельныеЗначенияРеквизитаРасширеннаяПодсказка</name>
+          <name>ОтдельныеЗначенияРеквизитаExtendedTooltip</name>
           <id>66</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -211,7 +211,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ОтдельныеЗначенияРеквизитаКомментарийРасширеннаяПодсказка</name>
+          <name>ОтдельныеЗначенияРеквизитаКомментарийExtendedTooltip</name>
           <id>67</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -268,7 +268,7 @@
               <name>ВидПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ОбщиеЗначенияРеквизитовРасширеннаяПодсказка</name>
+              <name>ОбщиеЗначенияРеквизитовExtendedTooltip</name>
               <id>70</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -322,7 +322,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОбщиеЗначенияРеквизитовКомментарийРасширеннаяПодсказка</name>
+              <name>ОбщиеЗначенияРеквизитовКомментарийExtendedTooltip</name>
               <id>71</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -366,7 +366,7 @@
             <value>Вид общие значения реквизитов</value>
           </title>
           <extendedTooltip>
-            <name>ВидОбщиеЗначенияРеквизитовРасширеннаяПодсказка</name>
+            <name>ВидОбщиеЗначенияРеквизитовExtendedTooltip</name>
             <id>69</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -406,7 +406,7 @@
               <name>ВидПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ОбщийРеквизитРасширеннаяПодсказка</name>
+              <name>ОбщийРеквизитExtendedTooltip</name>
               <id>73</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -463,7 +463,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОбщийРеквизитКомментарийРасширеннаяПодсказка</name>
+              <name>ОбщийРеквизитКомментарийExtendedTooltip</name>
               <id>74</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -507,7 +507,7 @@
             <value>Вид общий реквизит</value>
           </title>
           <extendedTooltip>
-            <name>ВидОбщийРеквизитРасширеннаяПодсказка</name>
+            <name>ВидОбщийРеквизитExtendedTooltip</name>
             <id>72</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -537,7 +537,7 @@
           <value>Виды реквизита</value>
         </title>
         <extendedTooltip>
-          <name>ВидыРеквизитаРасширеннаяПодсказка</name>
+          <name>ВидыРеквизитаExtendedTooltip</name>
           <id>68</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -605,7 +605,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>СведениеПредупреждениеКартинкаРасширеннаяПодсказка</name>
+            <name>СведениеПредупреждениеКартинкаExtendedTooltip</name>
             <id>77</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -651,7 +651,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>СведениеПредупреждениеКомментарийРасширеннаяПодсказка</name>
+            <name>СведениеПредупреждениеКомментарийExtendedTooltip</name>
             <id>78</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -696,7 +696,7 @@
           <value>Сведение предупреждение</value>
         </title>
         <extendedTooltip>
-          <name>СведениеПредупреждениеРасширеннаяПодсказка</name>
+          <name>СведениеПредупреждениеExtendedTooltip</name>
           <id>76</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -736,7 +736,7 @@
           <name>ВидПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ОтдельныеЗначенияСведенияРасширеннаяПодсказка</name>
+          <name>ОтдельныеЗначенияСведенияExtendedTooltip</name>
           <id>79</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -790,7 +790,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ОтдельныеЗначенияСведенияКомментарийРасширеннаяПодсказка</name>
+          <name>ОтдельныеЗначенияСведенияКомментарийExtendedTooltip</name>
           <id>80</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -847,7 +847,7 @@
               <name>ВидПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ОбщиеЗначенияСведенийРасширеннаяПодсказка</name>
+              <name>ОбщиеЗначенияСведенийExtendedTooltip</name>
               <id>83</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -901,7 +901,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОбщиеЗначенияСведенийКомментарийРасширеннаяПодсказка</name>
+              <name>ОбщиеЗначенияСведенийКомментарийExtendedTooltip</name>
               <id>84</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -945,7 +945,7 @@
             <value>Вид общие значения сведений</value>
           </title>
           <extendedTooltip>
-            <name>ВидОбщиеЗначенияСведенийРасширеннаяПодсказка</name>
+            <name>ВидОбщиеЗначенияСведенийExtendedTooltip</name>
             <id>82</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -985,7 +985,7 @@
               <name>ВидПриИзменении</name>
             </handlers>
             <extendedTooltip>
-              <name>ОбщееСведениеРасширеннаяПодсказка</name>
+              <name>ОбщееСведениеExtendedTooltip</name>
               <id>86</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1042,7 +1042,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОбщееСведениеКомментарийРасширеннаяПодсказка</name>
+              <name>ОбщееСведениеКомментарийExtendedTooltip</name>
               <id>87</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1086,7 +1086,7 @@
             <value>Вид общее сведение</value>
           </title>
           <extendedTooltip>
-            <name>ВидОбщееСведениеРасширеннаяПодсказка</name>
+            <name>ВидОбщееСведениеExtendedTooltip</name>
             <id>85</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1116,7 +1116,7 @@
           <value>Виды сведения</value>
         </title>
         <extendedTooltip>
-          <name>ВидыСведенияРасширеннаяПодсказка</name>
+          <name>ВидыСведенияExtendedTooltip</name>
           <id>81</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1175,7 +1175,7 @@
       <value>Типы свойства</value>
     </title>
     <extendedTooltip>
-      <name>ТипыСвойстваРасширеннаяПодсказка</name>
+      <name>ТипыСвойстваExtendedTooltip</name>
       <id>61</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1206,7 +1206,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗаписатьИЗакрытьРасширеннаяПодсказка</name>
+        <name>ФормаЗаписатьИЗакрытьExtendedTooltip</name>
         <id>60</id>
         <visible>true</visible>
         <enabled>true</enabled>

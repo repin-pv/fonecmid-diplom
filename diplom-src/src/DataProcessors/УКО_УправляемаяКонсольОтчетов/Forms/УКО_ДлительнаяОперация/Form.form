@@ -25,7 +25,7 @@
       <common>true</common>
     </userVisible>
     <extendedTooltip>
-      <name>ДекорацияДлительнаяОперацияРасширеннаяПодсказка</name>
+      <name>ДекорацияДлительнаяОперацияExtendedTooltip</name>
       <id>10</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -398,7 +398,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОтменаРасширеннаяПодсказка</name>
+        <name>ФормаОтменаExtendedTooltip</name>
         <id>9</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -20,7 +20,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДлительнаяОперацияРасширеннаяПодсказка</name>
+        <name>ДлительнаяОперацияExtendedTooltip</name>
         <id>17</id>
         <visible>true</visible>
         <enabled>true</enabled>

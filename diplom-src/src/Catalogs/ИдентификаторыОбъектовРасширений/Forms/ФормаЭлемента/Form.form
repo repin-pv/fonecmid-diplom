@@ -70,7 +70,7 @@
     </dataPath>
     <skipOnInput>true</skipOnInput>
     <extendedTooltip>
-      <name>НаименованиеРасширеннаяПодсказка</name>
+      <name>НаименованиеExtendedTooltip</name>
       <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -223,7 +223,7 @@
       </dataPath>
       <skipOnInput>true</skipOnInput>
       <extendedTooltip>
-        <name>ИмяРасширеннаяПодсказка</name>
+        <name>ИмяExtendedTooltip</name>
         <id>35</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -276,7 +276,7 @@
       </dataPath>
       <skipOnInput>true</skipOnInput>
       <extendedTooltip>
-        <name>СинонимРасширеннаяПодсказка</name>
+        <name>СинонимExtendedTooltip</name>
         <id>36</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -326,7 +326,7 @@
       <value>Имя и синоним объекта метаданных</value>
     </title>
     <extendedTooltip>
-      <name>ИмяИСинонимОбъектаМетаданныхРасширеннаяПодсказка</name>
+      <name>ИмяИСинонимОбъектаМетаданныхExtendedTooltip</name>
       <id>34</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -368,7 +368,7 @@
         <name>ПолноеИмяПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПолноеИмяРасширеннаяПодсказка</name>
+        <name>ПолноеИмяExtendedTooltip</name>
         <id>38</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -424,7 +424,7 @@
       </dataPath>
       <skipOnInput>true</skipOnInput>
       <extendedTooltip>
-        <name>ПолныйСинонимРасширеннаяПодсказка</name>
+        <name>ПолныйСинонимExtendedTooltip</name>
         <id>39</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -474,7 +474,7 @@
       <value>Полное имя и полный синоним объекта метаданных</value>
     </title>
     <extendedTooltip>
-      <name>ПолноеИмяИПолныйСинонимОбъектаМетаданныхРасширеннаяПодсказка</name>
+      <name>ПолноеИмяИПолныйСинонимОбъектаМетаданныхExtendedTooltip</name>
       <id>37</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -512,7 +512,7 @@
       </dataPath>
       <skipOnInput>true</skipOnInput>
       <extendedTooltip>
-        <name>ПорядокКоллекцииРасширеннаяПодсказка</name>
+        <name>ПорядокКоллекцииExtendedTooltip</name>
         <id>41</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -563,7 +563,7 @@
       <skipOnInput>true</skipOnInput>
       <titleLocation>Right</titleLocation>
       <extendedTooltip>
-        <name>БезДанныхРасширеннаяПодсказка</name>
+        <name>БезДанныхExtendedTooltip</name>
         <id>42</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -614,7 +614,7 @@
 типа значения пустой ссылки)</value>
       </toolTip>
       <extendedTooltip>
-        <name>ПустаяСсылкаПредставлениеРасширеннаяПодсказка</name>
+        <name>ПустаяСсылкаПредставлениеExtendedTooltip</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -663,7 +663,7 @@
         <segments>Объект.НоваяСсылка</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НоваяСсылкаРасширеннаяПодсказка</name>
+        <name>НоваяСсылкаExtendedTooltip</name>
         <id>44</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -712,7 +712,7 @@
       <value>Прочее</value>
     </title>
     <extendedTooltip>
-      <name>ПрочиеСвойстваРасширеннаяПодсказка</name>
+      <name>ПрочиеСвойстваExtendedTooltip</name>
       <id>40</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -899,7 +899,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВозможностьРедактированияРасширеннаяПодсказка</name>
+        <name>ФормаВключитьВозможностьРедактированияExtendedTooltip</name>
         <id>32</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1059,26 +1059,49 @@
   <commandInterface>
     <navigationPanel>
       <cmiFragmentRecord>
+        <command>0</command>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
         <command>InformationRegister.НазначениеДополнительныхОбработок.StandardCommand.OpenByValue.ОбъектНазначения</command>
-        <commandParameter xsi:type="form:DataPath">
-          <segments>Объект.Ref</segments>
-        </commandParameter>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
     </navigationPanel>
     <commandBar>
       <cmiFragmentRecord>
         <command>Catalog.ВнешниеПользователи.Command.ВнешнийДоступ</command>
-        <commandParameter xsi:type="form:DataPath">
-          <segments>Объект.Ref</segments>
-        </commandParameter>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
       <cmiFragmentRecord>
         <command>CommonCommand.СозданиеСвязанныхОбъектов</command>
-        <commandParameter xsi:type="form:DataPath">
-          <segments>Объект.Ref</segments>
-        </commandParameter>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
     </commandBar>

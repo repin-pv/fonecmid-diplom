@@ -20,7 +20,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КартинкаПредупреждениеРасширеннаяПодсказка</name>
+        <name>КартинкаПредупреждениеExtendedTooltip</name>
         <id>29</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -72,7 +72,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ВерсияРасширеннаяПодсказка</name>
+            <name>ВерсияExtendedTooltip</name>
             <id>32</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -114,7 +114,7 @@
           <value>Версия</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаВерсияРасширеннаяПодсказка</name>
+          <name>ГруппаВерсияExtendedTooltip</name>
           <id>31</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -150,7 +150,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстСообщенияРасширеннаяПодсказка</name>
+          <name>ТекстСообщенияExtendedTooltip</name>
           <id>34</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -195,7 +195,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстСсылкиРасширеннаяПодсказка</name>
+          <name>ТекстСсылкиExtendedTooltip</name>
           <id>35</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -243,7 +243,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ТекстВопросаРасширеннаяПодсказка</name>
+          <name>ТекстВопросаExtendedTooltip</name>
           <id>36</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -285,7 +285,7 @@
         <value>Текст</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаТекстРасширеннаяПодсказка</name>
+        <name>ГруппаТекстExtendedTooltip</name>
         <id>30</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -318,7 +318,7 @@
       <value>Предупреждение</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаПредупреждениеРасширеннаяПодсказка</name>
+      <name>ГруппаПредупреждениеExtendedTooltip</name>
       <id>28</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -354,7 +354,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаЗавершитьРаботуРасширеннаяПодсказка</name>
+        <name>ФормаЗавершитьРаботуExtendedTooltip</name>
         <id>26</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -385,7 +385,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаНетРасширеннаяПодсказка</name>
+        <name>ФормаНетExtendedTooltip</name>
         <id>27</id>
         <visible>true</visible>
         <enabled>true</enabled>

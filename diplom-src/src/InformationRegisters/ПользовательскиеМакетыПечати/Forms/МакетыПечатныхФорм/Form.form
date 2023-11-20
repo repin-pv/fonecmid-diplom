@@ -19,7 +19,7 @@
         <name>ОтборПоВидуИспользуемогоМакетаПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ОтборПоИспользованиюМакетаРасширеннаяПодсказка</name>
+        <name>ОтборПоИспользованиюМакетаExtendedTooltip</name>
         <id>83</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -181,7 +181,7 @@
         <name>СтрокаПоискаПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>СтрокаПоискаРасширеннаяПодсказка</name>
+        <name>СтрокаПоискаExtendedTooltip</name>
         <id>82</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -241,7 +241,7 @@
       <value>Отборы</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаОтборыРасширеннаяПодсказка</name>
+      <name>ГруппаОтборыExtendedTooltip</name>
       <id>81</id>
       <visible>true</visible>
       <enabled>true</enabled>

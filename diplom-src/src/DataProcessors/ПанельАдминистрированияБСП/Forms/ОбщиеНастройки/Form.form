@@ -16,7 +16,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОписаниеРазделаРасширеннаяПодсказка</name>
+        <name>ОписаниеРазделаExtendedTooltip</name>
         <id>1830</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -59,7 +59,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СправкаРасширеннаяПодсказка</name>
+          <name>СправкаExtendedTooltip</name>
           <id>1833</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -91,7 +91,7 @@
       </title>
       <groupHorizontalAlign>Right</groupHorizontalAlign>
       <extendedTooltip>
-        <name>ГруппаСправкаРасширеннаяПодсказка</name>
+        <name>ГруппаСправкаExtendedTooltip</name>
         <id>1832</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -120,7 +120,7 @@
       <value>Заголовок</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаЗаголовокРасширеннаяПодсказка</name>
+      <name>ГруппаЗаголовокExtendedTooltip</name>
       <id>1829</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -167,7 +167,7 @@
         <name>ЗаголовокПрограммыПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ЗаголовокПрограммыРасширеннаяПодсказка</name>
+        <name>ЗаголовокПрограммыExtendedTooltip</name>
         <id>1835</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -527,7 +527,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ОткрытьПараметрыПроксиСервераРасширеннаяПодсказка</name>
+            <name>ОткрытьПараметрыПроксиСервераExtendedTooltip</name>
             <id>1870</id>
             <title>
               <key>ru</key>
@@ -565,7 +565,7 @@
         <width>43</width>
         <horizontalStretch>false</horizontalStretch>
         <extendedTooltip>
-          <name>ГруппаОткрытьПараметрыПроксиСервераРасширеннаяПодсказка</name>
+          <name>ГруппаОткрытьПараметрыПроксиСервераExtendedTooltip</name>
           <id>1869</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -878,7 +878,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОткрытьВидыКонтактнойИнформацииРасширеннаяПодсказка</name>
+        <name>ОткрытьВидыКонтактнойИнформацииExtendedTooltip</name>
         <id>1866</id>
         <title>
           <key>ru</key>
@@ -917,7 +917,7 @@
     <width>43</width>
     <horizontalStretch>false</horizontalStretch>
     <extendedTooltip>
-      <name>ГруппаОткрытьВидыКонтактнойИнформацииРасширеннаяПодсказка</name>
+      <name>ГруппаОткрытьВидыКонтактнойИнформацииExtendedTooltip</name>
       <id>1865</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -977,7 +977,7 @@
           <name>ИспользоватьДополнительныеРеквизитыИСведенияПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ИспользоватьДополнительныеРеквизитыИСведенияРасширеннаяПодсказка</name>
+          <name>ИспользоватьДополнительныеРеквизитыИСведенияExtendedTooltip</name>
           <id>1848</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1020,7 +1020,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаИспользоватьДополнительныеРеквизитыИСведенияРасширеннаяПодсказка</name>
+        <name>ГруппаИспользоватьДополнительныеРеквизитыИСведенияExtendedTooltip</name>
         <id>1847</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1095,7 +1095,7 @@
           <value>Дополнительные реквизиты</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаДополнительныеРеквизитыРасширеннаяПодсказка</name>
+          <name>ГруппаДополнительныеРеквизитыExtendedTooltip</name>
           <id>1859</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1167,7 +1167,7 @@
           <value>Дополнительные сведения</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаДополнительныеСведенияРасширеннаяПодсказка</name>
+          <name>ГруппаДополнительныеСведенияExtendedTooltip</name>
           <id>1862</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1202,7 +1202,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаДополнительныеРеквизитыИлиСведенияРасширеннаяПодсказка</name>
+        <name>ГруппаДополнительныеРеквизитыИлиСведенияExtendedTooltip</name>
         <id>1858</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1236,7 +1236,7 @@
       <value>Дополнительные реквизиты и сведения</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаДополнительныеРеквизитыИСведенияРасширеннаяПодсказка</name>
+      <name>ГруппаДополнительныеРеквизитыИСведенияExtendedTooltip</name>
       <id>1846</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1367,7 +1367,7 @@
       <width>43</width>
       <horizontalStretch>false</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаИспользоватьВерсионированиеОбъектовРасширеннаяПодсказка</name>
+        <name>ГруппаИспользоватьВерсионированиеОбъектовExtendedTooltip</name>
         <id>2066</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3151,7 +3151,7 @@
             <name>УдалениеПомеченныхИспользованиеПриИзменении</name>
           </handlers>
           <extendedTooltip>
-            <name>УдалениеПомеченныхИспользованиеРасширеннаяПодсказка</name>
+            <name>РасширеннаяПодсказка</name>
             <id>2100</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3166,7 +3166,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>УдалениеПомеченныхИспользованиеКонтекстноеМеню</name>
+            <name>КонтекстноеМеню</name>
             <id>2099</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3224,7 +3224,7 @@
         </title>
         <toolTipRepresentation>ShowBottom</toolTipRepresentation>
         <extendedTooltip>
-          <name>ГруппаРегламентноеУдалениеПомеченныхРасширеннаяПодсказка</name>
+          <name>Группа2РасширеннаяПодсказка1</name>
           <id>2102</id>
           <title>
             <key>ru</key>
@@ -3301,7 +3301,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПосмотретьПомеченныеНаУдалениеРасширеннаяПодсказка</name>
+          <name>ПосмотретьРасширеннаяПодсказка</name>
           <id>2106</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3338,7 +3338,7 @@
       </toolTip>
       <toolTipRepresentation>ShowBottom</toolTipRepresentation>
       <extendedTooltip>
-        <name>ГруппаПросмотрПомеченныхНаУдалениеРасширеннаяПодсказка</name>
+        <name>Группа2РасширеннаяПодсказка2</name>
         <id>2110</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -3371,7 +3371,7 @@
       <value>Удаление помеченных объектов</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаУдалениеПомеченныхРасширеннаяПодсказка</name>
+      <name>Группа2РасширеннаяПодсказка</name>
       <id>2097</id>
       <visible>true</visible>
       <enabled>true</enabled>

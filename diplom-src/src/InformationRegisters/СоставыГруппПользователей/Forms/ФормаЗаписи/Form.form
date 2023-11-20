@@ -12,7 +12,7 @@
       <segments>Запись.ГруппаПользователей</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ГруппаПользователейРасширеннаяПодсказка</name>
+      <name>ГруппаПользователейExtendedTooltip</name>
       <id>9</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -62,7 +62,7 @@
       <segments>Запись.Пользователь</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ПользовательРасширеннаяПодсказка</name>
+      <name>ПользовательExtendedTooltip</name>
       <id>10</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -113,7 +113,7 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <extendedTooltip>
-      <name>ИспользуетсяРасширеннаяПодсказка</name>
+      <name>ИспользуетсяExtendedTooltip</name>
       <id>11</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -156,7 +156,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВозможностьРедактированияРасширеннаяПодсказка</name>
+        <name>ФормаВключитьВозможностьРедактированияExtendedTooltip</name>
         <id>8</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -1856,7 +1856,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>НастроитьПараметрыИзмененийРасширеннаяПодсказка</name>
+            <name>НастроитьПараметрыИзмененийExtendedTooltip</name>
             <id>79</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1966,7 +1966,7 @@
         <value>Настройка изменений</value>
       </title>
       <extendedTooltip>
-        <name>НастройкаИзмененийРасширеннаяПодсказка</name>
+        <name>НастройкаИзмененийExtendedTooltip</name>
         <id>75</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2482,7 +2482,7 @@
         <value>Изменение объектов</value>
       </title>
       <extendedTooltip>
-        <name>ИзменениеОбъектовРасширеннаяПодсказка</name>
+        <name>ИзменениеОбъектовExtendedTooltip</name>
         <id>86</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2521,7 +2521,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ДекорацияДлительнаяОперацияРасширеннаяПодсказка</name>
+            <name>ДекорацияДлительнаяОперацияExtendedTooltip</name>
             <id>102</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2566,7 +2566,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ДекорацияПоясняющийТекстДлительнойОперацииРасширеннаяПодсказка</name>
+            <name>ДекорацияПоясняющийТекстДлительнойОперацииExtendedTooltip</name>
             <id>103</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2641,7 +2641,7 @@
         <value>Ожидание обработки</value>
       </title>
       <extendedTooltip>
-        <name>ОжиданиеОбработкиРасширеннаяПодсказка</name>
+        <name>ОжиданиеОбработкиExtendedTooltip</name>
         <id>101</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2827,7 +2827,7 @@
       <value>Страницы</value>
     </title>
     <extendedTooltip>
-      <name>СтраницыРасширеннаяПодсказка</name>
+      <name>СтраницыExtendedTooltip</name>
       <id>74</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -2927,7 +2927,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаИзменитьРасширеннаяПодсказка</name>
+          <name>ФормаИзменитьExtendedTooltip</name>
           <id>71</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2958,7 +2958,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаСправкаРасширеннаяПодсказка</name>
+          <name>ФормаСправкаExtendedTooltip</name>
           <id>73</id>
           <visible>true</visible>
           <enabled>true</enabled>

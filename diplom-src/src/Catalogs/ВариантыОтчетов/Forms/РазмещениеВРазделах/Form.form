@@ -49,7 +49,7 @@
           <name>ДеревоПодсистемИспользованиеПриИзменении</name>
         </handlers>
         <extendedTooltip>
-          <name>ДеревоПодсистемИспользованиеРасширеннаяПодсказка</name>
+          <name>ДеревоПодсистемИспользованиеExtendedTooltip</name>
           <id>87</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -96,7 +96,7 @@
           <segments>ДеревоПодсистем.Представление</segments>
         </dataPath>
         <extendedTooltip>
-          <name>ДеревоПодсистемПредставлениеРасширеннаяПодсказка</name>
+          <name>ДеревоПодсистемПредставлениеExtendedTooltip</name>
           <id>88</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -145,7 +145,7 @@
         <value>Колонок</value>
       </title>
       <extendedTooltip>
-        <name>ГруппаКолонокРасширеннаяПодсказка</name>
+        <name>ГруппаКолонокExtendedTooltip</name>
         <id>86</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -181,7 +181,7 @@
         <name>ДеревоПодсистемВажностьПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ДеревоПодсистемВажностьРасширеннаяПодсказка</name>
+        <name>ДеревоПодсистемВажностьExtendedTooltip</name>
         <id>89</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -353,7 +353,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>ДеревоПодсистемРасширеннаяПодсказка</name>
+      <name>ДеревоПодсистемExtendedTooltip</name>
       <id>85</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -379,7 +379,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ДеревоПодсистемКонтекстноеМенюСнятьФлажкиРасширеннаяПодсказка</name>
+          <name>ДеревоПодсистемКонтекстноеМенюСнятьФлажкиExtendedTooltip</name>
           <id>83</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -440,7 +440,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>РазместитьРасширеннаяПодсказка</name>
+        <name>РазместитьExtendedTooltip</name>
         <id>79</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -470,7 +470,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДеревоПодсистемСнятьФлажкиРасширеннаяПодсказка</name>
+        <name>ДеревоПодсистемСнятьФлажкиExtendedTooltip</name>
         <id>80</id>
         <visible>true</visible>
         <enabled>true</enabled>

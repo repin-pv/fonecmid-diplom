@@ -486,7 +486,7 @@
               <value>Имя файла (без расширения)</value>
             </toolTip>
             <extendedTooltip>
-              <name>СписокНаименованиеРасширеннаяПодсказка</name>
+              <name>СписокНаименованиеExtendedTooltip</name>
               <id>159</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -777,7 +777,7 @@
             <value>Размер файла в килобайтах</value>
           </toolTip>
           <extendedTooltip>
-            <name>СписокРазмерРасширеннаяПодсказка</name>
+            <name>СписокРазмерExtendedTooltip</name>
             <id>164</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1186,7 +1186,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>СписокРасширеннаяПодсказка</name>
+          <name>СписокExtendedTooltip</name>
           <id>156</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1463,7 +1463,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>СписокКонтекстноеМенюРедактироватьРасширеннаяПодсказка</name>
+                <name>СписокКонтекстноеМенюРедактироватьExtendedTooltip</name>
                 <id>136</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1497,7 +1497,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>СписокКонтекстноеМенюЗакончитьРедактированиеРасширеннаяПодсказка</name>
+                <name>СписокКонтекстноеМенюЗакончитьРедактированиеExtendedTooltip</name>
                 <id>137</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1678,7 +1678,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>СписокКонтекстноеМенюЗашифроватьРасширеннаяПодсказка</name>
+                  <name>СписокКонтекстноеМенюЗашифроватьExtendedTooltip</name>
                   <id>154</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1708,7 +1708,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>СписокКонтекстноеМенюРасшифроватьРасширеннаяПодсказка</name>
+                  <name>СписокКонтекстноеМенюРасшифроватьExtendedTooltip</name>
                   <id>155</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -1799,7 +1799,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>СписокКонтекстноеМенюСкопироватьРасширеннаяПодсказка</name>
+                <name>СписокКонтекстноеМенюСкопироватьExtendedTooltip</name>
                 <id>140</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1889,7 +1889,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>СписокКонтекстноеМенюСохранитьКакРасширеннаяПодсказка</name>
+                <name>СписокКонтекстноеМенюСохранитьКакExtendedTooltip</name>
                 <id>142</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1949,7 +1949,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>СписокКонтекстноеМенюОсвободитьРасширеннаяПодсказка</name>
+                <name>СписокКонтекстноеМенюОсвободитьExtendedTooltip</name>
                 <id>138</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -1979,7 +1979,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>СписокКонтекстноеМенюОбновитьИзФайлаНаДискеРасширеннаяПодсказка</name>
+                <name>СписокКонтекстноеМенюОбновитьИзФайлаНаДискеExtendedTooltip</name>
                 <id>143</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2009,7 +2009,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>СписокКонтекстноеМенюОткрытьКаталогФайлаРасширеннаяПодсказка</name>
+                <name>СписокКонтекстноеМенюОткрытьКаталогФайлаExtendedTooltip</name>
                 <id>145</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2068,7 +2068,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>СписокКонтекстноеМенюНайтиРасширеннаяПодсказка</name>
+                <name>СписокКонтекстноеМенюНайтиExtendedTooltip</name>
                 <id>147</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2098,7 +2098,7 @@
                 <common>true</common>
               </userVisible>
               <extendedTooltip>
-                <name>СписокКонтекстноеМенюОтменитьПоискРасширеннаяПодсказка</name>
+                <name>СписокКонтекстноеМенюОтменитьПоискExtendedTooltip</name>
                 <id>148</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2129,7 +2129,7 @@
               <value>Контекстное меню группа команд от списка</value>
             </title>
             <extendedTooltip>
-              <name>СписокКонтекстноеМенюГруппаКомандОтСпискаРасширеннаяПодсказка</name>
+              <name>СписокКонтекстноеМенюГруппаКомандОтСпискаExtendedTooltip</name>
               <id>146</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -2737,7 +2737,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаРедактироватьРасширеннаяПодсказка</name>
+          <name>ФормаРедактироватьExtendedTooltip</name>
           <id>107</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -2766,7 +2766,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаЗакончитьРедактированиеРасширеннаяПодсказка</name>
+          <name>ФормаЗакончитьРедактированиеExtendedTooltip</name>
           <id>108</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3132,7 +3132,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаЗашифроватьРасширеннаяПодсказка</name>
+            <name>ФормаЗашифроватьExtendedTooltip</name>
             <id>115</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3162,7 +3162,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаРасшифроватьРасширеннаяПодсказка</name>
+            <name>ФормаРасшифроватьExtendedTooltip</name>
             <id>116</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3281,7 +3281,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаНайтиРасширеннаяПодсказка</name>
+          <name>ФормаНайтиExtendedTooltip</name>
           <id>125</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3311,7 +3311,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОтменитьПоискРасширеннаяПодсказка</name>
+          <name>ФормаОтменитьПоискExtendedTooltip</name>
           <id>126</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3402,7 +3402,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаСкопироватьРасширеннаяПодсказка</name>
+          <name>ФормаСкопироватьExtendedTooltip</name>
           <id>118</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3433,7 +3433,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаСохранитьКакРасширеннаяПодсказка</name>
+          <name>ФормаСохранитьКакExtendedTooltip</name>
           <id>120</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3620,7 +3620,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОсвободитьРасширеннаяПодсказка</name>
+          <name>ФормаОсвободитьExtendedTooltip</name>
           <id>109</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3650,7 +3650,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОбновитьИзФайлаНаДискеРасширеннаяПодсказка</name>
+          <name>ФормаОбновитьИзФайлаНаДискеExtendedTooltip</name>
           <id>121</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -3684,7 +3684,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОткрытьКаталогФайлаРасширеннаяПодсказка</name>
+          <name>ФормаОткрытьКаталогФайлаExtendedTooltip</name>
           <id>123</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -4424,7 +4424,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаРасширеннаяПодсказка</name>
+        <name>ФормаСправкаExtendedTooltip</name>
         <id>131</id>
         <visible>true</visible>
         <enabled>true</enabled>

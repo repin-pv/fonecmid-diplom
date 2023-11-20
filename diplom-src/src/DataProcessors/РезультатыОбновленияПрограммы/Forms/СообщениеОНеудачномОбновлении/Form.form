@@ -20,7 +20,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КартинкаОшибкиРасширеннаяПодсказка</name>
+        <name>КартинкаОшибкиExtendedTooltip</name>
         <id>16</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -65,7 +65,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ТекстСообщенияОбОшибкеРасширеннаяПодсказка</name>
+        <name>ТекстСообщенияОбОшибкеExtendedTooltip</name>
         <id>17</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -106,7 +106,7 @@
       <value>Сообщение об ошибке</value>
     </title>
     <extendedTooltip>
-      <name>СообщениеОбОшибкеРасширеннаяПодсказка</name>
+      <name>СообщениеОбОшибкеExtendedTooltip</name>
       <id>15</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -178,7 +178,7 @@
       </userVisible>
       <toolTipRepresentation>Button</toolTipRepresentation>
       <extendedTooltip>
-        <name>ТехническаяИнформацияОРезультатахОбновленияРасширеннаяПодсказка</name>
+        <name>ТехническаяИнформацияОРезультатахОбновленияExtendedTooltip</name>
         <id>20</id>
         <title>
           <key>ru</key>
@@ -227,7 +227,7 @@
       <value>Техническая информация о результатах обновления</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаТехническаяИнформацияОРезультатахОбновленияРасширеннаяПодсказка</name>
+      <name>ГруппаТехническаяИнформацияОРезультатахОбновленияExtendedTooltip</name>
       <id>18</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -264,7 +264,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ЗавершитьРаботуРасширеннаяПодсказка</name>
+        <name>ЗавершитьРаботуExtendedTooltip</name>
         <id>13</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -295,7 +295,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ПерезапуститьПрограммуРасширеннаяПодсказка</name>
+        <name>ПерезапуститьПрограммуExtendedTooltip</name>
         <id>14</id>
         <visible>true</visible>
         <enabled>true</enabled>

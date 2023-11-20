@@ -62,7 +62,7 @@
       <segments>Запись.Пользователь</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ПользовательРасширеннаяПодсказка</name>
+      <name>ПользовательExtendedTooltip</name>
       <id>37</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -112,7 +112,7 @@
       <segments>Запись.Право</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ПравоРасширеннаяПодсказка</name>
+      <name>ПравоExtendedTooltip</name>
       <id>38</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -251,7 +251,7 @@
       <value>Свойства права</value>
     </title>
     <extendedTooltip>
-      <name>СвойстваПраваРасширеннаяПодсказка</name>
+      <name>СвойстваПраваExtendedTooltip</name>
       <id>39</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -339,7 +339,7 @@
         <segments>Запись.Таблица</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ТаблицаРасширеннаяПодсказка</name>
+        <name>ТаблицаExtendedTooltip</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -630,7 +630,7 @@
           <value>Вертикальная группа 1</value>
         </title>
         <extendedTooltip>
-          <name>ВертикальнаяГруппа1РасширеннаяПодсказка</name>
+          <name>ВертикальнаяГруппа1ExtendedTooltip</name>
           <id>45</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -766,7 +766,7 @@
           <value>Вертикальная группа 2</value>
         </title>
         <extendedTooltip>
-          <name>ВертикальнаяГруппа2РасширеннаяПодсказка</name>
+          <name>ВертикальнаяГруппа2ExtendedTooltip</name>
           <id>50</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -799,7 +799,7 @@
         <value>Горизонтальная группа</value>
       </title>
       <extendedTooltip>
-        <name>ГоризонтальнаяГруппаРасширеннаяПодсказка</name>
+        <name>ГоризонтальнаяГруппаExtendedTooltip</name>
         <id>44</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -832,7 +832,7 @@
       <value>Вспомогательные данные</value>
     </title>
     <extendedTooltip>
-      <name>ВспомогательныеДанныеРасширеннаяПодсказка</name>
+      <name>ВспомогательныеДанныеExtendedTooltip</name>
       <id>42</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -869,7 +869,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВключитьВозможностьРедактированияРасширеннаяПодсказка</name>
+        <name>ФормаВключитьВозможностьРедактированияExtendedTooltip</name>
         <id>35</id>
         <visible>true</visible>
         <enabled>true</enabled>

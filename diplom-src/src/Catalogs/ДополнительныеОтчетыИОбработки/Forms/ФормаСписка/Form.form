@@ -55,7 +55,7 @@
         <name>ВидОтборПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ВидОтборРасширеннаяПодсказка</name>
+        <name>ВидОтборExtendedTooltip</name>
         <id>33</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -117,7 +117,7 @@
         <name>ПубликацияОтборПриИзменении</name>
       </handlers>
       <extendedTooltip>
-        <name>ПубликацияОтборРасширеннаяПодсказка</name>
+        <name>ПубликацияОтборExtendedTooltip</name>
         <id>34</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -174,7 +174,7 @@
       <value>Быстрые отборы</value>
     </title>
     <extendedTooltip>
-      <name>БыстрыеОтборыРасширеннаяПодсказка</name>
+      <name>БыстрыеОтборыExtendedTooltip</name>
       <id>32</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -401,7 +401,7 @@
         <value>Кнопки добавления</value>
       </title>
       <extendedTooltip>
-        <name>КнопкиДобавленияРасширеннаяПодсказка</name>
+        <name>КнопкиДобавленияExtendedTooltip</name>
         <id>36</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -608,7 +608,7 @@
         <value>Команды формы</value>
       </title>
       <extendedTooltip>
-        <name>КомандыФормыРасширеннаяПодсказка</name>
+        <name>КомандыФормыExtendedTooltip</name>
         <id>40</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -760,7 +760,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>СправкаРасширеннаяПодсказка</name>
+        <name>СправкаExtendedTooltip</name>
         <id>41</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -876,7 +876,7 @@
       <value>Командная панель</value>
     </title>
     <extendedTooltip>
-      <name>КоманднаяПанельРасширеннаяПодсказка</name>
+      <name>КоманднаяПанельExtendedTooltip</name>
       <id>35</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -927,7 +927,7 @@
       </dataPath>
       <defaultItem>true</defaultItem>
       <extendedTooltip>
-        <name>НаименованиеРасширеннаяПодсказка</name>
+        <name>НаименованиеExtendedTooltip</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -971,7 +971,7 @@
         <segments>Список.Вид</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ВидРасширеннаяПодсказка</name>
+        <name>ВидExtendedTooltip</name>
         <id>44</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1019,7 +1019,7 @@
         <segments>Список.Публикация</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ПубликацияРасширеннаяПодсказка</name>
+        <name>ПубликацияExtendedTooltip</name>
         <id>45</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1067,7 +1067,7 @@
         <segments>Список.Версия</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ВерсияРасширеннаяПодсказка</name>
+        <name>ВерсияExtendedTooltip</name>
         <id>46</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1113,7 +1113,7 @@
         <segments>Список.Ответственный</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ОтветственныйРасширеннаяПодсказка</name>
+        <name>ОтветственныйExtendedTooltip</name>
         <id>47</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1157,7 +1157,7 @@
         <segments>Список.ИмяОбъекта</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ИмяОбъектаРасширеннаяПодсказка</name>
+        <name>ИмяОбъектаExtendedTooltip</name>
         <id>48</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1366,7 +1366,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>СписокРасширеннаяПодсказка</name>
+      <name>СписокExtendedTooltip</name>
       <id>42</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -2116,7 +2116,26 @@
   </parameters>
   <commandInterface>
     <navigationPanel/>
-    <commandBar/>
+    <commandBar>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <group>FormCommandBarImportant</group>
+        <index>0</index>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <group>FormCommandBarImportant</group>
+        <index>2</index>
+        <userVisible/>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <group>FormCommandBarImportant</group>
+        <index>1</index>
+        <userVisible/>
+      </cmiFragmentRecord>
+    </commandBar>
   </commandInterface>
   <extInfo xsi:type="form:DynamicListFormExtInfo"/>
 </form:Form>

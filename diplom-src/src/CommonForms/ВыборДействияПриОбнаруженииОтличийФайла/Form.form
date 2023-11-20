@@ -16,7 +16,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ЗначокСообщенияРасширеннаяПодсказка</name>
+        <name>ЗначокСообщенияExtendedTooltip</name>
         <id>43</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -62,7 +62,7 @@
       </dataPath>
       <titleLocation>None</titleLocation>
       <extendedTooltip>
-        <name>СообщениеРасширеннаяПодсказка</name>
+        <name>СообщениеExtendedTooltip</name>
         <id>44</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -107,7 +107,7 @@
       <value>Сообщение для пользователя</value>
     </title>
     <extendedTooltip>
-      <name>СообщениеДляПользователяРасширеннаяПодсказка</name>
+      <name>СообщениеДляПользователяExtendedTooltip</name>
       <id>42</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -195,7 +195,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОткрытьКаталогРасширеннаяПодсказка</name>
+        <name>ОткрытьКаталогExtendedTooltip</name>
         <id>49</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -227,7 +227,7 @@
       <value>Файл и кнопка</value>
     </title>
     <extendedTooltip>
-      <name>ФайлИКнопкаРасширеннаяПодсказка</name>
+      <name>ФайлИКнопкаExtendedTooltip</name>
       <id>47</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -267,7 +267,7 @@
         <value>Дата изменения (местное время)</value>
       </title>
       <extendedTooltip>
-        <name>ДатаИзмененияРасширеннаяПодсказка</name>
+        <name>ДатаИзмененияExtendedTooltip</name>
         <id>51</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -305,7 +305,7 @@
         <value>Размер (байт)</value>
       </title>
       <extendedTooltip>
-        <name>РазмерРасширеннаяПодсказка</name>
+        <name>РазмерExtendedTooltip</name>
         <id>54</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -395,7 +395,7 @@
           <segments>РазмерВРабочемКаталоге</segments>
         </dataPath>
         <extendedTooltip>
-          <name>РазмерВРабочемКаталогеРасширеннаяПодсказка</name>
+          <name>РазмерВРабочемКаталогеExtendedTooltip</name>
           <id>55</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -535,7 +535,7 @@
           <segments>РазмерВХранилищеФайлов</segments>
         </dataPath>
         <extendedTooltip>
-          <name>РазмерВХранилищеФайловРасширеннаяПодсказка</name>
+          <name>РазмерВХранилищеФайловExtendedTooltip</name>
           <id>56</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -620,7 +620,7 @@
       <value>Свойства файлов</value>
     </title>
     <extendedTooltip>
-      <name>СвойстваФайловРасширеннаяПодсказка</name>
+      <name>СвойстваФайловExtendedTooltip</name>
       <id>50</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -656,7 +656,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаОткрытьСуществующийРасширеннаяПодсказка</name>
+        <name>ФормаОткрытьСуществующийExtendedTooltip</name>
         <id>37</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -686,7 +686,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаПоместитьРасширеннаяПодсказка</name>
+        <name>ФормаПоместитьExtendedTooltip</name>
         <id>38</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -716,7 +716,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВзятьИзХранилищаРасширеннаяПодсказка</name>
+        <name>ФормаВзятьИзХранилищаExtendedTooltip</name>
         <id>39</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -746,7 +746,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаНеПомещатьРасширеннаяПодсказка</name>
+        <name>ФормаНеПомещатьExtendedTooltip</name>
         <id>40</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -777,7 +777,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОтменитьРасширеннаяПодсказка</name>
+        <name>ОтменитьExtendedTooltip</name>
         <id>41</id>
         <visible>true</visible>
         <enabled>true</enabled>

@@ -23,7 +23,7 @@
         <segments>РабочийКаталогПользователя</segments>
       </dataPath>
       <extendedTooltip>
-        <name>РабочийКаталогПользователяРасширеннаяПодсказка</name>
+        <name>РабочийКаталогПользователяExtendedTooltip</name>
         <id>31</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -79,7 +79,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ПутьКРабочемуКаталогуПоУмолчаниюРасширеннаяПодсказка</name>
+        <name>ПутьКРабочемуКаталогуПоУмолчаниюExtendedTooltip</name>
         <id>32</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -111,7 +111,7 @@
       <value>Расположение</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаРасположениеРасширеннаяПодсказка</name>
+      <name>ГруппаРасположениеExtendedTooltip</name>
       <id>30</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -154,7 +154,7 @@
       <name>МаксимальныйРазмерЛокальногоКэшаФайловПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>МаксимальныйРазмерЛокальногоКэшаФайловРасширеннаяПодсказка</name>
+      <name>МаксимальныйРазмерЛокальногоКэшаФайловExtendedTooltip</name>
       <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -212,7 +212,7 @@
       <name>УдалятьФайлИзЛокальногоКэшаФайловПриЗавершенииРедактированияПриИзменении</name>
     </handlers>
     <extendedTooltip>
-      <name>УдалятьФайлИзЛокальногоКэшаФайловПриЗавершенииРедактированияРасширеннаяПодсказка</name>
+      <name>УдалятьФайлИзЛокальногоКэшаФайловПриЗавершенииРедактированияExtendedTooltip</name>
       <id>35</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -262,7 +262,7 @@
         <segments>КоличествоСуммарное</segments>
       </dataPath>
       <extendedTooltip>
-        <name>КоличествоСуммарноеРасширеннаяПодсказка</name>
+        <name>КоличествоСуммарноеExtendedTooltip</name>
         <id>37</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -320,7 +320,7 @@
         <segments>РазмерФайловВРабочемКаталоге</segments>
       </dataPath>
       <extendedTooltip>
-        <name>РазмерФайловВРабочемКаталогеРасширеннаяПодсказка</name>
+        <name>РазмерФайловВРабочемКаталогеExtendedTooltip</name>
         <id>38</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -376,7 +376,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ОчиститьРабочийКаталогРасширеннаяПодсказка</name>
+        <name>ОчиститьРабочийКаталогExtendedTooltip</name>
         <id>40</id>
         <visible>true</visible>
         <enabled>true</enabled>

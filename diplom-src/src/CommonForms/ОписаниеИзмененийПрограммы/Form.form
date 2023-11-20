@@ -20,7 +20,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ОтложенноеОбновлениеДанныхРасширеннаяПодсказка</name>
+        <name>ОтложенноеОбновлениеДанныхExtendedTooltip</name>
         <id>29</id>
         <title>
           <key>ru</key>
@@ -58,7 +58,7 @@
       <value>Отложенное обновление</value>
     </title>
     <extendedTooltip>
-      <name>ОтложенноеОбновлениеРасширеннаяПодсказка</name>
+      <name>ОтложенноеОбновлениеExtendedTooltip</name>
       <id>28</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -227,7 +227,7 @@
     <defaultItem>true</defaultItem>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>ОписаниеОбновленийРасширеннаяПодсказка</name>
+      <name>ОписаниеОбновленийExtendedTooltip</name>
       <id>38</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -290,7 +290,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>АдресФормыВПрограммеРасширеннаяПодсказка</name>
+        <name>АдресФормыВПрограммеExtendedTooltip</name>
         <id>40</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -342,7 +342,7 @@
         </userVisible>
         <toolTipRepresentation>Button</toolTipRepresentation>
         <extendedTooltip>
-          <name>ТехническаяИнформацияОРезультатахОбновленияРасширеннаяПодсказка</name>
+          <name>ТехническаяИнформацияОРезультатахОбновленияExtendedTooltip</name>
           <id>42</id>
           <title>
             <key>ru</key>
@@ -396,7 +396,7 @@
           </userVisible>
           <skipOnInput>false</skipOnInput>
           <extendedTooltip>
-            <name>ЗакрытьРасширеннаяПодсказка</name>
+            <name>ЗакрытьExtendedTooltip</name>
             <id>44</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -427,7 +427,7 @@
           <value>Командная панель формы</value>
         </title>
         <extendedTooltip>
-          <name>КоманднаяПанельФормыРасширеннаяПодсказка</name>
+          <name>КоманднаяПанельФормыExtendedTooltip</name>
           <id>43</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -458,7 +458,7 @@
       <verticalStretch>false</verticalStretch>
       <groupHorizontalAlign>Right</groupHorizontalAlign>
       <extendedTooltip>
-        <name>ГруппаТехническаяИнформацияИЗакрытьРасширеннаяПодсказка</name>
+        <name>ГруппаТехническаяИнформацияИЗакрытьExtendedTooltip</name>
         <id>41</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -491,7 +491,7 @@
       <value>Группа</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаРасширеннаяПодсказка</name>
+      <name>ГруппаExtendedTooltip</name>
       <id>39</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -531,7 +531,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>НайтиРасширеннаяПодсказка</name>
+        <name>НайтиExtendedTooltip</name>
         <id>32</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -562,7 +562,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>РазвернутьВсеГруппыРасширеннаяПодсказка</name>
+        <name>РазвернутьВсеГруппыExtendedTooltip</name>
         <id>35</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -630,7 +630,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>СохранитьРасширеннаяПодсказка</name>
+          <name>СохранитьExtendedTooltip</name>
           <id>34</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -661,7 +661,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПечатьРасширеннаяПодсказка</name>
+          <name>ПечатьExtendedTooltip</name>
           <id>36</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -782,7 +782,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаРасширеннаяПодсказка</name>
+        <name>СправкаExtendedTooltip</name>
         <id>37</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -812,7 +812,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ИзменитьФормуРасширеннаяПодсказка</name>
+        <name>ИзменитьФормуExtendedTooltip</name>
         <id>33</id>
         <visible>true</visible>
         <enabled>true</enabled>

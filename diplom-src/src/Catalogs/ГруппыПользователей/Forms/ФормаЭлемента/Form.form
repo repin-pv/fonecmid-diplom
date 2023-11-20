@@ -15,7 +15,7 @@
         <segments>Объект.Description</segments>
       </dataPath>
       <extendedTooltip>
-        <name>НаименованиеРасширеннаяПодсказка</name>
+        <name>НаименованиеExtendedTooltip</name>
         <id>55</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -69,7 +69,7 @@
         <segments>Объект.Parent</segments>
       </dataPath>
       <extendedTooltip>
-        <name>РодительРасширеннаяПодсказка</name>
+        <name>РодительExtendedTooltip</name>
         <id>72</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -184,7 +184,7 @@
             <segments>Объект.Состав.Пользователь</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ПользовательРасширеннаяПодсказка</name>
+            <name>ПользовательExtendedTooltip</name>
             <id>69</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -236,7 +236,7 @@
             <segments>Объект.Состав.Недействителен</segments>
           </dataPath>
           <extendedTooltip>
-            <name>НедействителенРасширеннаяПодсказка</name>
+            <name>НедействителенExtendedTooltip</name>
             <id>70</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -280,7 +280,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>СоставПодобратьРасширеннаяПодсказка</name>
+              <name>СоставПодобратьExtendedTooltip</name>
               <id>60</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -311,7 +311,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>СоставДобавитьРасширеннаяПодсказка</name>
+              <name>СоставДобавитьExtendedTooltip</name>
               <id>61</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -373,7 +373,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>СоставСкопироватьРасширеннаяПодсказка</name>
+              <name>СоставСкопироватьExtendedTooltip</name>
               <id>62</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -404,7 +404,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>СоставУдалитьРасширеннаяПодсказка</name>
+              <name>СоставУдалитьExtendedTooltip</name>
               <id>63</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -557,7 +557,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПоказыватьНедействительныхПользователейРасширеннаяПодсказка</name>
+              <name>ПоказыватьНедействительныхПользователейExtendedTooltip</name>
               <id>54</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -746,7 +746,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>СоставРасширеннаяПодсказка</name>
+          <name>СоставExtendedTooltip</name>
           <id>68</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1083,7 +1083,7 @@
         </dataPath>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>КомментарийРасширеннаяПодсказка</name>
+          <name>КомментарийExtendedTooltip</name>
           <id>73</id>
           <visible>true</visible>
           <enabled>true</enabled>

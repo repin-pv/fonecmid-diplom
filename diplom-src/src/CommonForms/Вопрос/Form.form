@@ -17,7 +17,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ПредупреждениеРасширеннаяПодсказка</name>
+        <name>ПредупреждениеExtendedTooltip</name>
         <id>18</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -67,7 +67,7 @@
         <skipOnInput>true</skipOnInput>
         <titleLocation>None</titleLocation>
         <extendedTooltip>
-          <name>МногострочныйТекстСообщенияРасширеннаяПодсказка</name>
+          <name>МногострочныйТекстСообщенияExtendedTooltip</name>
           <id>21</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -123,7 +123,7 @@
         </dataPath>
         <titleLocation>Right</titleLocation>
         <extendedTooltip>
-          <name>БольшеНеЗадаватьЭтотВопросРасширеннаяПодсказка</name>
+          <name>БольшеНеЗадаватьЭтотВопросExtendedTooltip</name>
           <id>22</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -165,7 +165,7 @@
       </title>
       <width>35</width>
       <extendedTooltip>
-        <name>СтрокиРасширеннаяПодсказка</name>
+        <name>СтрокиExtendedTooltip</name>
         <id>19</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -198,7 +198,7 @@
       <value>Колонки</value>
     </title>
     <extendedTooltip>
-      <name>КолонкиРасширеннаяПодсказка</name>
+      <name>КолонкиExtendedTooltip</name>
       <id>17</id>
       <visible>true</visible>
       <enabled>true</enabled>

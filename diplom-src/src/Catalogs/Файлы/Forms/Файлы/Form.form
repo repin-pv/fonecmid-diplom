@@ -317,7 +317,7 @@
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>ПапкиРасширеннаяПодсказка</name>
+          <name>ПапкиExtendedTooltip</name>
           <id>183</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -629,7 +629,7 @@
               <value>Стандартные команды</value>
             </title>
             <extendedTooltip>
-              <name>ПапкиКонтекстноеМенюСтандартныеРасширеннаяПодсказка</name>
+              <name>ПапкиКонтекстноеМенюСтандартныеExtendedTooltip</name>
               <id>177</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -779,7 +779,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ПапкиКонтекстноеМенюКопироватьВБуферОбменаРасширеннаяПодсказка</name>
+              <name>ПапкиКонтекстноеМенюКопироватьВБуферОбменаExtendedTooltip</name>
               <id>178</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -1947,7 +1947,7 @@
             </extInfo>
           </searchControlAddition>
           <extendedTooltip>
-            <name>СписокРасширеннаяПодсказка</name>
+            <name>СписокExtendedTooltip</name>
             <id>208</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3762,7 +3762,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаПодписатьРасширеннаяПодсказка</name>
+            <name>ФормаПодписатьExtendedTooltip</name>
             <id>163</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3881,7 +3881,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаЗашифроватьРасширеннаяПодсказка</name>
+            <name>ФормаЗашифроватьExtendedTooltip</name>
             <id>167</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -3911,7 +3911,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ФормаРасшифроватьРасширеннаяПодсказка</name>
+            <name>ФормаРасшифроватьExtendedTooltip</name>
             <id>168</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -4447,7 +4447,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ФормаОбновитьСписокРасширеннаяПодсказка</name>
+          <name>ФормаОбновитьСписокExtendedTooltip</name>
           <id>171</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -4880,7 +4880,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаСправкаРасширеннаяПодсказка</name>
+        <name>ФормаСправкаExtendedTooltip</name>
         <id>172</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -6145,7 +6145,12 @@
   </formCommands>
   <commandInterface>
     <navigationPanel/>
-    <commandBar/>
+    <commandBar>
+      <cmiFragmentRecord>
+        <command>0</command>
+        <userVisible/>
+      </cmiFragmentRecord>
+    </commandBar>
   </commandInterface>
   <extInfo xsi:type="form:DynamicListFormExtInfo"/>
 </form:Form>

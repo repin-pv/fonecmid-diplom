@@ -151,7 +151,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДекорацияИконкаРасширеннаяПодсказка</name>
+        <name>ДекорацияИконкаExtendedTooltip</name>
         <id>9</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -198,7 +198,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДекорацияИнфоРасширеннаяПодсказка</name>
+        <name>ДекорацияИнфоExtendedTooltip</name>
         <id>12</id>
         <visible>true</visible>
         <enabled>true</enabled>

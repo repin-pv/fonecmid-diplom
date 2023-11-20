@@ -17,7 +17,7 @@
     </dataPath>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>ПолноеНаименованиеРасширеннаяПодсказка</name>
+      <name>ПолноеНаименованиеExtendedTooltip</name>
       <id>12</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -64,7 +64,7 @@
     </dataPath>
     <defaultItem>true</defaultItem>
     <extendedTooltip>
-      <name>КомментарийКВерсииРасширеннаяПодсказка</name>
+      <name>КомментарийКВерсииExtendedTooltip</name>
       <id>13</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -125,7 +125,7 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <extendedTooltip>
-      <name>СоздатьНовуюВерсиюРасширеннаяПодсказка</name>
+      <name>СоздатьНовуюВерсиюExtendedTooltip</name>
       <id>14</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -215,7 +215,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ЗакрытьРасширеннаяПодсказка</name>
+        <name>ЗакрытьExtendedTooltip</name>
         <id>17</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -254,7 +254,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаРасширеннаяПодсказка</name>
+        <name>СправкаExtendedTooltip</name>
         <id>18</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -294,7 +294,7 @@
       <value>Основная командная панель</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяКоманднаяПанельРасширеннаяПодсказка</name>
+      <name>ОсновнаяКоманднаяПанельExtendedTooltip</name>
       <id>15</id>
       <visible>true</visible>
       <enabled>true</enabled>

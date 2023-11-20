@@ -20,7 +20,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДекорацияЗаголовокНастройкиОтбораПоискаРасширеннаяПодсказка</name>
+        <name>Декорация2РасширеннаяПодсказка</name>
         <id>527</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -35,7 +35,7 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ДекорацияЗаголовокНастройкиОтбораПоискаКонтекстноеМеню</name>
+        <name>Декорация2КонтекстноеМеню</name>
         <id>526</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -98,7 +98,7 @@
       <value>Настройки отбора поиска</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаНастройкиОтбораПоискаРасширеннаяПодсказка</name>
+      <name>Группа1РасширеннаяПодсказка</name>
       <id>524</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -173,7 +173,7 @@
             </userVisible>
             <skipOnInput>false</skipOnInput>
             <extendedTooltip>
-              <name>КомандаСписокПомеченныхУстановитьВсеРасширеннаяПодсказка</name>
+              <name>КомандаСписокПомеченныхУстановитьВсеExtendedTooltip</name>
               <id>92</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -249,7 +249,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КомандыВыбораРасширеннаяПодсказка</name>
+            <name>КомандыВыбораExtendedTooltip</name>
             <id>91</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -336,7 +336,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>КомандыСвернутьРазвернутьРасширеннаяПодсказка</name>
+            <name>Группа1РасширеннаяПодсказка8</name>
             <id>714</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -395,7 +395,7 @@
           <value>Удалить</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаАктивныПослеПоискаПомеченныеРасширеннаяПодсказка</name>
+          <name>Группа1РасширеннаяПодсказка7</name>
           <id>563</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -448,7 +448,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КоманднаяПанельПоискПомеченныхРасширеннаяПодсказка</name>
+        <name>Группа1РасширеннаяПодсказка1</name>
         <id>682</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -509,7 +509,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>НазадРасширеннаяПодсказка</name>
+            <name>Назад1РасширеннаяПодсказка</name>
             <id>610</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -539,7 +539,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ГруппаОсновнаяРасширеннаяПодсказка</name>
+          <name>Группа1РасширеннаяПодсказка14</name>
           <id>618</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -570,7 +570,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>НеУдаленныеИзменитьРасширеннаяПодсказка</name>
+              <name>НеУдаленныеИзменить1РасширеннаяПодсказка</name>
               <id>622</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -719,7 +719,7 @@
             <value>Действия</value>
           </title>
           <extendedTooltip>
-            <name>ДействияРасширеннаяПодсказка</name>
+            <name>Группа1РасширеннаяПодсказка18</name>
             <id>640</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -744,7 +744,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ГруппаДействияНадЭлементамиСпискаРасширеннаяПодсказка</name>
+          <name>Группа1РасширеннаяПодсказка15</name>
           <id>620</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -766,7 +766,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>КоманднаяПанельОбработкаОшибокРасширеннаяПодсказка</name>
+        <name>Группа1РасширеннаяПодсказка23</name>
         <id>686</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -853,7 +853,7 @@
       <value>Командная панель формы</value>
     </title>
     <extendedTooltip>
-      <name>КоманднаяПанельФормыРасширеннаяПодсказка</name>
+      <name>Группа1РасширеннаяПодсказка3</name>
       <id>535</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -892,7 +892,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ДекорацияЗначокДлительнойОперацииРасширеннаяПодсказка</name>
+          <name>Декорация2РасширеннаяПодсказка2</name>
           <id>581</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -907,7 +907,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ДекорацияЗначокДлительнойОперацииКонтекстноеМеню</name>
+          <name>Декорация2КонтекстноеМеню2</name>
           <id>580</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -943,7 +943,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ДекорацияПредставлениеДлительнойОперацииРасширеннаяПодсказка</name>
+            <name>Декорация3РасширеннаяПодсказка</name>
             <id>584</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -958,7 +958,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ДекорацияПредставлениеДлительнойОперацииКонтекстноеМеню</name>
+            <name>Декорация3КонтекстноеМеню</name>
             <id>583</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -987,7 +987,7 @@
             <common>true</common>
           </userVisible>
           <extendedTooltip>
-            <name>ПредставлениеПрогрессаРасширеннаяПодсказка</name>
+            <name>Декорация1РасширеннаяПодсказка</name>
             <id>710</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1002,7 +1002,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ПредставлениеПрогрессаКонтекстноеМеню</name>
+            <name>Декорация1КонтекстноеМеню</name>
             <id>709</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1028,7 +1028,7 @@
           <value>Пояснение к длительной операции</value>
         </title>
         <extendedTooltip>
-          <name>ГруппаПояснениеКДлительнойОперацииРасширеннаяПодсказка</name>
+          <name>Группа1РасширеннаяПодсказка5</name>
           <id>712</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1093,7 +1093,7 @@
         <value>Состояние выполняется</value>
       </title>
       <extendedTooltip>
-        <name>СостояниеВыполняетсяРасширеннаяПодсказка</name>
+        <name>Группа1РасширеннаяПодсказка20</name>
         <id>648</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1129,7 +1129,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КартинкаУспешноРасширеннаяПодсказка</name>
+          <name>КартинкаУспешноЗавершеноРасширеннаяПодсказка1</name>
           <id>701</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1144,7 +1144,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>КартинкаУспешноКонтекстноеМеню</name>
+          <name>КартинкаУспешноЗавершеноКонтекстноеМеню1</name>
           <id>700</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1175,7 +1175,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ДекорацияПредставлениеЗавершенияУспешноРасширеннаяПодсказка</name>
+          <name>Декорация3РасширеннаяПодсказка1</name>
           <id>704</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1190,7 +1190,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ДекорацияПредставлениеЗавершенияУспешноКонтекстноеМеню</name>
+          <name>Декорация3КонтекстноеМеню1</name>
           <id>703</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1217,7 +1217,7 @@
         <value>Состояние выполнено</value>
       </title>
       <extendedTooltip>
-        <name>СостояниеВыполненоРасширеннаяПодсказка</name>
+        <name>Группа1РасширеннаяПодсказка21</name>
         <id>650</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1252,7 +1252,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КартинкаУспешноЗавершеноСОшибкамиРасширеннаяПодсказка</name>
+          <name>КартинкаУспешноЗавершеноРасширеннаяПодсказка2</name>
           <id>675</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1267,7 +1267,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>КартинкаУспешноЗавершеноСОшибкамиКонтекстноеМеню</name>
+          <name>КартинкаУспешноЗавершеноКонтекстноеМеню2</name>
           <id>674</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1298,7 +1298,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ДекорацияПредставлениеЗавершенияНеУспешноРасширеннаяПодсказка</name>
+          <name>Декорация3РасширеннаяПодсказка2</name>
           <id>678</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1313,7 +1313,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ДекорацияПредставлениеЗавершенияНеУспешноКонтекстноеМеню</name>
+          <name>Декорация3КонтекстноеМеню2</name>
           <id>677</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1343,7 +1343,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПодробнееОшибкаФоновогоЗаданияРасширеннаяПодсказка</name>
+          <name>СсылкаПодробнее1РасширеннаяПодсказка</name>
           <id>468</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1358,7 +1358,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>ПодробнееОшибкаФоновогоЗаданияКонтекстноеМеню</name>
+          <name>СсылкаПодробнее1КонтекстноеМеню</name>
           <id>467</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1390,7 +1390,7 @@
         <value>Состояние выполнено с ошибками</value>
       </title>
       <extendedTooltip>
-        <name>СостояниеВыполненоСОшибкамиРасширеннаяПодсказка</name>
+        <name>Группа1РасширеннаяПодсказка16</name>
         <id>672</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1508,7 +1508,7 @@
         <value>Состояние удаление не требуется</value>
       </title>
       <extendedTooltip>
-        <name>СостояниеУдалениеНеТребуетсяРасширеннаяПодсказка</name>
+        <name>Группа1РасширеннаяПодсказка2</name>
         <id>694</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1544,7 +1544,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>КартинкаСостояниеЧастичноеУдалениеРасширеннаяПодсказка</name>
+          <name>КартинкаУдалениеНеТребуетсяРасширеннаяПодсказка1</name>
           <id>723</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1559,7 +1559,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>КартинкаСостояниеЧастичноеУдалениеКонтекстноеМеню</name>
+          <name>КартинкаУдалениеНеТребуетсяКонтекстноеМеню1</name>
           <id>722</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1589,7 +1589,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>НадписьСостояниеЧастичноеУдалениеРасширеннаяПодсказка</name>
+          <name>НадписьУдалениеНеТребуетсяРасширеннаяПодсказка1</name>
           <id>726</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1604,7 +1604,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>НадписьСостояниеЧастичноеУдалениеКонтекстноеМеню</name>
+          <name>НадписьУдалениеНеТребуетсяКонтекстноеМеню1</name>
           <id>725</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -1631,7 +1631,7 @@
         <value>Состояние удаление не требуется</value>
       </title>
       <extendedTooltip>
-        <name>СостояниеЧастичноеУдалениеРасширеннаяПодсказка</name>
+        <name>Группа1РасширеннаяПодсказка9</name>
         <id>720</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1661,7 +1661,7 @@
       <value>Страницы отображение состояния</value>
     </title>
     <extendedTooltip>
-      <name>СтраницыОтображениеСостоянияРасширеннаяПодсказка</name>
+      <name>Группа1РасширеннаяПодсказка19</name>
       <id>646</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1825,7 +1825,7 @@
           </title>
           <width>20</width>
           <extendedTooltip>
-            <name>СтрокаСпискаПомеченныхРасширеннаяПодсказка</name>
+            <name>СтрокаСпискаПомеченныхExtendedTooltip</name>
             <id>98</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -2256,7 +2256,7 @@
         <value>Страница выбор обрабатываемых объектов</value>
       </title>
       <extendedTooltip>
-        <name>СтраницаВыборОбрабатываемыхОбъектовРасширеннаяПодсказка</name>
+        <name>Группа1РасширеннаяПодсказка6</name>
         <id>541</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -2839,7 +2839,7 @@
                     <segments>МестаИспользованияНеудаленных.Представление</segments>
                   </dataPath>
                   <extendedTooltip>
-                    <name>СвязиНеУдаленныхПредставлениеРасширеннаяПодсказка</name>
+                    <name>РасширеннаяПодсказка</name>
                     <id>603</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -2854,7 +2854,7 @@
                     </extInfo>
                   </extendedTooltip>
                   <contextMenu>
-                    <name>СвязиНеУдаленныхПредставлениеКонтекстноеМеню</name>
+                    <name>КонтекстноеМеню</name>
                     <id>602</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -2894,7 +2894,7 @@
                     <name>СвязиНеУдаленныхДействиеПриИзменении</name>
                   </handlers>
                   <extendedTooltip>
-                    <name>СвязиНеУдаленныхДействиеРасширеннаяПодсказка</name>
+                    <name>ПолеРасширеннаяПодсказка</name>
                     <id>606</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -2909,7 +2909,7 @@
                     </extInfo>
                   </extendedTooltip>
                   <contextMenu>
-                    <name>СвязиНеУдаленныхДействиеКонтекстноеМеню</name>
+                    <name>ПолеКонтекстноеМеню</name>
                     <id>605</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -2959,7 +2959,7 @@
                   </extInfo>
                 </items>
                 <autoCommandBar>
-                  <name>МестаИспользованияНеудаленныхКоманднаяПанель</name>
+                  <name>СвязиНеУдаленныхКоманднаяПанель</name>
                   <id>237</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -3097,7 +3097,7 @@
                   </extInfo>
                 </searchControlAddition>
                 <extendedTooltip>
-                  <name>МестаИспользованияНеудаленныхРасширеннаяПодсказка</name>
+                  <name>СвязиНеУдаленныхРасширеннаяПодсказка</name>
                   <id>238</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -3112,7 +3112,7 @@
                   </extInfo>
                 </extendedTooltip>
                 <contextMenu>
-                  <name>МестаИспользованияНеудаленныхКонтекстноеМеню</name>
+                  <name>СвязиНеУдаленныхКонтекстноеМеню</name>
                   <id>236</id>
                   <items xsi:type="form:Button">
                     <name>СвязиНеУдаленныхИзменитьИзМеню</name>
@@ -3221,7 +3221,7 @@
                     <common>true</common>
                   </userVisible>
                   <extendedTooltip>
-                    <name>ТекстОшибкиРасширеннаяПодсказка</name>
+                    <name>Декорация2РасширеннаяПодсказка1</name>
                     <id>638</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -3236,7 +3236,7 @@
                     </extInfo>
                   </extendedTooltip>
                   <contextMenu>
-                    <name>ТекстОшибкиКонтекстноеМеню</name>
+                    <name>Декорация2КонтекстноеМеню1</name>
                     <id>637</id>
                     <visible>true</visible>
                     <enabled>true</enabled>
@@ -3311,7 +3311,7 @@
                   <value>Текст ошибки</value>
                 </title>
                 <extendedTooltip>
-                  <name>ГруппаТекстОшибкиРасширеннаяПодсказка</name>
+                  <name>Группа1РасширеннаяПодсказка17</name>
                   <id>635</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -3501,7 +3501,7 @@
       <value>Страницы информация</value>
     </title>
     <extendedTooltip>
-      <name>СтраницыИнформацияРасширеннаяПодсказка</name>
+      <name>Группа1РасширеннаяПодсказка4</name>
       <id>537</id>
       <visible>true</visible>
       <enabled>true</enabled>

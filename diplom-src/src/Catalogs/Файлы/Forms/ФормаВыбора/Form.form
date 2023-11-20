@@ -187,7 +187,7 @@
           <value>Картинка и наименование папок</value>
         </title>
         <extendedTooltip>
-          <name>КартинкаИНаименованиеПапокРасширеннаяПодсказка</name>
+          <name>КартинкаИНаименованиеПапокExtendedTooltip</name>
           <id>51</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -385,7 +385,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>ПапкиРасширеннаяПодсказка</name>
+        <name>ПапкиExtendedTooltip</name>
         <id>50</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1031,7 +1031,7 @@
         </extInfo>
       </searchControlAddition>
       <extendedTooltip>
-        <name>СписокРасширеннаяПодсказка</name>
+        <name>СписокExtendedTooltip</name>
         <id>54</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1226,7 +1226,7 @@
       <value>Списки</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаСпискиРасширеннаяПодсказка</name>
+      <name>ГруппаСпискиExtendedTooltip</name>
       <id>49</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -1264,7 +1264,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ВыбратьРасширеннаяПодсказка</name>
+        <name>ВыбратьExtendedTooltip</name>
         <id>46</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1300,7 +1300,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДобавитьФайлРасширеннаяПодсказка</name>
+        <name>ДобавитьФайлExtendedTooltip</name>
         <id>65</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1335,7 +1335,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ИзменитьРасширеннаяПодсказка</name>
+        <name>ИзменитьExtendedTooltip</name>
         <id>47</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1429,7 +1429,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>СправкаРасширеннаяПодсказка</name>
+        <name>СправкаExtendedTooltip</name>
         <id>48</id>
         <visible>true</visible>
         <enabled>true</enabled>

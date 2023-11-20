@@ -41,7 +41,7 @@
         <segments>УзлыПлановОбмена.ПланОбменаПредставление</segments>
       </dataPath>
       <extendedTooltip>
-        <name>УзлыПлановОбменаПланОбменаПредставлениеРасширеннаяПодсказка</name>
+        <name>УзлыПлановОбменаПланОбменаПредставлениеExtendedTooltip</name>
         <id>31</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -91,7 +91,7 @@
         <segments>УзлыПлановОбмена.УзелПредставление</segments>
       </dataPath>
       <extendedTooltip>
-        <name>УзлыПлановОбменаУзелПредставлениеРасширеннаяПодсказка</name>
+        <name>УзлыПлановОбменаУзелПредставлениеExtendedTooltip</name>
         <id>32</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -262,7 +262,7 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>УзлыПлановОбменаРасширеннаяПодсказка</name>
+      <name>УзлыПлановОбменаExtendedTooltip</name>
       <id>30</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -320,7 +320,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВыбратьРасширеннаяПодсказка</name>
+        <name>ФормаВыбратьExtendedTooltip</name>
         <id>28</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -355,7 +355,7 @@
         <value>Команды списка узлов</value>
       </title>
       <extendedTooltip>
-        <name>КомандыСпискаУзловРасширеннаяПодсказка</name>
+        <name>КомандыСпискаУзловExtendedTooltip</name>
         <id>29</id>
         <visible>true</visible>
         <enabled>true</enabled>

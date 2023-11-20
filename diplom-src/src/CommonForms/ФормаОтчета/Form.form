@@ -3553,7 +3553,7 @@
     <defaultItem>true</defaultItem>
     <titleLocation>None</titleLocation>
     <extendedTooltip>
-      <name>ОтчетТабличныйДокументРасширеннаяПодсказка</name>
+      <name>ОтчетТабличныйДокументExtendedTooltip</name>
       <id>163</id>
       <visible>true</visible>
       <enabled>true</enabled>

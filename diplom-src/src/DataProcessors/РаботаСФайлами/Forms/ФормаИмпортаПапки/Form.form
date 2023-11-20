@@ -20,7 +20,7 @@
       <segments>Каталог</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ВыбранныйКаталогРасширеннаяПодсказка</name>
+      <name>ВыбранныйКаталогExtendedTooltip</name>
       <id>31</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -85,7 +85,7 @@
       <segments>ПапкаДляДобавленияСтрокой</segments>
     </dataPath>
     <extendedTooltip>
-      <name>ПапкаРасширеннаяПодсказка</name>
+      <name>ПапкаExtendedTooltip</name>
       <id>32</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -133,7 +133,7 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <extendedTooltip>
-      <name>УдалятьПослеДобавленияРасширеннаяПодсказка</name>
+      <name>УдалятьПослеДобавленияExtendedTooltip</name>
       <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -184,7 +184,7 @@
         <segments>Описание</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ОписаниеРасширеннаяПодсказка</name>
+        <name>ОписаниеExtendedTooltip</name>
         <id>35</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -240,7 +240,7 @@
       </dataPath>
       <titleLocation>Right</titleLocation>
       <extendedTooltip>
-        <name>ХранитьВерсииРасширеннаяПодсказка</name>
+        <name>ХранитьВерсииExtendedTooltip</name>
         <id>36</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -282,7 +282,7 @@
       <value>Свойств файлов</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаСвойствФайловРасширеннаяПодсказка</name>
+      <name>ГруппаСвойствФайловExtendedTooltip</name>
       <id>34</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -322,7 +322,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ДекорацияКодировкаРасширеннаяПодсказка</name>
+        <name>ДекорацияКодировкаExtendedTooltip</name>
         <id>38</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -361,7 +361,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ВыбратьКодировкуРасширеннаяПодсказка</name>
+        <name>ВыбратьКодировкуExtendedTooltip</name>
         <id>39</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -393,7 +393,7 @@
       <value>Кодировка</value>
     </title>
     <extendedTooltip>
-      <name>ГруппаКодировкаРасширеннаяПодсказка</name>
+      <name>ГруппаКодировкаExtendedTooltip</name>
       <id>37</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -429,7 +429,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ИмпортРасширеннаяПодсказка</name>
+        <name>ИмпортExtendedTooltip</name>
         <id>41</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -473,7 +473,7 @@
       </userVisible>
       <skipOnInput>false</skipOnInput>
       <extendedTooltip>
-        <name>ЗакрытьРасширеннаяПодсказка</name>
+        <name>ЗакрытьExtendedTooltip</name>
         <id>42</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -512,7 +512,7 @@
       <value>Основная командная панель</value>
     </title>
     <extendedTooltip>
-      <name>ОсновнаяКоманднаяПанельРасширеннаяПодсказка</name>
+      <name>ОсновнаяКоманднаяПанельExtendedTooltip</name>
       <id>40</id>
       <visible>true</visible>
       <enabled>true</enabled>
