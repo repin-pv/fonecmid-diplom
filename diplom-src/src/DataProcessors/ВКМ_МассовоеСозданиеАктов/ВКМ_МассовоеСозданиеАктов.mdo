@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3280be35-098a-4ed4-994c-28f6636acf35">
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9e2d300e-77b2-4865-a0e1-c8b8cfc68281">
   <producedTypes>
-    <objectType typeId="b728e9e3-5274-4166-aa9c-7f6c3f73dac6" valueTypeId="714dc988-29f0-4fe4-b7b7-baa8296f0312"/>
-    <managerType typeId="79780f57-41b5-4fce-be16-67520996738c" valueTypeId="c8592916-a7af-425d-82d0-324968e796c4"/>
+    <objectType typeId="44f0c669-16b5-44ce-876a-f32647d165cd" valueTypeId="81a03844-6c37-43e7-9118-a56208f05b7f"/>
+    <managerType typeId="11e3bc71-ad4b-45b4-92ee-41acc8f60213" valueTypeId="63195294-324d-4c96-af71-ba954d5bf658"/>
   </producedTypes>
   <name>ВКМ_МассовоеСозданиеАктов</name>
   <synonym>
     <key>ru</key>
     <value>Массовое создание актов</value>
   </synonym>
+  <comment>Разработка</comment>
   <useStandardCommands>true</useStandardCommands>
-  <attributes uuid="af5ce93d-f46c-441b-a69d-aad51e3c004e">
+  <defaultForm>DataProcessor.ВКМ_МассовоеСозданиеАктов.Form.Форма</defaultForm>
+  <attributes uuid="60bcdc0c-bc5a-49e7-9328-08b08971670e">
     <name>Период</name>
     <synonym>
       <key>ru</key>
@@ -22,27 +24,65 @@
         <dateFractions>Date</dateFractions>
       </dateQualifiers>
     </type>
-    <format>
-      <key>ru</key>
-      <value>ДФ=MM.yyyy</value>
-    </format>
-    <editFormat>
-      <key>ru</key>
-      <value>ДФ=MM.yyyy</value>
-    </editFormat>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
-    <fillChecking>ShowError</fillChecking>
   </attributes>
-  <tabularSections uuid="366ca237-1b5d-41f3-8ee8-663384e4ba25">
+  <tabularSections uuid="3bb4553c-7b1c-406e-8430-3470b3bd0ae8">
     <producedTypes>
-      <objectType typeId="12b9c6e2-4414-4e99-bf0a-f3c8849d176f" valueTypeId="25d8dd92-c9ff-4905-bf3b-19ec5e83d0bf"/>
-      <rowType typeId="401f49ab-7b24-4a44-9768-cfeee20a3c3e" valueTypeId="9cf4294d-c193-48bb-a733-a9f3b19172b8"/>
+      <objectType typeId="480cb12d-c01a-4719-bd66-a68880dcedb5" valueTypeId="51869414-248e-41c7-931a-27452ac59d6a"/>
+      <rowType typeId="21e0e743-f01c-4fb9-8411-47df94a68dc2" valueTypeId="33fd58ae-9f65-4707-ad37-b2d285af5f84"/>
     </producedTypes>
     <name>Документы</name>
     <synonym>
       <key>ru</key>
       <value>Документы</value>
     </synonym>
+    <standardAttributes>
+      <dataHistory>Use</dataHistory>
+      <name>LineNumber</name>
+      <fillValue xsi:type="core:UndefinedValue"/>
+      <fullTextSearch>Use</fullTextSearch>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </standardAttributes>
+    <attributes uuid="338e4225-6a7c-4bd7-8168-a6d30fe061e8">
+      <name>Договор</name>
+      <synonym>
+        <key>ru</key>
+        <value>Договор</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.ДоговорыКонтрагентов</types>
+      </type>
+      <toolTip>
+        <key>ru</key>
+        <value>Выбрать Договоры и Реализации</value>
+      </toolTip>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="dcf61310-ea67-4f86-aafe-fbc9503c798b">
+      <name>Реализация</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реализация</value>
+      </synonym>
+      <type>
+        <types>DocumentRef.РеализацияТоваровУслуг</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
+    </attributes>
   </tabularSections>
+  <forms uuid="57dde281-44a5-4f2a-983d-ec8e1697dd21">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:DataProcessor>
