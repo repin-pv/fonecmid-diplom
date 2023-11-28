@@ -473,6 +473,10 @@
     </userVisible>
     <horizontalAlign>Left</horizontalAlign>
   </autoCommandBar>
+  <handlers>
+    <event>OnCreateAtServer</event>
+    <name>ПриСозданииНаСервере</name>
+  </handlers>
   <autoTitle>true</autoTitle>
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
@@ -494,6 +498,40 @@
       <common>true</common>
     </edit>
     <main>true</main>
+  </attributes>
+  <attributes>
+    <name>ДоступноВыполнениеВФоне</name>
+    <title>
+      <key>ru</key>
+      <value>Доступно выполнение в фоне</value>
+    </title>
+    <id>2</id>
+    <valueType>
+      <types>Boolean</types>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
+  <attributes>
+    <name>ДополнительнаяОбработкаСсылка</name>
+    <title>
+      <key>ru</key>
+      <value>Дополнительная обработка ссылка</value>
+    </title>
+    <id>3</id>
+    <valueType>
+      <types>CatalogRef.ДополнительныеОтчетыИОбработки</types>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
   </attributes>
   <formCommands>
     <name>СоздатьДокументы</name>
