@@ -818,6 +818,7 @@
   <commonModules>CommonModule.ФайловаяСистемаСлужебныйКлиентСервер</commonModules>
   <commonModules>CommonModule.ФизическиеЛицаКлиентСервер</commonModules>
   <commonModules>CommonModule.ВКМ_ОбщегоНазначенияТелеграмСервер</commonModules>
+  <commonModules>CommonModule.ВКМ_ДлительныйМодуль</commonModules>
   <exchangePlans>ExchangePlan.ОбновлениеИнформационнойБазы</exchangePlans>
   <xDTOPackages>XDTOPackage.ApdexExport</xDTOPackages>
   <xDTOPackages>XDTOPackage.ApdexExport_1_0_0_2</xDTOPackages>
@@ -1236,6 +1237,7 @@
   <dataProcessors>DataProcessor.УКО_УправляемаяКонсольОтчетов</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_МассовоеСозданиеАктов</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_ДлительнаяОпреация</dataProcessors>
+  <dataProcessors>DataProcessor.ВКМ_МассовоеСозданиеАктовВФоне</dataProcessors>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанных</informationRegisters>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанныхОбластейДанных</informationRegisters>
   <informationRegisters>InformationRegister.ВерсииПодсистем</informationRegisters>

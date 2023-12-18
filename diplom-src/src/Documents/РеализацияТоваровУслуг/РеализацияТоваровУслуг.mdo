@@ -327,6 +327,7 @@
       <key>ru</key>
       <value>Услуги</value>
     </synonym>
+    <fillChecking>ShowError</fillChecking>
     <standardAttributes>
       <dataHistory>Use</dataHistory>
       <name>LineNumber</name>
@@ -346,6 +347,7 @@
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
+      <fillChecking>ShowError</fillChecking>
       <choiceParameters>
         <name>Отбор.ВидНоменклатуры</name>
         <value xsi:type="core:ReferenceValue">
