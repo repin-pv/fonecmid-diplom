@@ -32,10 +32,10 @@
       <objectType typeId="7fc00c31-6227-48b6-8297-41c15e1da493" valueTypeId="2d5b2430-0e38-4cfd-8ee8-0e25fe09eab6"/>
       <rowType typeId="59962440-5944-406e-9480-eb3795b75503" valueTypeId="33b26f97-e511-46ab-98d4-9ef1a5c1227d"/>
     </producedTypes>
-    <name>Документы</name>
+    <name>СозданныеДокументы</name>
     <synonym>
       <key>ru</key>
-      <value>Документы</value>
+      <value>Созданные документы</value>
     </synonym>
     <attributes uuid="0f427e57-8a63-454c-b868-324e07cd0d02">
       <name>Договор</name>

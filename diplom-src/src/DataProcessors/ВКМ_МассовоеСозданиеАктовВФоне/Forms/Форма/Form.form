@@ -321,7 +321,7 @@
           <common>true</common>
         </userVisible>
         <dataPath xsi:type="form:DataPath">
-          <segments>Объект.Документы</segments>
+          <segments>Объект.СозданныеДокументы</segments>
         </dataPath>
         <titleLocation>None</titleLocation>
         <items xsi:type="form:FormField">
@@ -333,7 +333,7 @@
             <common>true</common>
           </userVisible>
           <dataPath xsi:type="form:DataPath">
-            <segments>Объект.Документы.LineNumber</segments>
+            <segments>Объект.СозданныеДокументы.LineNumber</segments>
           </dataPath>
           <extendedTooltip>
             <name>ДокументыНомерСтрокиРасширеннаяПодсказка</name>
@@ -379,7 +379,7 @@
             <common>true</common>
           </userVisible>
           <dataPath xsi:type="form:DataPath">
-            <segments>Объект.Документы.Договор</segments>
+            <segments>Объект.СозданныеДокументы.Договор</segments>
           </dataPath>
           <extendedTooltip>
             <name>ДокументыДоговорРасширеннаяПодсказка</name>
@@ -429,7 +429,7 @@
             <common>true</common>
           </userVisible>
           <dataPath xsi:type="form:DataPath">
-            <segments>Объект.Документы.Реализация</segments>
+            <segments>Объект.СозданныеДокументы.Реализация</segments>
           </dataPath>
           <extendedTooltip>
             <name>ДокументыРеалихацияРасширеннаяПодсказка</name>
