@@ -5,7 +5,6 @@
     <key>ru</key>
     <value>Стандартные подсистемы</value>
   </synonym>
-  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <subsystems>АнализЖурналаРегистрации</subsystems>
   <subsystems>БазоваяФункциональность</subsystems>
   <subsystems>ВариантыОтчетов</subsystems>

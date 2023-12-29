@@ -475,6 +475,9 @@
     <mdObject>InformationRegister.ИдентификаторыОбъектовВерсийРасширений</mdObject>
   </content>
   <content>
+    <mdObject>Document.ВКМ_ОбслуживаниеКлиента</mdObject>
+  </content>
+  <content>
     <mdObject>InformationRegister.КлючиДоступаПользователей</mdObject>
   </content>
   <content>
