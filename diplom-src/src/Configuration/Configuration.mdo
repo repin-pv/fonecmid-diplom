@@ -1248,7 +1248,6 @@
   <dataProcessors>DataProcessor.УправлениеИтогамиИАгрегатами</dataProcessors>
   <dataProcessors>DataProcessor.УКО_УправляемаяКонсольОтчетов</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_МассовоеСозданиеАктов</dataProcessors>
-  <dataProcessors>DataProcessor.ВКМ_ДлительнаяОпреация</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_МассовоеСозданиеАктовВФоне</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_ЗаполнениеГрафика</dataProcessors>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанных</informationRegisters>
