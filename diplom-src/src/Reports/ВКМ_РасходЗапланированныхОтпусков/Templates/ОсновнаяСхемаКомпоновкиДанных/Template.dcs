@@ -179,6 +179,12 @@
 					<dcsset:userSettingID>20012f70-a215-484f-bae4-31e54c022816</dcsset:userSettingID>
 				</dcscor:item>
 			</dcsset:dataParameters>
+			<dcsset:outputParameters>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:parameter>МакетОформления</dcscor:parameter>
+					<dcscor:value xsi:type="xs:string">Античный</dcscor:value>
+				</dcscor:item>
+			</dcsset:outputParameters>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">
 				<dcsset:order>
 					<dcsset:item xsi:type="dcsset:OrderItemAuto"/>

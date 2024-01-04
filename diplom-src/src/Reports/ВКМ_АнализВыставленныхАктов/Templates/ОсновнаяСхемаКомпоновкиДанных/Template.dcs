@@ -42,6 +42,14 @@
 			<dataPath>Заказ</dataPath>
 			<field>Заказ</field>
 		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>ВКМ_Клиент</dataPath>
+			<field>ВКМ_Клиент</field>
+		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>ВКМ_Договор</dataPath>
+			<field>ВКМ_Договор</field>
+		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
 	-ВКМ_ВыполненныеКлиентуРаботыОбороты.СуммаКОплатеОборот КАК СуммаКОплате,
@@ -167,6 +175,12 @@
 					<dcsset:userSettingID>0047a224-29ce-46cb-93ab-d1eb9d8a9c0e</dcsset:userSettingID>
 				</dcscor:item>
 			</dcsset:dataParameters>
+			<dcsset:outputParameters>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:parameter>МакетОформления</dcscor:parameter>
+					<dcscor:value xsi:type="xs:string">Античный</dcscor:value>
+				</dcscor:item>
+			</dcsset:outputParameters>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">
 				<dcsset:order>
 					<dcsset:item xsi:type="dcsset:OrderItemAuto"/>
