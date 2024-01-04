@@ -32,5 +32,6 @@
   <content>DataProcessor.ВКМ_ЗаполнениеГрафика</content>
   <subsystems>ВКМ_ОбслуживаниеКлиентов</subsystems>
   <subsystems>ВКМ_Справочники</subsystems>
-  <subsystems>ВКМ_Документы</subsystems>
+  <subsystems>ВКМ_РасчётУправленческойЗарплаты</subsystems>
+  <subsystems>ВКМ_Регистры</subsystems>
 </mdclass:Subsystem>

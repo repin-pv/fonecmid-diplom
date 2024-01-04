@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9b1e0f30-43bd-4d39-911a-c525c25fe974">
-  <name>ВКМ_Документы</name>
+  <name>ВКМ_РасчётУправленческойЗарплаты</name>
   <synonym>
     <key>ru</key>
-    <value>Документы</value>
+    <value>Расчёт управленческой зарплаты.</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>

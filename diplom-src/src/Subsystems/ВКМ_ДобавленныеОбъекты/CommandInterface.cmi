@@ -32,7 +32,7 @@
   </commandsVisibility>
   <subsystemsOrder>
     <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_ОбслуживаниеКлиентов</subsystems>
-    <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_Документы</subsystems>
+    <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_РасчётУправленческойЗарплаты</subsystems>
     <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_Справочники</subsystems>
   </subsystemsOrder>
 </cmi:CommandInterface>
