@@ -21,18 +21,10 @@
       <command>ChartOfCalculationTypes.ВКМ_Удержания.StandardCommand.OpenList</command>
       <visible/>
     </visibilityFragments>
-    <visibilityFragments>
-      <command>Constant.ВКМ_ИдентификаторГруппыДляОповещения.StandardCommand.Open</command>
-      <visible/>
-    </visibilityFragments>
-    <visibilityFragments>
-      <command>Constant.ВКМ_ТокенУправленияТелеграмБотом.StandardCommand.Open</command>
-      <visible/>
-    </visibilityFragments>
   </commandsVisibility>
   <subsystemsOrder>
-    <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_ОбслуживаниеКлиентов</subsystems>
+    <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_РаботаСЗаявкамиКлиентов</subsystems>
     <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_РасчётУправленческойЗарплаты</subsystems>
-    <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_Справочники</subsystems>
+    <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_Отчеты</subsystems>
   </subsystemsOrder>
 </cmi:CommandInterface>

@@ -3,7 +3,7 @@
   <name>ВКМ_ДобавленныеОбъекты</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ добавленные объекты</value>
+    <value>Добавленные объекты</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
@@ -30,8 +30,7 @@
   <content>Constant.ВКМ_ТокенУправленияТелеграмБотом</content>
   <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
   <content>DataProcessor.ВКМ_ЗаполнениеГрафика</content>
-  <subsystems>ВКМ_ОбслуживаниеКлиентов</subsystems>
-  <subsystems>ВКМ_Справочники</subsystems>
+  <subsystems>ВКМ_РаботаСЗаявкамиКлиентов</subsystems>
   <subsystems>ВКМ_РасчётУправленческойЗарплаты</subsystems>
-  <subsystems>ВКМ_Регистры</subsystems>
+  <subsystems>ВКМ_Отчеты</subsystems>
 </mdclass:Subsystem>
