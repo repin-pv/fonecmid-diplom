@@ -14,12 +14,8 @@
   <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
   <content>Document.ВКМ_ВыплатаЗарплаты</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
-  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
-  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
-  <content>CalculationRegister.ВКМ_Удержания</content>
-  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
-  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
-  <content>InformationRegister.ВКМ_ГрафикиОтпусков</content>
-  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>Catalog.ВКМ_ФизическиеЛица</content>
+  <content>Catalog.ВКМ_ГрафикиРаботы</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафика</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
