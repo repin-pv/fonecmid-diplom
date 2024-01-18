@@ -105,15 +105,18 @@
   </items>
   <items xsi:type="form:FormField">
     <name>Подразделение</name>
-    <id>7</id>
+    <id>38</id>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
       <common>true</common>
     </userVisible>
+    <dataPath xsi:type="form:DataPath">
+      <segments>Объект.Подразделение</segments>
+    </dataPath>
     <extendedTooltip>
       <name>ПодразделениеРасширеннаяПодсказка</name>
-      <id>9</id>
+      <id>40</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -128,7 +131,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>ПодразделениеКонтекстноеМеню</name>
-      <id>8</id>
+      <id>39</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -137,7 +140,7 @@
       <autoFill>true</autoFill>
     </contextMenu>
     <type>InputField</type>
-    <editMode>EnterOnInput</editMode>
+    <editMode>Enter</editMode>
     <showInHeader>true</showInHeader>
     <headerHorizontalAlign>Left</headerHorizontalAlign>
     <showInFooter>true</showInFooter>

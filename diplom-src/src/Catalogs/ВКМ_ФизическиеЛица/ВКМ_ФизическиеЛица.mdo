@@ -112,6 +112,7 @@
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.ВКМ_ФизическиеЛица.Form.ФормаЭлемента</defaultObjectForm>
   <defaultListForm>Catalog.ВКМ_ФизическиеЛица.Form.ФормаСписка</defaultListForm>
+  <defaultChoiceForm>Catalog.ВКМ_ФизическиеЛица.Form.ФормаВыбора</defaultChoiceForm>
   <attributes uuid="c940c899-7182-4993-b5cf-65ec0a6ffd54">
     <name>Комментарий</name>
     <synonym>
@@ -132,6 +133,22 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="cdc0fa45-5238-47a4-8146-ebf803a0801b">
+    <name>Подразделение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Подразделение</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ВКМ_Подразделение</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="7c8d364b-bab4-435a-adbf-41b85d6b8d09">
     <name>ФормаЭлемента</name>
     <synonym>
@@ -146,6 +163,15 @@
     <synonym>
       <key>ru</key>
       <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="768eac03-ba68-414d-8d79-4a48df73debd">
+    <name>ФормаВыбора</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма выбора</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
