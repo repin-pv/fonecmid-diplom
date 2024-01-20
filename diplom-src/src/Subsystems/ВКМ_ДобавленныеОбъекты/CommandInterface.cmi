@@ -26,5 +26,8 @@
     <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_РаботаСЗаявкамиКлиентов</subsystems>
     <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_РасчётУправленческойЗарплаты</subsystems>
     <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_Отчеты</subsystems>
+    <subsystems>70c3007f-b83b-426f-accd-a1ed67abb883</subsystems>
+    <subsystems>dc851cea-10e2-4a6f-b378-970246e605ac</subsystems>
+    <subsystems>57a73eb2-97f7-4c6e-8959-edcddc907d34</subsystems>
   </subsystemsOrder>
 </cmi:CommandInterface>
