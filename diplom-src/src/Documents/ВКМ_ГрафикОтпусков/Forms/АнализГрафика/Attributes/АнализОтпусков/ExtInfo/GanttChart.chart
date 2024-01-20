@@ -301,5 +301,4 @@
     <width>1</width>
     <style>Solid</style>
   </linksLine>
-  <predefinedLogFormTableVisible>true</predefinedLogFormTableVisible>
 </ganttchart:GanttChart>
