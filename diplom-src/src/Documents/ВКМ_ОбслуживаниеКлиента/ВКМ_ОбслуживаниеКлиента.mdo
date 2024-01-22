@@ -83,7 +83,12 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>
-    <choiceForm>Catalog.ВКМ_ФизическиеЛица.Form.ФормаВыбора</choiceForm>
+    <choiceParameters>
+      <name>Отбор.Подразделение</name>
+      <value xsi:type="core:ReferenceValue">
+        <value>Catalog.ВКМ_Подразделение.ИнженерныйОтдел</value>
+      </value>
+    </choiceParameters>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>

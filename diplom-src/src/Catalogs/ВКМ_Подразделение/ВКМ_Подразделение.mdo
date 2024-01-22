@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5e5bce00-c232-4c16-b938-ccb136e1d6b0">
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5e5bce00-c232-4c16-b938-ccb136e1d6b0">
   <producedTypes>
     <objectType typeId="e28968d6-59e3-464b-bf24-e814b4be9a23" valueTypeId="187385c3-11fb-4d49-a1d0-83a581f2838e"/>
     <refType typeId="9ae0ee3a-acb6-42d8-a574-b3e72caa1bf3" valueTypeId="2f83957c-c616-457d-8bf2-0220949fc6ae"/>
@@ -32,6 +32,29 @@
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
   <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined>
+    <items id="6b9e8082-d128-44da-ba1e-f612706ad5fb">
+      <name>Бухгалтерия</name>
+      <description>Бухгалтерия</description>
+      <code xsi:type="core:StringValue">
+        <value>000000001</value>
+      </code>
+    </items>
+    <items id="25b88aee-8799-4c9e-99a0-cf6c0be089c3">
+      <name>ИнженерныйОтдел</name>
+      <description>Инженерный отдел</description>
+      <code xsi:type="core:StringValue">
+        <value>000000002</value>
+      </code>
+    </items>
+    <items id="8a91462f-fc7c-44dc-ae9e-e15eb42f85c1">
+      <name>ОтделПродаж</name>
+      <description>Отдел продаж</description>
+      <code xsi:type="core:StringValue">
+        <value>000000003</value>
+      </code>
+    </items>
+  </predefined>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
 </mdclass:Catalog>

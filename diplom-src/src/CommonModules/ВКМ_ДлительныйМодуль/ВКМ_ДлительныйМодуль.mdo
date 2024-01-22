@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c769ac3f-381c-49c6-9368-3afa571a931e">
-  <name>ВКМ_ДлительныйМодуль</name>
-  <synonym>
-    <key>ru</key>
-    <value>Длительный модуль</value>
-  </synonym>
-  <server>true</server>
-</mdclass:CommonModule>

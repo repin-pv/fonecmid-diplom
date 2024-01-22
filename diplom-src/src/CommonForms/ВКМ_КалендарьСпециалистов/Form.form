@@ -12,6 +12,8 @@
       <segments>Планировщик</segments>
     </dataPath>
     <titleLocation>None</titleLocation>
+    <excludedCommands>Preview</excludedCommands>
+    <excludedCommands>Print</excludedCommands>
     <extendedTooltip>
       <name>ПланировщикРасширеннаяПодсказка</name>
       <id>3</id>
@@ -53,6 +55,8 @@
       <autoMaxHeight>true</autoMaxHeight>
       <horizontalStretch>true</horizontalStretch>
       <verticalStretch>true</verticalStretch>
+      <enableStartDrag>true</enableStartDrag>
+      <enableDrag>true</enableDrag>
     </extInfo>
   </items>
   <autoCommandBar>
