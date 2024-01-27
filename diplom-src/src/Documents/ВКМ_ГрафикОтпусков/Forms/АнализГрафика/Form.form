@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <items xsi:type="form:FormField">
-    <name>АнализОтпусков</name>
+    <name>ДГ</name>
     <id>1</id>
+    <title>
+      <key>ru</key>
+      <value>График отпусков (ГОД)</value>
+    </title>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
       <common>true</common>
     </userVisible>
     <dataPath xsi:type="form:DataPath">
-      <segments>АнализОтпусков</segments>
+      <segments>ДГ</segments>
     </dataPath>
     <extendedTooltip>
-      <name>АнализОтпусковРасширеннаяПодсказка</name>
+      <name>ДГРасширеннаяПодсказка</name>
       <id>3</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -27,7 +31,7 @@
       </extInfo>
     </extendedTooltip>
     <contextMenu>
-      <name>АнализОтпусковКонтекстноеМеню</name>
+      <name>ДГКонтекстноеМеню</name>
       <id>2</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -43,7 +47,7 @@
     <showInFooter>true</showInFooter>
     <extInfo xsi:type="form:GanttChartFieldExtInfo">
       <autoTable>
-        <name>АнализОтпусковТаблица</name>
+        <name>ДГТаблица</name>
         <id>4</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -51,58 +55,8 @@
           <common>true</common>
         </userVisible>
         <titleLocation>None</titleLocation>
-        <items xsi:type="form:FormField">
-          <name>АнализОтпусковТаблицаТочка</name>
-          <id>17</id>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
-          <dataPath xsi:type="form:DataPath">
-            <segments>АнализОтпусков.Point</segments>
-          </dataPath>
-          <extendedTooltip>
-            <name>АнализОтпусковТаблицаТочкаРасширеннаяПодсказка</name>
-            <id>19</id>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
-            <type>Label</type>
-            <autoMaxWidth>true</autoMaxWidth>
-            <autoMaxHeight>true</autoMaxHeight>
-            <extInfo xsi:type="form:LabelDecorationExtInfo">
-              <horizontalAlign>Left</horizontalAlign>
-            </extInfo>
-          </extendedTooltip>
-          <contextMenu>
-            <name>АнализОтпусковТаблицаТочкаКонтекстноеМеню</name>
-            <id>18</id>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
-            <autoFill>true</autoFill>
-          </contextMenu>
-          <type>InputField</type>
-          <editMode>EnterOnInput</editMode>
-          <showInHeader>true</showInHeader>
-          <headerHorizontalAlign>Left</headerHorizontalAlign>
-          <showInFooter>true</showInFooter>
-          <extInfo xsi:type="form:InputFieldExtInfo">
-            <autoMaxWidth>true</autoMaxWidth>
-            <autoMaxHeight>true</autoMaxHeight>
-            <wrap>true</wrap>
-            <chooseType>true</chooseType>
-            <typeDomainEnabled>true</typeDomainEnabled>
-            <textEdit>true</textEdit>
-          </extInfo>
-        </items>
         <autoCommandBar>
-          <name>АнализОтпусковТаблицаКоманднаяПанель</name>
+          <name>ДГТаблицаКоманднаяПанель</name>
           <id>6</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -118,10 +72,10 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <name>АнализОтпусковТаблицаСтрокаПоиска</name>
+          <name>ДГТаблицаСтрокаПоиска</name>
           <id>8</id>
           <extendedTooltip>
-            <name>АнализОтпусковТаблицаСтрокаПоискаРасширеннаяПодсказка</name>
+            <name>ДГТаблицаСтрокаПоискаРасширеннаяПодсказка</name>
             <id>10</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -136,7 +90,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>АнализОтпусковТаблицаСтрокаПоискаКонтекстноеМеню</name>
+            <name>ДГТаблицаСтрокаПоискаКонтекстноеМеню</name>
             <id>9</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -145,7 +99,7 @@
             </userVisible>
             <autoFill>true</autoFill>
           </contextMenu>
-          <source>АнализОтпусковТаблицаСтрокаПоиска</source>
+          <source>ДГТаблицаСтрокаПоиска</source>
           <extInfo xsi:type="form:SearchStringAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>
@@ -156,10 +110,10 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <name>АнализОтпусковТаблицаСостояниеПросмотра</name>
+          <name>ДГТаблицаСостояниеПросмотра</name>
           <id>11</id>
           <extendedTooltip>
-            <name>АнализОтпусковТаблицаСостояниеПросмотраРасширеннаяПодсказка</name>
+            <name>ДГТаблицаСостояниеПросмотраРасширеннаяПодсказка</name>
             <id>13</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -174,7 +128,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>АнализОтпусковТаблицаСостояниеПросмотраКонтекстноеМеню</name>
+            <name>ДГТаблицаСостояниеПросмотраКонтекстноеМеню</name>
             <id>12</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -184,7 +138,7 @@
             <autoFill>true</autoFill>
           </contextMenu>
           <type>ViewStatusAddition</type>
-          <source>АнализОтпусковТаблицаСостояниеПросмотра</source>
+          <source>ДГТаблицаСостояниеПросмотра</source>
           <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>
@@ -195,10 +149,10 @@
           <userVisible>
             <common>true</common>
           </userVisible>
-          <name>АнализОтпусковТаблицаУправлениеПоиском</name>
+          <name>ДГТаблицаУправлениеПоиском</name>
           <id>14</id>
           <extendedTooltip>
-            <name>АнализОтпусковТаблицаУправлениеПоискомРасширеннаяПодсказка</name>
+            <name>ДГТаблицаУправлениеПоискомРасширеннаяПодсказка</name>
             <id>16</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -213,7 +167,7 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>АнализОтпусковТаблицаУправлениеПоискомКонтекстноеМеню</name>
+            <name>ДГТаблицаУправлениеПоискомКонтекстноеМеню</name>
             <id>15</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -223,13 +177,13 @@
             <autoFill>true</autoFill>
           </contextMenu>
           <type>SearchControlAddition</type>
-          <source>АнализОтпусковТаблицаУправлениеПоиском</source>
+          <source>ДГТаблицаУправлениеПоиском</source>
           <extInfo xsi:type="form:SearchControlAdditionExtInfo">
             <autoMaxWidth>true</autoMaxWidth>
           </extInfo>
         </searchControlAddition>
         <extendedTooltip>
-          <name>АнализОтпусковТаблицаРасширеннаяПодсказка</name>
+          <name>ДГТаблицаРасширеннаяПодсказка</name>
           <id>7</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -244,7 +198,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>АнализОтпусковТаблицаКонтекстноеМеню</name>
+          <name>ДГТаблицаКонтекстноеМеню</name>
           <id>5</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -294,7 +248,6 @@
       <common>true</common>
     </userVisible>
     <horizontalAlign>Left</horizontalAlign>
-    <autoFill>true</autoFill>
   </autoCommandBar>
   <handlers>
     <event>OnOpen</event>
@@ -313,12 +266,33 @@
   <showTitle>true</showTitle>
   <showCloseButton>true</showCloseButton>
   <attributes>
-    <name>АнализОтпусков</name>
+    <name>Объект</name>
     <title>
       <key>ru</key>
-      <value>Анализ отпусков</value>
+      <value>Объект</value>
     </title>
     <id>1</id>
+    <valueType>
+      <types>DocumentObject.ВКМ_ГрафикОтпусков</types>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
+      <segments>Объект.RegisterRecords</segments>
+    </notDefaultUseAlwaysAttributes>
+    <main>true</main>
+  </attributes>
+  <attributes>
+    <name>ДГ</name>
+    <title>
+      <key>ru</key>
+      <value>ДГ</value>
+    </title>
+    <id>2</id>
     <valueType>
       <types>GanttChart</types>
     </valueType>
@@ -330,8 +304,102 @@
     </edit>
     <extInfo xsi:type="form:GanttChartExtInfo"/>
   </attributes>
+  <attributes>
+    <name>ОтпускаСотрудников</name>
+    <title>
+      <key>ru</key>
+      <value>Отпуска сотрудников</value>
+    </title>
+    <id>3</id>
+    <valueType>
+      <types>ValueTable</types>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+    <columns>
+      <name>Сотрудник</name>
+      <title>
+        <key>ru</key>
+        <value>Сотрудник</value>
+      </title>
+      <id>1</id>
+      <valueType>
+        <types>CatalogRef.ВКМ_ФизическиеЛица</types>
+      </valueType>
+      <view>
+        <common>true</common>
+      </view>
+      <edit>
+        <common>true</common>
+      </edit>
+    </columns>
+    <columns>
+      <name>ДатаНачала</name>
+      <title>
+        <key>ru</key>
+        <value>Дата начала</value>
+      </title>
+      <id>2</id>
+      <valueType>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </valueType>
+      <view>
+        <common>true</common>
+      </view>
+      <edit>
+        <common>true</common>
+      </edit>
+    </columns>
+    <columns>
+      <name>ДатаОкончания</name>
+      <title>
+        <key>ru</key>
+        <value>Дата окончания</value>
+      </title>
+      <id>3</id>
+      <valueType>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </valueType>
+      <view>
+        <common>true</common>
+      </view>
+      <edit>
+        <common>true</common>
+      </edit>
+    </columns>
+  </attributes>
+  <attributes>
+    <name>Период</name>
+    <title>
+      <key>ru</key>
+      <value>Период</value>
+    </title>
+    <id>4</id>
+    <valueType>
+      <types>StandardPeriod</types>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
   <commandInterface>
     <navigationPanel/>
     <commandBar/>
   </commandInterface>
+  <extInfo xsi:type="form:DocumentFormExtInfo">
+    <repostOnWrite>true</repostOnWrite>
+  </extInfo>
 </form:Form>
