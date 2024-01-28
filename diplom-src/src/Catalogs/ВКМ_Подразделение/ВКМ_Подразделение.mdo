@@ -23,6 +23,10 @@
     <key>ru</key>
     <value>Подразделение</value>
   </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Подразделения</value>
+  </listPresentation>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
   <codeLength>9</codeLength>
@@ -34,24 +38,17 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <predefined>
     <items id="6b9e8082-d128-44da-ba1e-f612706ad5fb">
-      <name>Бухгалтерия</name>
-      <description>Бухгалтерия</description>
+      <name>АдминистративныйПерсонал</name>
+      <description>Администрация</description>
       <code xsi:type="core:StringValue">
         <value>000000001</value>
       </code>
     </items>
     <items id="25b88aee-8799-4c9e-99a0-cf6c0be089c3">
       <name>ИнженерныйОтдел</name>
-      <description>Инженерный отдел</description>
+      <description>Специалисты</description>
       <code xsi:type="core:StringValue">
         <value>000000002</value>
-      </code>
-    </items>
-    <items id="8a91462f-fc7c-44dc-ae9e-e15eb42f85c1">
-      <name>ОтделПродаж</name>
-      <description>Отдел продаж</description>
-      <code xsi:type="core:StringValue">
-        <value>000000003</value>
       </code>
     </items>
   </predefined>

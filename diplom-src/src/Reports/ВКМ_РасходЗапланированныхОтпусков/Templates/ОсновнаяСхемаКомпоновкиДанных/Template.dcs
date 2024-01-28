@@ -7,54 +7,49 @@
 	<dataSet xsi:type="DataSetQuery">
 		<name>НаборДанных1</name>
 		<field xsi:type="DataSetFieldField">
-			<dataPath>Сотрудник</dataPath>
-			<field>Сотрудник</field>
-		</field>
-		<field xsi:type="DataSetFieldField">
-			<dataPath>ДнейПоПлану</dataPath>
-			<field>ДнейПоПлану</field>
+			<dataPath>КоличествоДнейПоПлану</dataPath>
+			<field>КоличествоДнейПоПлану</field>
 			<title xsi:type="v8:LocalStringType">
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Дней по плану</v8:content>
+					<v8:content>Количество дней по плану</v8:content>
+				</v8:item>
+			</title>
+			<role>
+				<dcscom:dimension>true</dcscom:dimension>
+			</role>
+		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>ФактическиВОтпуске</dataPath>
+			<field>ФактическиВОтпуске</field>
+			<title xsi:type="v8:LocalStringType">
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Фактически в отпуске</v8:content>
 				</v8:item>
 			</title>
 		</field>
 		<field xsi:type="DataSetFieldField">
-			<dataPath>ДнейИспользовано</dataPath>
-			<field>ДнейИспользовано</field>
+			<dataPath>Сотрудник</dataPath>
+			<field>Сотрудник</field>
 			<title xsi:type="v8:LocalStringType">
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Дней использовано</v8:content>
+					<v8:content>Сотрудник</v8:content>
 				</v8:item>
 			</title>
 		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
-	ВКМ_ГрафикиОтпусков.Сотрудник КАК Сотрудник,
-	СУММА(ВКМ_ГрафикиОтпусков.Значение) КАК ДнейПоПлану
-ПОМЕСТИТЬ ВТ_План
-ИЗ
-	РегистрСведений.ВКМ_ГрафикиОтпусков КАК ВКМ_ГрафикиОтпусков
-{ГДЕ
-	ВКМ_ГрафикиОтпусков.Дата МЕЖДУ &amp;Начало И &amp;Конец}
-
-СГРУППИРОВАТЬ ПО
-	ВКМ_ГрафикиОтпусков.Сотрудник
-;
-
-////////////////////////////////////////////////////////////////////////////////
-ВЫБРАТЬ
 	ВКМ_ОсновныеНачисления.Сотрудник КАК Сотрудник,
-	СУММА(ВКМ_ОсновныеНачисления.ДнейОтработано) КАК ДнейОтработано
-ПОМЕСТИТЬ ВТ_Факт
+	СУММА(РАЗНОСТЬДАТ(ВКМ_ОсновныеНачисления.ПериодДействияНачало, ВКМ_ОсновныеНачисления.ПериодДействияКонец, ДЕНЬ)) КАК ФактическиВОтпуске
+ПОМЕСТИТЬ ВТ_ФактическийОтпуск
 ИЗ
 	РегистрРасчета.ВКМ_ОсновныеНачисления КАК ВКМ_ОсновныеНачисления
 ГДЕ
-	ВКМ_ОсновныеНачисления.ВидРасчета = &amp;ВидРасчета
-{ГДЕ
-	ВКМ_ОсновныеНачисления.ПериодДействия МЕЖДУ &amp;Начало И &amp;Конец}
+	ВКМ_ОсновныеНачисления.ПериодДействияНачало &gt;= &amp;ПериодДействияНачало
+	И ВКМ_ОсновныеНачисления.ПериодДействияКонец &lt;= &amp;ПериодДействияКонец
+	И ВКМ_ОсновныеНачисления.ВидРасчета = ЗНАЧЕНИЕ(ПланВидовРасчета.ВКМ_ОсновныеНачисления.Отпуск)
 
 СГРУППИРОВАТЬ ПО
 	ВКМ_ОсновныеНачисления.Сотрудник
@@ -62,23 +57,35 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 ВЫБРАТЬ
-	ВТ_План.ДнейПоПлану КАК ДнейПоПлану,
-	ВТ_Факт.ДнейОтработано КАК ДнейИспользовано,
-	ВКМ_ФизическиеЛица.Ссылка КАК Сотрудник
+	ВКМ_ГрафикиОтпусков.Сотрудник КАК Сотрудник,
+	СУММА(РАЗНОСТЬДАТ(ВКМ_ГрафикиОтпусков.ДатаНачала, ВКМ_ГрафикиОтпусков.ДатаОкончания, ДЕНЬ)) КАК КоличествоДнейПоПлану
+ПОМЕСТИТЬ ВТ_ПлановыйОтпуск
+ИЗ
+	РегистрСведений.ВКМ_ГрафикиОтпусков КАК ВКМ_ГрафикиОтпусков
+
+СГРУППИРОВАТЬ ПО
+	ВКМ_ГрафикиОтпусков.Сотрудник
+;
+
+////////////////////////////////////////////////////////////////////////////////
+ВЫБРАТЬ
+	ВКМ_ФизическиеЛица.Ссылка КАК Сотрудник,
+	ЕСТЬNULL(ВТ_ПлановыйОтпуск.КоличествоДнейПоПлану, 0) КАК КоличествоДнейПоПлану,
+	ЕСТЬNULL(ВТ_ФактическийОтпуск.ФактическиВОтпуске, 0) КАК ФактическиВОтпуске
 ИЗ
 	Справочник.ВКМ_ФизическиеЛица КАК ВКМ_ФизическиеЛица
-		ЛЕВОЕ СОЕДИНЕНИЕ ВТ_План КАК ВТ_План
-		ПО ВКМ_ФизическиеЛица.Ссылка = ВТ_План.Сотрудник
-		ЛЕВОЕ СОЕДИНЕНИЕ ВТ_Факт КАК ВТ_Факт
-		ПО ВКМ_ФизическиеЛица.Ссылка = ВТ_Факт.Сотрудник</query>
+		ЛЕВОЕ СОЕДИНЕНИЕ ВТ_ФактическийОтпуск КАК ВТ_ФактическийОтпуск
+		ПО ВКМ_ФизическиеЛица.Ссылка = ВТ_ФактическийОтпуск.Сотрудник
+		ЛЕВОЕ СОЕДИНЕНИЕ ВТ_ПлановыйОтпуск КАК ВТ_ПлановыйОтпуск
+		ПО ВКМ_ФизическиеЛица.Ссылка = ВТ_ПлановыйОтпуск.Сотрудник</query>
 	</dataSet>
 	<totalField>
-		<dataPath>ДнейИспользовано</dataPath>
-		<expression>Сумма(ДнейИспользовано)</expression>
+		<dataPath>КоличествоДнейПоПлану</dataPath>
+		<expression>Сумма(КоличествоДнейПоПлану)</expression>
 	</totalField>
 	<totalField>
-		<dataPath>ДнейПоПлану</dataPath>
-		<expression>Сумма(ДнейПоПлану)</expression>
+		<dataPath>ФактическиВОтпуске</dataPath>
+		<expression>Сумма(ФактическиВОтпуске)</expression>
 	</totalField>
 	<parameter>
 		<name>ВидРасчета</name>
@@ -148,6 +155,40 @@
 		</value>
 		<useRestriction>false</useRestriction>
 	</parameter>
+	<parameter>
+		<name>ПериодДействияКонец</name>
+		<title xsi:type="v8:LocalStringType">
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>Период действия конец</v8:content>
+			</v8:item>
+		</title>
+		<valueType>
+			<v8:Type>xs:dateTime</v8:Type>
+			<v8:DateQualifiers>
+				<v8:DateFractions>DateTime</v8:DateFractions>
+			</v8:DateQualifiers>
+		</valueType>
+		<value xsi:type="xs:dateTime">0001-01-01T00:00:00</value>
+		<useRestriction>true</useRestriction>
+	</parameter>
+	<parameter>
+		<name>ПериодДействияНачало</name>
+		<title xsi:type="v8:LocalStringType">
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>Период действия начало</v8:content>
+			</v8:item>
+		</title>
+		<valueType>
+			<v8:Type>xs:dateTime</v8:Type>
+			<v8:DateQualifiers>
+				<v8:DateFractions>DateTime</v8:DateFractions>
+			</v8:DateQualifiers>
+		</valueType>
+		<value xsi:type="xs:dateTime">0001-01-01T00:00:00</value>
+		<useRestriction>true</useRestriction>
+	</parameter>
 	<settingsVariant>
 		<dcsset:name>Основной</dcsset:name>
 		<dcsset:presentation xsi:type="v8:LocalStringType">
@@ -162,10 +203,10 @@
 					<dcsset:field>Сотрудник</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>ДнейПоПлану</dcsset:field>
+					<dcsset:field>КоличествоДнейПоПлану</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>ДнейИспользовано</dcsset:field>
+					<dcsset:field>ФактическиВОтпуске</dcsset:field>
 				</dcsset:item>
 			</dcsset:selection>
 			<dcsset:dataParameters>

@@ -768,6 +768,10 @@
       <dataPath xsi:type="form:DataPath">
         <segments>Объект.ВКМ_ВыполненныеРаботы.ВКМ_ФактическиПотраченоЧасов</segments>
       </dataPath>
+      <handlers>
+        <event>OnChange</event>
+        <name>ВКМ_ВыполненныеРаботыВКМ_ФактическиПотраченоЧасовПриИзменении</name>
+      </handlers>
       <extendedTooltip>
         <name>ВКМ_ВыполненныеРаботыВКМ_ФактическиПотраченоЧасовРасширеннаяПодсказка</name>
         <id>52</id>

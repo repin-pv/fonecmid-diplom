@@ -33,13 +33,17 @@
 				</v8:item>
 			</title>
 		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>ВКМ_Сотрудник</dataPath>
+			<field>ВКМ_Сотрудник</field>
+		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
-	ВКМ_ВыполненныеСотрудникомРаботыОстаткиИОбороты.Сотрудник КАК Сотрудник,
-	-ВКМ_ВыполненныеСотрудникомРаботыОстаткиИОбороты.ЧасовКОплатеОборот КАК ОтработаноЧасов,
-	-ВКМ_ВыполненныеСотрудникомРаботыОстаткиИОбороты.СуммаКОплатеОборот КАК СуммаКОплате
+	ВКМ_ВыполненныеСотрудникомРаботыОстаткиИОбороты.ВКМ_Сотрудник КАК Сотрудник,
+	ВКМ_ВыполненныеСотрудникомРаботыОстаткиИОбороты.ЧасовКОплатеОборот КАК ОтработаноЧасов,
+	ВКМ_ВыполненныеСотрудникомРаботыОстаткиИОбороты.СуммаКОплатеОборот КАК СуммаКОплате
 ИЗ
-	РегистрНакопления.ВКМ_ВыполненныеСотрудникомРаботы.ОстаткиИОбороты({&amp;НачалоПериода}, {&amp;КонецПериода}, , , {Сотрудник = &amp;Сотрудник}) КАК ВКМ_ВыполненныеСотрудникомРаботыОстаткиИОбороты</query>
+	РегистрНакопления.ВКМ_ВыполненныеСотрудникомРаботы.ОстаткиИОбороты({(&amp;НачалоПериода)}, {(&amp;КонецПериода)}, , , {(ВКМ_Сотрудник = &amp;Сотрудник)}) КАК ВКМ_ВыполненныеСотрудникомРаботыОстаткиИОбороты</query>
 	</dataSet>
 	<totalField>
 		<dataPath>ОтработаноЧасов</dataPath>
@@ -169,6 +173,16 @@
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:parameter>МакетОформления</dcscor:parameter>
 					<dcscor:value xsi:type="xs:string">Античный</dcscor:value>
+				</dcscor:item>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:use>false</dcscor:use>
+					<dcscor:parameter>ТипДиаграммы</dcscor:parameter>
+					<dcscor:value xsi:type="v8ui:ChartType">Column</dcscor:value>
+					<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+						<dcscor:use>false</dcscor:use>
+						<dcscor:parameter>ТипДиаграммы.Шрифт</dcscor:parameter>
+						<dcscor:value xsi:type="v8ui:Font" ref="style:TextFont" height="9" kind="StyleItem"/>
+					</dcscor:item>
 				</dcscor:item>
 			</dcsset:outputParameters>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">
