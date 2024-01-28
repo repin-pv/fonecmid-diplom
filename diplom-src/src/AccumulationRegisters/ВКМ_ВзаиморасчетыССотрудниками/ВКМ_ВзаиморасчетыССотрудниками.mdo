@@ -75,10 +75,10 @@
     <fullTextSearch>Use</fullTextSearch>
   </resources>
   <dimensions uuid="b88adf4c-453f-4210-a042-74ef6c4b63ce">
-    <name>Сотрудник</name>
+    <name>ВКМ_Сотрудник</name>
     <synonym>
       <key>ru</key>
-      <value>Сотрудник</value>
+      <value>ВКМ сотрудник</value>
     </synonym>
     <type>
       <types>CatalogRef.ВКМ_ФизическиеЛица</types>

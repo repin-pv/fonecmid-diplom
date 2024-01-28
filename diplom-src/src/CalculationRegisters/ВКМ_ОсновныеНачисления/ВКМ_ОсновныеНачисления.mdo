@@ -24,10 +24,10 @@
   <chartOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</chartOfCalculationTypes>
   <dataLockControlMode>Managed</dataLockControlMode>
   <resources uuid="0f14a2b3-f3d5-4c08-aaae-a5533ca4cf26">
-    <name>Сумма</name>
+    <name>Результат</name>
     <synonym>
       <key>ru</key>
-      <value>Сумма</value>
+      <value>Результат</value>
     </synonym>
     <type>
       <types>Number</types>
@@ -41,15 +41,32 @@
     <fullTextSearch>Use</fullTextSearch>
   </resources>
   <resources uuid="220956d5-e45a-4211-87a7-ad492cd8e7e1">
-    <name>ДнейОтработано</name>
+    <name>ОтработаноДней</name>
     <synonym>
       <key>ru</key>
-      <value>Дней отработано</value>
+      <value>Отработано дней</value>
     </synonym>
     <type>
       <types>Number</types>
       <numberQualifiers>
         <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <resources uuid="c62a2b66-c049-42f0-90ea-74e706ec33b2">
+    <name>КалендарныеДни</name>
+    <synonym>
+      <key>ru</key>
+      <value>Календарные дни</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <nonNegative>true</nonNegative>
       </numberQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>

@@ -111,16 +111,17 @@
   </standardAttributes>
   <dataLockControlMode>Managed</dataLockControlMode>
   <resources uuid="7bd7dc09-1bdd-4203-a723-d3868cc80ad2">
-    <name>Сумма</name>
+    <name>НДФЛ</name>
     <synonym>
       <key>ru</key>
-      <value>Сумма</value>
+      <value>НДФЛ</value>
     </synonym>
     <type>
       <types>Number</types>
       <numberQualifiers>
         <precision>10</precision>
         <scale>2</scale>
+        <nonNegative>true</nonNegative>
       </numberQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>

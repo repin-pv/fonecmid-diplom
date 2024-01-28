@@ -111,10 +111,10 @@
   </standardAttributes>
   <dataLockControlMode>Managed</dataLockControlMode>
   <resources uuid="5e6178eb-374a-4d98-b781-2d8d4a492f6e">
-    <name>Сумма</name>
+    <name>Результат</name>
     <synonym>
       <key>ru</key>
-      <value>Сумма</value>
+      <value>Результат</value>
     </synonym>
     <type>
       <types>Number</types>
@@ -127,6 +127,36 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
+  <attributes uuid="b85b6b0b-b14a-4865-af23-267ec4303c15">
+    <name>Показатель</name>
+    <synonym>
+      <key>ru</key>
+      <value>Показатель</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
+  <attributes uuid="726473dd-c043-4115-bbf5-8a3201b0664b">
+    <name>ГрафикРаботы</name>
+    <synonym>
+      <key>ru</key>
+      <value>График работы</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ВКМ_ГрафикиРаботы</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
   <dimensions uuid="83f6d424-8393-4c23-8e08-963659aba050">
     <name>Сотрудник</name>
     <synonym>

@@ -19,8 +19,8 @@
     <value>Дополнительные начисления</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.StandardAttribute.Description</inputByString>
   <inputByString>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.StandardAttribute.Code</inputByString>
+  <inputByString>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>DontUse</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
@@ -32,11 +32,19 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <actionPeriodUse>true</actionPeriodUse>
+  <dependenceOnCalculationTypes>OnActionPeriod</dependenceOnCalculationTypes>
+  <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
   <predefined>
-    <items id="b424b37c-8d8a-459d-95ce-7bda70a754f4">
-      <name>Премия</name>
-      <description>Премия</description>
+    <items id="f7e1d9a9-94d4-4711-809b-1d3bcc576746">
+      <name>ВКМ_ПремияОтПродаж</name>
+      <description>Премия от продаж</description>
+      <code xsi:type="core:StringValue">
+        <value>2</value>
+      </code>
+    </items>
+    <items id="8f5ab84a-ccdd-482c-a3a0-dd5b428f1357">
+      <name>ВКМ_ПремияФиксированная</name>
+      <description>Премия фиксированная</description>
       <code xsi:type="core:StringValue">
         <value>1</value>
       </code>

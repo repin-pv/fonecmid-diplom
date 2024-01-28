@@ -659,10 +659,13 @@
         </extInfo>
       </extendedTooltip>
       <commandName>Form.Command.АнализГрафика</commandName>
-      <representation>Auto</representation>
+      <representation>PictureAndText</representation>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
       <placementArea>UserCmds</placementArea>
+      <picture xsi:type="core:PictureRef">
+        <picture>StdPicture.AppearanceCheckIcon</picture>
+      </picture>
       <representationInContextMenu>Auto</representationInContextMenu>
     </items>
     <items xsi:type="form:Button">
@@ -689,10 +692,13 @@
         </extInfo>
       </extendedTooltip>
       <commandName>Form.Command.ЗаполнитьСотрудников</commandName>
-      <representation>Auto</representation>
+      <representation>PictureAndText</representation>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
       <placementArea>UserCmds</placementArea>
+      <picture xsi:type="core:PictureRef">
+        <picture>StdPicture.AppearanceCheckBox</picture>
+      </picture>
       <representationInContextMenu>Auto</representationInContextMenu>
     </items>
     <visible>true</visible>

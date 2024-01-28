@@ -19,10 +19,11 @@
     <value>Основные начисления</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.StandardAttribute.Description</inputByString>
   <inputByString>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.StandardAttribute.Code</inputByString>
+  <inputByString>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
   <fullTextSearch>Use</fullTextSearch>
   <codeLength>9</codeLength>
   <descriptionLength>40</descriptionLength>
@@ -35,30 +36,22 @@
   <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
   <actionPeriodUse>true</actionPeriodUse>
   <predefined>
-    <items id="b83e12b5-7b44-4900-8bf1-b151b386395e">
+    <items id="d9642876-d20a-4bad-a4e5-327554befccf">
       <name>Оклад</name>
       <description>Оклад</description>
       <code xsi:type="core:StringValue">
         <value>1</value>
       </code>
-      <displaced>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпускные</displaced>
+      <displaced>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</displaced>
     </items>
-    <items id="daabe381-8808-41ad-8f96-337cc3118c58">
-      <name>Отпускные</name>
-      <description>Отпускные</description>
+    <items id="0c4b3f13-2104-4901-bc65-df363b0b596c">
+      <name>Отпуск</name>
+      <description>Отпуск</description>
       <code xsi:type="core:StringValue">
         <value>2</value>
       </code>
       <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</base>
-      <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.ПроцентОтРабот</base>
-      <leading>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</leading>
-    </items>
-    <items id="26ba3cf0-19f2-4a6b-9fff-cc00d5d08250">
-      <name>ПроцентОтРабот</name>
-      <description>Процент от работ</description>
-      <code xsi:type="core:StringValue">
-        <value>3</value>
-      </code>
+      <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</base>
     </items>
   </predefined>
 </mdclass:ChartOfCalculationTypes>

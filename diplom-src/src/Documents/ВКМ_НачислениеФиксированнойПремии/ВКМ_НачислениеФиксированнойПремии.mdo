@@ -64,20 +64,30 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
+  <defaultObjectForm>Document.ВКМ_НачислениеФиксированнойПремии.Form.ФормаДокумента</defaultObjectForm>
   <registerRecords>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</registerRecords>
   <registerRecords>CalculationRegister.ВКМ_Удержания</registerRecords>
   <registerRecords>CalculationRegister.ВКМ_ДополнительныеНачисления</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <forms uuid="77dbb310-ebb9-4956-8abc-f302dab48fce">
+    <name>ФормаДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма документа</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
   <tabularSections uuid="83444ea9-75cf-4060-b869-fc36452dd05f">
     <producedTypes>
       <objectType typeId="52edda28-cf47-476f-9f48-d8a65e7d810a" valueTypeId="439f76eb-ef80-48f8-8502-6fd720601cc0"/>
       <rowType typeId="73e13961-fa6b-4706-9f8a-f44d1c532823" valueTypeId="23471728-c6e4-4a41-9e19-a2a176538e47"/>
     </producedTypes>
-    <name>НачислениеПремии</name>
+    <name>СписокСотрудников</name>
     <synonym>
       <key>ru</key>
-      <value>Начисление премии</value>
+      <value>Список сотрудников</value>
     </synonym>
     <standardAttributes>
       <dataHistory>Use</dataHistory>
@@ -101,17 +111,51 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
-    <attributes uuid="8460e90f-e2a2-4aee-b8df-e895ea0490c1">
-      <name>СуммаПремии</name>
+    <attributes uuid="a0476fff-0dd5-41c5-a520-68668af1a1aa">
+      <name>ВидРасчета</name>
       <synonym>
         <key>ru</key>
-        <value>Сумма премии</value>
+        <value>Вид расчета</value>
+      </synonym>
+      <type>
+        <types>ChartOfCalculationTypesRef.ВКМ_ДополнительныеНачисления</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="8460e90f-e2a2-4aee-b8df-e895ea0490c1">
+      <name>СуммаНачисления</name>
+      <synonym>
+        <key>ru</key>
+        <value>Сумма начисления</value>
       </synonym>
       <type>
         <types>Number</types>
         <numberQualifiers>
           <precision>10</precision>
           <scale>2</scale>
+          <nonNegative>true</nonNegative>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="a796c6b8-fcea-4aae-8ac5-8e457291d10f">
+      <name>СуммаКВыплате</name>
+      <synonym>
+        <key>ru</key>
+        <value>Сумма к выплате</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+          <scale>2</scale>
+          <nonNegative>true</nonNegative>
         </numberQualifiers>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>

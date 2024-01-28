@@ -110,10 +110,10 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
     <attributes uuid="3faddcd3-a4f5-47d1-877e-3d831a0d5a12">
-      <name>Сумма</name>
+      <name>СуммаКВыплате</name>
       <synonym>
         <key>ru</key>
-        <value>Сумма</value>
+        <value>Сумма к выплате</value>
       </synonym>
       <type>
         <types>Number</types>
