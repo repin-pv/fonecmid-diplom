@@ -934,7 +934,7 @@
             <common>true</common>
           </userVisible>
           <dataPath xsi:type="form:DataPath">
-            <segments>Объект.ДополнительныеНачисления.СуммаКВыплате</segments>
+            <segments>1/0:d6895e10-e70f-4ef9-a446-78802b5a9d43/0:97fb708e-66e3-4247-8893-f786bda71572</segments>
           </dataPath>
           <extendedTooltip>
             <name>ДополнительныеНачисленияСуммаКВыплатеРасширеннаяПодсказка</name>
@@ -1306,7 +1306,32 @@
     <currentRowUse>Auto</currentRowUse>
   </formCommands>
   <commandInterface>
-    <navigationPanel/>
+    <navigationPanel>
+      <cmiFragmentRecord>
+        <command>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками.StandardCommand.OpenByRecorder</command>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>CalculationRegister.ВКМ_ДополнительныеНачисления.StandardCommand.OpenByRecorder</command>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>CalculationRegister.ВКМ_ОсновныеНачисления.StandardCommand.OpenByRecorder</command>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>CalculationRegister.ВКМ_Удержания.StandardCommand.OpenByRecorder</command>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+    </navigationPanel>
     <commandBar/>
   </commandInterface>
   <extInfo xsi:type="form:DocumentFormExtInfo">

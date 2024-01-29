@@ -237,6 +237,7 @@
       <autoMaxHeight>true</autoMaxHeight>
       <horizontalStretch>true</horizontalStretch>
       <verticalStretch>true</verticalStretch>
+      <tableLocation>None</tableLocation>
     </extInfo>
   </items>
   <autoCommandBar>
